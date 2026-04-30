@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:10
 msgid ""
@@ -124,7 +132,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:118
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_CLONEBAY_NOLOSS\"]/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 35~]"
 
 #: src-en/data/events_special_storage.xml.append:120
 msgid ""
@@ -184,7 +192,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"MULTIVERSAL_INSTALL_AMPLIFIER\"]/choice[@req=\"teleporter\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 90~, 5|, 4}, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:170
 msgid ""
@@ -217,7 +225,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"MULTIVERSAL_INSTALL_CAPACITOR\"]/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 75~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:205
 msgid ""
@@ -249,7 +257,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_SEALANT\"]/choice[@req=\"reactor\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 25~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:239
 msgid ""
@@ -289,7 +297,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_EXTINGUISHERS\"]/choice[@req=\"reactor\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 35~, 4{, 1}]"
 
 #: src-en/data/events_special_storage.xml.append:273
 msgid ""
@@ -329,7 +337,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_BYPASS\"]/choice[@req=\"reactor\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:308
 msgid ""
@@ -369,7 +377,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_SCRAMBLER\"]/choice[@req=\"reactor\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 100~, 9|]"
 
 #: src-en/data/events_special_storage.xml.append:342
 msgid ""
@@ -470,7 +478,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_SCRAP\"]/choice[@req=\"reactor\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:436
 msgid ""
@@ -501,7 +509,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:464
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_MAGNET\"]/choice[@req=\"reactor\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 55~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:466
 msgid ""
@@ -532,7 +540,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_DRONE\"]/choice[@req=\"reactor\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:497
 msgid ""
@@ -563,7 +571,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:526
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_REPAIR\"]/choice[@req=\"reactor\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 25~]"
 
 #: src-en/data/events_special_storage.xml.append:528
 msgid ""
@@ -595,7 +603,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_JUMPER\"]/choice[@req=\"engines\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 15~, 2{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:557
 msgid ""
@@ -635,7 +643,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_PERFORMANCE\"]/choice[@req=\"engines\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 15~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:592
 msgid ""
@@ -675,7 +683,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_ION\"]/choice[@req=\"shields\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:627
 msgid ""
@@ -715,7 +723,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_STUN\"]/choice[@req=\"shields\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 10~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:661
 msgid ""
@@ -754,7 +762,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:694
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_PERFORMANCE\"]/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 30~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:696
 msgid ""
@@ -786,7 +794,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_REPLICATOR\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~, 9}]"
 
 #: src-en/data/events_special_storage.xml.append:726
 msgid ""
@@ -826,7 +834,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_PERFORMANCE\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~, 7}]"
 
 #: src-en/data/events_special_storage.xml.append:760
 msgid ""
@@ -865,7 +873,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_BEAM\"]/choice[@req=\"can_get_beam_pierce\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 70~, 9}]"
 
 #: src-en/data/events_special_storage.xml.append:794
 msgid ""
@@ -901,7 +909,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:827
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_MIND_BUFF\"]/choice[@req=\"mind\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 20~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
@@ -933,7 +941,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_MIND_IMMUNITY\"]/choice[@req=\"mind\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 55~, 2}]"
 
 #: src-en/data/events_special_storage.xml.append:860
 msgid ""
@@ -972,7 +980,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_HACK_STUN\"]/choice[@req=\"hacking\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 50~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:895
 msgid ""
@@ -1034,7 +1042,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_BATTERY_PERFORMANCE\"]/choice[@req=\"battery\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 25~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:956
 msgid ""
@@ -1065,7 +1073,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:985
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_BATTERY_GENERATOR\"]/choice[@req=\"battery\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 45~, 6{]"
 
 #: src-en/data/events_special_storage.xml.append:987
 msgid ""
@@ -1096,7 +1104,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1016
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_NOPHASE\"]/choice[@req=\"doors\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 25~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:1018
 msgid ""
@@ -1128,7 +1136,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_DRONE_SPEED\"]/choice[@req=\"drones\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 20~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:1047
 msgid ""
@@ -1168,7 +1176,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_LEVEL4\"]/choice[@req=\"teleporter\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 60~, 3|]"
 
 #: src-en/data/events_special_storage.xml.append:1081
 msgid ""
@@ -1208,7 +1216,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_HEAL\"]/choice[@req=\"teleporter\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:1117
 msgid ""
@@ -1254,7 +1262,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL3\"]/choice[@req=\"UPG_CLOAK_FIRE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 55~, 3{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1155
 msgid ""
@@ -1272,7 +1280,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL3\"]/choice[@req=\"UPG_CLOAK_FIRE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Не совместимо с теневым вооружением."
 
 #: src-en/data/events_special_storage.xml.append:1174
 msgid ""
@@ -1299,7 +1307,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL4\"]/choice[@req=\"UPG_CLOAK_FIRE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 70~, 5{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1195
 msgid ""
@@ -1317,7 +1325,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL4\"]/choice[@req=\"UPG_CLOAK_FIRE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Не совместимо с теневым вооружением."
 
 #: src-en/data/events_special_storage.xml.append:1214
 msgid ""
@@ -1344,7 +1352,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL5\"]/choice[@req=\"UPG_CLOAK_FIRE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 105~, 5{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1235
 msgid ""
@@ -1362,7 +1370,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL5\"]/choice[@req=\"UPG_CLOAK_FIRE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Улучшение недоступно. Не совместимо с теневым вооружением."
 
 #: src-en/data/events_special_storage.xml.append:1254
 msgid ""
@@ -1389,7 +1397,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_FIRE\"]/choice[@req=\"cloaking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 45~, 4}, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:1275
 msgid ""
@@ -1434,7 +1442,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_LEVEL4\"]/choice[@req=\"UPG_MEDBAY_NANO\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 80~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1315
 msgid ""
@@ -1474,7 +1482,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_NANO\"]/choice[@req=\"medbay\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 40~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:1350
 msgid ""
@@ -1513,7 +1521,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1382
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_SPEED\"]/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 15~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:1384
 msgid ""
@@ -1544,7 +1552,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_RESISTANCE\"]/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "Установить улучшение. [Цена: 10~]"
 
 #: src-en/data/events_special_storage.xml.append:1414
 msgid ""
@@ -2162,7 +2170,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER_HEALTH\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 25~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:1991
 msgid ""
@@ -2187,7 +2195,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2018
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER_DAMAGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 50~, 1{]"
 
 #: src-en/data/events_special_storage.xml.append:2020
 msgid ""
@@ -2345,7 +2353,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_BOARDING_GEAR\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 35~, 2|]"
 
 #: src-en/data/events_special_storage.xml.append:2316
 msgid ""
@@ -2370,7 +2378,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2339
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_DEFENSE_FIELD_GENERATOR\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 50~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:2341
 msgid ""
@@ -2395,7 +2403,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2363
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_TELEPATHIC_RESISTORS\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 75~, 6|]"
 
 #: src-en/data/events_special_storage.xml.append:2365
 msgid ""
@@ -2420,7 +2428,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_ADVANCED_BOARDING_GEAR\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 70~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:2389
 msgid ""
@@ -4655,7 +4663,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5053
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_CYBERNETIC\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 30~ 3|]"
 
 #: src-en/data/events_special_storage.xml.append:5055
 msgid ""
@@ -4705,7 +4713,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:5110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_AVALI_DENSEFLUFF\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 3{]"
 
 #: src-en/data/events_special_storage.xml.append:5112
 msgid ""
@@ -4811,25 +4819,25 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Абордажный дрон) Настроить режим дрона. [Текущий режим: Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:5223
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Абордажный дрон) Настроить режим дрона. [Текущий режим: Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:5228
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Абордажный дрон) Настроить режим дрона. [Текущий режим: Охрана]"
 
 #: src-en/data/events_special_storage.xml.append:5233
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Абордажный дрон) Настроить режим дрона. [Текущий режим: Охрана]"
 
 #: src-en/data/events_special_storage.xml.append:5244
 msgid ""
