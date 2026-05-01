@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataevents_sector_harmonyxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_harmony.xml.append:11
 msgid ""
@@ -14,26 +22,36 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_MEAN\"]/text[1]"
 msgstr ""
+"К вашему удивлению, вы обнаруживаете, что корабли энджи и киви общаются "
+"между собой. Прислушавшись, вы слышите, как киви оскорбляют бедных энджи. Вы "
+"вмешиваетесь, чтобы их защитить. Киви пугаются и направляют оружие на вас."
 
 #: src-en/data/events_sector_harmony.xml.append:18
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_MEAN\"]/text[2]"
 msgstr ""
+"\"РОБОТЫ!..хмммм... Отдавайте лолом СЕЙЧАС ЖЕ!\" - раздается громкий крик по "
+"связи. Вы быстро поворачиваетесь и видите, как корабль киви загоняет в угол "
+"крейсер энджи. Федерация не потерпит такого пиратства - вы активируете "
+"оружие."
 
 #: src-en/data/events_sector_harmony.xml.append:22
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[1]"
 msgstr ""
+"С гибелью киви, энджи этого сектора стали на шаг ближе к безопасной жизни."
 
 #: src-en/data/events_sector_harmony.xml.append:23
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[2]"
-msgstr ""
+msgstr "Киви считают энджи легкой добычей. Жаль, что вы не из их числа."
 
 #: src-en/data/events_sector_harmony.xml.append:24
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DESTROYED\"]/text[3]"
 msgstr ""
+"Энджи потенциально могли бы избавить киви от их генетических дефектов. Знают "
+"ли об этом киви и волнует ли их это - это уже другой вопрос."
 
 #: src-en/data/events_sector_harmony.xml.append:28
 msgid ""
@@ -43,24 +61,28 @@ msgstr "."
 #: src-en/data/events_sector_harmony.xml.append:29
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[2]"
-msgstr ""
+msgstr "Киви считают энджи легкой добычей. Жаль для них, что это не так."
 
 #: src-en/data/events_sector_harmony.xml.append:30
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[3]"
-msgstr ""
+msgstr "Теперь, когда киви больше нет, у вас есть время осмотреть их корабль."
 
 #: src-en/data/events_sector_harmony.xml.append:31
 msgid ""
 "data/events_sector_harmony.xml.append$//textList[@name=\"KIVIE_FIGHTER_ENGI_DEAD_CREW\"]/text[4]"
 msgstr ""
+"Увидев повсюду тела киви, вы предупреждаете свой экипаж, чтобы они не "
+"снимали маски. Вы не хотите, чтобы кошмары вернулись."
 
 #: src-en/data/events_sector_harmony.xml.append:56
 msgid ""
 "data/events_sector_harmony.xml.append$//eventList[@name=\"ENGI_KIVIE_REWARD\"]/event/text"
 msgstr ""
+"Энджи безмерно рады, что вы уничтожили их преследователей. В качестве "
+"награды они предлагают вам несколько дрон-комплектов."
 
 #: src-en/data/events_sector_harmony.xml.append:59
 msgid ""
 "data/events_sector_harmony.xml.append$//eventList[@name=\"ENGI_KIVIE_REWARD\"]/event/choice/text"
-msgstr ""
+msgstr "Продолжить..."
