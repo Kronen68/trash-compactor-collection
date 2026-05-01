@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"PO-Revision-Date: 2026-05-02 10:27+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "trash-compactor-collection/datablueprintsxmlappend/ru/>\n"
@@ -1832,7 +1832,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5512
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_SCRAPPER\"]/title"
-msgstr ""
+msgstr "Крейсер скрапперов"
 
 #: src-en/data/blueprints.xml.append:5513
 #, fuzzy
@@ -2405,6 +2405,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_REACTOR\"]/desc"
 msgstr ""
+"Это корабль, собранный из частей трех других судов: Уплотнителя Мусора, "
+"Флагмана Напрокат и Бомбардировщика Министерства. Работы по окраске "
+"проводились в спешке, но в целом корабль выглядит вполне достойно. На борту "
+"по-прежнему находится первоначальный экипаж, к которому присоединились два "
+"наемника."
 
 #: src-en/data/blueprints.xml.append:6706
 msgid ""
@@ -2484,7 +2489,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7092
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_CORROSUS\"]/class"
-msgstr ""
+msgstr "Челнок АПС"
 
 #: src-en/data/blueprints.xml.append:7093
 msgid ""
@@ -2832,12 +2837,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8812
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON\"]/class"
-msgstr ""
+msgstr "Флагман Напрокат"
 
 #: src-en/data/blueprints.xml.append:8813
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON\"]/name"
-msgstr ""
+msgstr "ФЛАГМАН НАПРОКАТ"
 
 #: src-en/data/blueprints.xml.append:8814
 msgid ""
@@ -2847,7 +2852,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8886
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON_2\"]/class"
-msgstr ""
+msgstr "Флагман Напрокат"
 
 #: src-en/data/blueprints.xml.append:8887
 msgid ""
@@ -2862,7 +2867,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8960
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON_3\"]/class"
-msgstr ""
+msgstr "Флагман Напрокат"
 
 #: src-en/data/blueprints.xml.append:8961
 msgid ""
@@ -3129,7 +3134,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10227
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/powerList/power[4]"
-msgstr "Ломает системы со скоростью 1.5x"
+msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10232
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/title"
@@ -3161,7 +3166,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10242
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/powerList/power[4]"
-msgstr "Ломает системы со скоростью 1.5x"
+msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10249
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"saviors\"]/title"
@@ -3387,7 +3392,7 @@ msgstr "1.5х скорость ремонта"
 #: src-en/data/blueprints.xml.append:10349
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper\"]/powerList/power[6]"
-msgstr "Ломает системы со скоростью 1.5x"
+msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10350
 msgid ""
@@ -3544,7 +3549,7 @@ msgstr "Наносит 0.5x урона в бою"
 #: src-en/data/blueprints.xml.append:10414
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_medic\"]/powerList/power[7]"
-msgstr "Ломает системы со скоростью 0.5x"
+msgstr "0.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10415
 msgid ""
@@ -3936,7 +3941,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10573
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper\"]/powerList/power[6]"
-msgstr "Ломает системы со скоростью 0.5x"
+msgstr "0.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10574
 msgid ""
@@ -4001,7 +4006,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10598
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_2\"]/powerList/power[6]"
-msgstr "Ломает системы со скоростью 0.5x"
+msgstr "0.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10599
 msgid ""
@@ -4066,7 +4071,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10623
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rosegold_scrapper_3\"]/powerList/power[6]"
-msgstr "Ломает системы со скоростью 1x"
+msgstr "1x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10624
 msgid ""
@@ -4326,7 +4331,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10725
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"adamantine_scrapper\"]/powerList/power[6]"
-msgstr "Ломает системы со скоростью 1.5x"
+msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10726
 msgid ""
@@ -4665,7 +4670,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10868
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper\"]/powerList/power[6]"
-msgstr "Ломает системы со скоростью 1.5x"
+msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10869
 msgid ""
@@ -4840,7 +4845,7 @@ msgstr "Наносит 1x урона в бою"
 #: src-en/data/blueprints.xml.append:10939
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_medic\"]/powerList/power[5]"
-msgstr "Ломает системы со скоростью 1x"
+msgstr "1x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10940
 msgid ""
@@ -4910,7 +4915,7 @@ msgstr "Наносит 1x урона в бою"
 #: src-en/data/blueprints.xml.append:10965
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender\"]/powerList/power[5]"
-msgstr "Ломает системы со скоростью 1x"
+msgstr "1x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10966
 msgid ""
@@ -4985,7 +4990,7 @@ msgstr "Наносит 1.25x урона в бою"
 #: src-en/data/blueprints.xml.append:10992
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_defender_mk2\"]/powerList/power[5]"
-msgstr "Ломает системы со скоростью 1x"
+msgstr "1x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10993
 msgid ""
