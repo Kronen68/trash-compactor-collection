@@ -1,80 +1,110 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataevents_echelonxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_echelon.xml:2
 msgid "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/text"
 msgstr ""
+"Прибыв к маяку, вы видите корабль странного цвета, похожий на корабль "
+"Ополчения. На корабле также изображен странный логотип с надписью "
+"\"К Звездам\". Какие действия следует предпринять дальше?"
 
 #: src-en/data/events_echelon.xml:6
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/text"
-msgstr ""
+msgstr "Приблизиться. Они выглядят вполне дружелюбными."
 
 #: src-en/data/events_echelon.xml:8
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/text"
 msgstr ""
+"Едва вы успеваете развернуть корабль в их сторону, как капитан корабля сразу "
+"же обращается к вам: "
+"\"Эй! Вы, наверное, тот Ренегат, которого прислала Федерация, да?\""
 
 #: src-en/data/events_echelon.xml:10
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Да, а что?"
 
 #: src-en/data/events_echelon.xml:12
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Наконец-то! Мы слишком долго вас искали!\" - система телепортации корабля "
+"тут же переносит к вам огромное количество припасов, а члены экипажа "
+"подходят к вам, чтобы оказать медицинскую помощь."
 
 #: src-en/data/events_echelon.xml:21
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Круто!"
 
 #: src-en/data/events_echelon.xml:23
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"О, и еще кое-что. Мы также хотели бы предложить вам оформить членство в "
+"клубе \"Эшелон Ренегаты\"!\""
 
 #: src-en/data/events_echelon.xml:25
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Э... что?"
 
 #: src-en/data/events_echelon.xml:27
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"О, ничего особенного, просто зарегистрируйтесь, выполняйте задания и "
+"получайте награды, например, наши корабли! А самое приятное - все это "
+"совершенно бесплатно! Хотите зарегистрироваться прямо сейчас?\""
 
 #: src-en/data/events_echelon.xml:29
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Да, зарегистрируйте нас, пожалуйста."
 
 #: src-en/data/events_echelon.xml:31
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"С удовольствием!\" Стажер сразу же начинает заполнять вместо вас учетные "
+"данные - вы не совсем понимаете, откуда он их взял, наверное, из базы данных "
+"Федерации? \"Вот и все! Не забудьте проверить задание и наслаждайтесь "
+"приветственным подарком!\" Вы заметили, что в вашей базе данных появился "
+"файл с чертежами небольшого корабля - может быть, он скоро пригодится."
 
 #: src-en/data/events_echelon.xml:36
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Нет, спасибо, нам и так хорошо."
 
 #: src-en/data/events_echelon.xml:38
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "\"Ну ладно, до скорой встречи!\""
 
 #: src-en/data/events_echelon.xml:52
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[2]/text"
-msgstr ""
+msgstr "Возможно, лучше оставить судно в покое."
 
 #: src-en/data/events_echelon.xml:54
 msgid ""
 "data/events_echelon.xml$//event[@name=\"ECHELON_MERCHANT_MEETUP\"]/choice[2]/event/text"
 msgstr ""
+"Вы решили, что это странное судно не стоит вашего времени, и в конце концов "
+"оставили его позади. Вам невольно становится интересно, что там у них могло "
+"быть."
