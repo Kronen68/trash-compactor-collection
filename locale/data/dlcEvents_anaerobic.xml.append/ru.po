@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"PO-Revision-Date: 2026-05-02 10:27+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/"
 "trash-compactor-collection/datadlcevents_anaerobicxmlappend/ru/>\n"
@@ -38,7 +38,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:17
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[2]/text"
-msgstr ""
+msgstr "Купить скраппера Инженера."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:19
 msgid ""
@@ -51,7 +51,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:27
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[3]/text"
-msgstr ""
+msgstr "Купить скраппера Спидстера."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:29
 msgid ""
@@ -64,7 +64,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:37
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[4]/text"
-msgstr ""
+msgstr "Купить скраппера Защитника."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:39
 msgid ""
@@ -77,7 +77,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:47
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[5]/text"
-msgstr ""
+msgstr "Купить тяжелого скраппера."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:49
 msgid ""
@@ -90,12 +90,14 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:57
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/text"
-msgstr ""
+msgstr "Атаковать их, спасти скрапперов!"
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:59
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/text"
 msgstr ""
+"Никто не заслуживает того, чтобы его продали в рабство, даже скрапперы. Вы "
+"активируете оружие и переходите в атаку."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:62
 msgid ""
@@ -105,12 +107,14 @@ msgstr "Продолжить..."
 #: src-en/data/dlcEvents_anaerobic.xml.append:68
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
-msgstr ""
+msgstr "Не обращать внимания на Сварщиков."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:70
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/text"
 msgstr ""
+"Они еще несколько раз пытаются вас вызвать, но в конце концов сдаются и "
+"оставляют вас в покое."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:72
 msgid ""
@@ -126,13 +130,22 @@ msgstr "Ничего не делать."
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_NORMAL\"]/text"
 msgstr ""
+"Корабль Сварщиков ланиусов уничтожен. Все скрапперы погибли в результате "
+"взрыва, но, по крайней мере, Сварщики больше не смогут никого порабощать. Вы "
+"разбираете остатки корабля на лом и отправляетесь дальше."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:89
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_SURVIVOR\"]/text"
 msgstr ""
+"Корабль Сварщиков ланиусов уничтожен. Похоже, один из скрапперов выжил после "
+"взрыва! Вы спасаете его из бездны и разбираете обломки на лом."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:101
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DEAD_CREW_SCRAPPER_SLAVES\"]/text"
 msgstr ""
+"Вы успешно уничтожили экипаж корабля Сварщиков ланиусов. В грузовом отсеке, "
+"как и ожидалось, находятся скрапперы. Вы поднимаете их на борт, чтобы "
+"отвезти в другое место, но один из скрапперов Мусорщиков настолько "
+"благодарен, что предлагает присоединиться к вашей команде!"
