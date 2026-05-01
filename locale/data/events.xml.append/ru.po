@@ -1,66 +1,86 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataeventsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events.xml.append:11
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "(Деконструктор) Попытаться добыть полезные ископаемые на астероидах."
 
 #: src-en/data/events.xml.append:13
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[1]/event/text"
 msgstr ""
+"Пока вы ждете, когда зарядится FTL двигатель, вы тщательно добываете как "
+"можно больше полезного сырья из ближайших астероидов."
 
 #: src-en/data/events.xml.append:18
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"(Шахтерский луч АПС) Попытаться добыть полезные ископаемые на астероидах."
 
 #: src-en/data/events.xml.append:20
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/text"
 msgstr ""
+"Ваш Шахтерский луч АПС чрезвычайно эффективен при извлечении полезных "
+"ископаемых из астероидов. Один взмах - и даже самые крупные астероиды "
+"рассыпаются на куски. Есть только одна проблема: вы не успеваете собрать все "
+"это достаточно быстро! Пока вы будете собирать добычу, флот повстанцев, "
+"скорее всего, успеет вас догнать."
 
 #: src-en/data/events.xml.append:23
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Собрать все, нам нужен лом."
 
 #: src-en/data/events.xml.append:25
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Вы решаете собрать как можно больше. Надеюсь, это того стоит."
 
 #: src-en/data/events.xml.append:31
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[@req=\"MAGNET_ARM\"]/text"
-msgstr ""
+msgstr "(Магнитный кран) Воспользоваться краном, чтобы быстро собрать лом."
 
 #: src-en/data/events.xml.append:33
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[@req=\"MAGNET_ARM\"]/event/text"
 msgstr ""
+"С помощью магнитного крана вы сможете своевременно собрать большую часть "
+"оставшихся ресурсов. Спасибо электромагнетизму!"
 
 #: src-en/data/events.xml.append:38
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "Уходим, мы не можем рисковать."
 
 #: src-en/data/events.xml.append:40
 msgid ""
 "data/events.xml.append$//mod:findName[@name=\"ASTEROID_EXPLORE\"]/mod-"
 "append:choice[2]/event/choice[3]/event/text"
 msgstr ""
+"Вам больно оставлять позади вполне пригодный для использования лом, но вы не "
+"можете позволить повстанцам догнать вас. Вы готовитесь к прыжку."
