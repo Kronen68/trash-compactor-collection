@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-01 18:42+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/"
+"trash-compactor-collection/dataevents_avalixml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_avali.xml:29
 msgid "data/events_avali.xml$//event[@name=\"ENCOUNTER_REBEL_AVALI\"]/choice/text"
@@ -52,7 +60,7 @@ msgstr ""
 
 #: src-en/data/events_avali.xml:55
 msgid "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH\"]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:57
 msgid ""
@@ -81,27 +89,27 @@ msgstr "Ничего не делать."
 
 #: src-en/data/events_avali.xml:77
 msgid "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:79
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[1]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:83
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[@req=\"rock_commando\"]/text"
-msgstr ""
+msgstr "(Ариадна) текст."
 
 #: src-en/data/events_avali.xml:85
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[@req=\"rock_commando\"]/event/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:89
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL\"]/choice[@req=\"rock_commando\"]/event/choice/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:98
 msgid ""
@@ -110,7 +118,7 @@ msgstr "Уйти."
 
 #: src-en/data/events_avali.xml:104
 msgid "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:106
 msgid ""
@@ -120,17 +128,17 @@ msgstr ""
 #: src-en/data/events_avali.xml:111
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[@req=\"rock_commando\"]/text"
-msgstr ""
+msgstr "(Ариадна) текст."
 
 #: src-en/data/events_avali.xml:113
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[@req=\"rock_commando\"]/event/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:117
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_NO2\"]/choice[@req=\"rock_commando\"]/event/choice/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:126
 msgid ""
@@ -140,7 +148,7 @@ msgstr "Уйти."
 #: src-en/data/events_avali.xml:131
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:133
 msgid ""
@@ -152,19 +160,19 @@ msgstr "Согласиться."
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:145
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:150
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:156
 msgid ""
@@ -180,31 +188,31 @@ msgstr "Уйти."
 #: src-en/data/events_avali.xml:166
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:169
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:173
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:175
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:178
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_LOSTSUN_TEACH_HAIL_VOLUNTEER_WIN\"]/choice[@req=\"UPG_TECH_EXTINGUISHERS\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "текст"
 
 #: src-en/data/events_avali.xml:185
 msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/text"
