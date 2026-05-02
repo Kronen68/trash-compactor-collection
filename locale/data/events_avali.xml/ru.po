@@ -1,17 +1,17 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-02 10:27+0000\n"
+"PO-Revision-Date: 2026-05-03 09:08+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"trash-compactor-collection/dataevents_avalixml/ru/>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
+"collection/dataevents_avalixml/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_avali.xml:29
 msgid "data/events_avali.xml$//event[@name=\"ENCOUNTER_REBEL_AVALI\"]/choice/text"
@@ -240,16 +240,28 @@ msgstr "Слушать."
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/text"
 msgstr ""
+"Первым заговорили на корабле Инженеров. На экране появляется Инженер в шлеме "
+"с буквой \"М\" и начинает говорить: \"Эй, вы же корабль Федерации, верно? "
+"Эти авали продают гражданским нелицензированные лекарства. Вы должны их "
+"остановить! У этих таблеток необычные побочные эффекты, таких я еще никогда "
+"не видел! Пожалуйста, уничтожь их, пока таблетки...\" Иллюминант перебивает "
+"его: \"Эй, заткнись! У меня есть все лицензии, необходимые для продажи моих "
+"лекарств! И побочные эффекты не скрываются, они прямо указаны на этикетке!\" "
+"Оба корабля замолкают, ожидая, пока вы выберете сторону."
 
 #: src-en/data/events_avali.xml:202
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Встать на сторону элиты авали."
 
 #: src-en/data/events_avali.xml:204
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Авали в восторге от вашей поддержки. \"Вау, спасибо! Если вы его победите, я "
+"дам вам бесплатный образец. Э-э, осторожно...\" Иллюминанта прерывает "
+"Инженер, который кричит: \"Вы хоть представляете, сколько невинных граждан "
+"вы травите?\", после чего заряжает свое оружие."
 
 #: src-en/data/events_avali.xml:207
 msgid ""
@@ -259,12 +271,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_avali.xml:213
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отключить звук у обоих и заняться чем-нибудь на корабле."
 
 #: src-en/data/events_avali.xml:215
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "У вас есть *гораздо* более важные дела."
 
 #: src-en/data/events_avali.xml:217
 msgid ""
@@ -278,7 +290,7 @@ msgstr "Ничего не делать."
 
 #: src-en/data/events_avali.xml:229
 msgid "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT\"]/choice[2]/text"
-msgstr ""
+msgstr "Нет, я не буду этим заниматься."
 
 #: src-en/data/events_avali.xml:231
 msgid ""
@@ -298,25 +310,36 @@ msgstr "Ничего не делать."
 #: src-en/data/events_avali.xml:254
 msgid "data/events_avali.xml$//event[@name=\"DESTROYED_ENGINEER_RENEGADE\"]/text"
 msgstr ""
+"Последний взрыв решает судьбу Инженеров - их корабль разваливается на части. "
+"Вы быстро собираете то, что от него осталось."
 
 #: src-en/data/events_avali.xml:257
 msgid ""
 "data/events_avali.xml$//event[@name=\"DESTROYED_ENGINEER_RENEGADE\"]/choice/text"
-msgstr ""
+msgstr "Связаться с авали."
 
 #: src-en/data/events_avali.xml:263
 msgid "data/events_avali.xml$//event[@name=\"DEAD_CREW_ENGINEER_RENEGADE\"]/text"
 msgstr ""
+"Двигатели могучего крейсера с грохотом останавливаются, и последние признаки "
+"жизни исчезают. Разбирая корпус, вы находите исправную схему дрона. "
+"Возможно, он подвел своего прежнего хозяина, но, надеюсь, вам он послужит "
+"лучше."
 
 #: src-en/data/events_avali.xml:267
 msgid ""
 "data/events_avali.xml$//event[@name=\"DEAD_CREW_ENGINEER_RENEGADE\"]/choice/text"
-msgstr ""
+msgstr "Связаться с авали."
 
 #: src-en/data/events_avali.xml:273
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/text"
 msgstr ""
+"Иллюминант вызывает вас: \"Спасибо за помощь, я бы уже был мертв, если бы "
+"пришлось сражаться с ними. Вот, в знак благодарности - образец лекарства, "
+"которое я продавал!\" Прочитав этикетку, вы с отвращением обнаруживаете, что "
+"среди побочных эффектов этих таблеток указано \"Превращение в Авали\". "
+"Поступили ли вы правильно...?"
 
 #: src-en/data/events_avali.xml:275
 msgid ""
@@ -327,75 +350,108 @@ msgstr "Согласиться."
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[1]/event/text"
 msgstr ""
+"Иллюминант передает вам таблетки, дружелюбно машет вам крылом и уходит в "
+"прыжок. (событие не завершено, таблеток пока нет, возьмите утешительный приз)"
 
 #: src-en/data/events_avali.xml:282
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/text"
-msgstr ""
+msgstr "Нет, они ужасны."
 
 #: src-en/data/events_avali.xml:284
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/event/text"
 msgstr ""
+"\"О, неужели? Ну, раз вы их не хотите брать, значит, вы просто "
+"путешественник. Но... раз вы путешественник, значит, вы сможете отвезти меня "
+"в другие сектора, чтобы я смогл продать свои лекарства!\" Не успеваете вы и "
+"глазом моргнуть, как Иллюминант уже покидает свой корабль, чтобы "
+"присоединиться к вашей команде."
 
 #: src-en/data/events_avali.xml:285
 msgid ""
 "data/events_avali.xml$//event[@name=\"AVALI_ARGUMENT_CONTACT_ILLUMINANT\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Робин"
 
 #: src-en/data/events_avali.xml:291
 msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/text"
 msgstr ""
+"К вам обращается автоматический корабль Федерации, пытающийся продать вам "
+"лапшу быстрого приготовления... Это странно, учитывая, что автоматический "
+"корабль, судя по всему, военного типа. К тому же он неисправен и, похоже, "
+"пытается активировать оружие."
 
 #: src-en/data/events_avali.xml:294
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_PROTOGEN\"]/text"
 msgstr ""
+"(Член экипажа-Протоген) Попросить вашего Протогена починить автоматический "
+"корабль."
 
 #: src-en/data/events_avali.xml:296
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_PROTOGEN\"]/event/text"
 msgstr ""
+"Вашему Протогену удается починить неисправный автоматический корабль и "
+"заставить его раздавать порции лапши. Кроме того, это позволяет вам получить "
+"доступ к интерфейсу магазина."
 
 #: src-en/data/events_avali.xml:302
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_RSA\"]/text"
 msgstr ""
+"(Член экипажа-АПС) Пусть ваш член экипажа из АПС исправит автоматический "
+"корабль."
 
 #: src-en/data/events_avali.xml:304
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_RSA\"]/event/text"
 msgstr ""
+"Ваш член экипажа из АПС, опираясь на свой многолетний опыт, устраняет "
+"неисправность в системе автоматического корабля и настраивает ее так, чтобы "
+"она выдавала порции лапши. Кроме того, это позволяет вам получить доступ к "
+"интерфейсу магазина."
 
 #: src-en/data/events_avali.xml:310
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_ENGI\"]/text"
 msgstr ""
+"(Член экипажа-энджи) Попросить вашего энджи исправить автоматический корабль."
 
 #: src-en/data/events_avali.xml:312
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/text"
 msgstr ""
+"Ваш энджи без труда устраняет неисправность системы автоматического корабля "
+"и настраивает ее на выдачу порций лапши. Кроме того, он открывает доступ к "
+"интерфейсу магазина."
 
 #: src-en/data/events_avali.xml:318
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_AVALI\"]/text"
 msgstr ""
+"(Член экипажа-авали) Попросить вашего авали исправить автоматический корабль."
 
 #: src-en/data/events_avali.xml:320
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[@req=\"LIST_CREW_AVALI\"]/event/text"
 msgstr ""
+"Ваш Авали объясняет, что он уже сталкивался с подобными автоматизированными "
+"торговыми автоматами, и пытается починить неисправный автоматический "
+"корабль. Правда, это не совсем сработало..."
 
 #: src-en/data/events_avali.xml:325
 msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[5]/text"
-msgstr ""
+msgstr "Попытаться починить автоматический корабль."
 
 #: src-en/data/events_avali.xml:327
 msgid ""
 "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[5]/event/text"
 msgstr ""
+"Автоматический корабль выдает несколько пачек лапши, а затем "
+"самоуничтожается. Вы до сих пор не понимаете, что произошло, но, по крайней "
+"мере, можете обыскать обломки автоматического корабля..."
 
 #: src-en/data/events_avali.xml:333
 msgid "data/events_avali.xml$//event[@name=\"INSTANT_ISSUES\"]/choice[6]/text"
-msgstr ""
+msgstr "Не обращать внимания на автоматический корабль."
