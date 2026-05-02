@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-05-03 09:08+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
+"collection/dataevents_special_standardxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_standard.xml.append:5
 msgid ""
@@ -26,6 +34,13 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/text"
 msgstr ""
+"Похоже, на этом маяке находится станция АПС, где продают восстановленное "
+"оборудование. Рядом с пунктом стоит огромный, сколоченный на скорую руку "
+"дрон. Он отправляет вам автоматическое сообщение: \"Боеголовки и дрон-"
+"комплекты со скидкой 50% от стандартной цены! Б/у, но как новые! "
+"(Примечание: АПС не может гарантировать работоспособность продаваемых "
+"боеголовок или дрон-комплектов и не несет ответственности за неисправные "
+"изделия)"
 
 #: src-en/data/events_special_standard.xml.append:23
 msgid ""
@@ -36,6 +51,8 @@ msgstr "Купить ящик боеголовок."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[1]/event/text"
 msgstr ""
+"Дрон доставляет на борт корабля ящик. Надеюсь, вас не обманули, и "
+"большинство, если не все боеголовки в ящике исправны."
 
 #: src-en/data/events_special_standard.xml.append:30
 msgid ""
@@ -51,6 +68,8 @@ msgstr "Купить ящик дрон-комплектов."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[2]/event/text"
 msgstr ""
+"Дрон доставляет на борт корабля ящик. Надеюсь, вас не обманули, и "
+"большинство, если не все дрон-комплекты в ящике исправны."
 
 #: src-en/data/events_special_standard.xml.append:43
 msgid ""
@@ -60,12 +79,15 @@ msgstr "Открыть ящик."
 #: src-en/data/events_special_standard.xml.append:49
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESOURCES\"]/choice[3]/text"
-msgstr ""
+msgstr "Нам не нужны бракованные товары, просто зайти в магазин."
 
 #: src-en/data/events_special_standard.xml.append:56
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[1]/text"
 msgstr ""
+"К сожалению, похоже, что большинство боеголовок внутри непригодны к "
+"использованию. Вы отбираете те немногие, что еще работают, и аккуратно "
+"утилизируете остальные, прежде чем зайти в магазин."
 
 #: src-en/data/events_special_standard.xml.append:61
 msgid ""
@@ -76,11 +98,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[1]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
 msgstr ""
+"(Член экипажа-ланиус) Пусть ваш ланиус переплавит поврежденные боеголовки на "
+"лом."
 
 #: src-en/data/events_special_standard.xml.append:75
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[2]/text"
 msgstr ""
+"Примерно половина боеголовок в ящике исправны. Вы берете исправные, "
+"выбрасываете остальные и отправляетесь в магазин."
 
 #: src-en/data/events_special_standard.xml.append:80
 msgid ""
@@ -91,11 +117,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[2]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
 msgstr ""
+"(Член экипажа-ланиус) Пусть ваш ланиус переплавит поврежденные боеголовки на "
+"лом."
 
 #: src-en/data/events_special_standard.xml.append:94
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[3]/text"
 msgstr ""
+"Почти все боеголовки исправны. Вы выбрасываете те немногие, что сломаны и "
+"отправляетесь в магазин."
 
 #: src-en/data/events_special_standard.xml.append:99
 msgid ""
@@ -106,11 +136,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[3]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
 msgstr ""
+"(Член экипажа-ланиус) Пусть ваш ланиус переплавит поврежденные боеголовки на "
+"лом."
 
 #: src-en/data/events_special_standard.xml.append:113
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_MISSILE_CRATE_OPEN\"]/event[4]/text"
 msgstr ""
+"Похоже, сегодня ваш счастливый день: все боеголовки в ящике исправны! "
+"Довольный, вы отправляетесь в магазин."
 
 #: src-en/data/events_special_standard.xml.append:118
 msgid ""
@@ -121,6 +155,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[1]/text"
 msgstr ""
+"К сожалению, похоже, что большинство дрон-комплектов в ящике внутри "
+"непригодны. Попытка их починить заняла бы слишком много времени, поэтому вы "
+"отбираете те немногие, что еще работают, и отправляетесь в магазин."
 
 #: src-en/data/events_special_standard.xml.append:131
 msgid ""
@@ -131,11 +168,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[1]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
 msgstr ""
+"(Член экипажа-ланиус) Пусть ваш ланиус переплавит непригодные дрон-комплекты "
+"на лом."
 
 #: src-en/data/events_special_standard.xml.append:145
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[2]/text"
 msgstr ""
+"Примерно половина дрон-комплектов непригодна. Могло быть и хуже; вы "
+"отбираете исправные дрон-комплекты и отправляетесь в магазин."
 
 #: src-en/data/events_special_standard.xml.append:150
 msgid ""
@@ -146,11 +187,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[2]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
 msgstr ""
+"(Член экипажа-ланиус) Пусть ваш ланиус переплавит непригодные дрон-комплекты "
+"на лом."
 
 #: src-en/data/events_special_standard.xml.append:164
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[3]/text"
 msgstr ""
+"Почти все дрон-комплекты исправны. Вы выбрасываете те немногие, что сломаны "
+"и отправляетесь в магазин."
 
 #: src-en/data/events_special_standard.xml.append:169
 msgid ""
@@ -161,11 +206,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[3]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
 msgstr ""
+"(Член экипажа-ланиус) Пусть ваш ланиус переплавит непригодные дрон-комплекты "
+"на лом."
 
 #: src-en/data/events_special_standard.xml.append:183
 msgid ""
 "data/events_special_standard.xml.append$//eventList[@name=\"RSA_DRONE_CRATE_OPEN\"]/event[4]/text"
 msgstr ""
+"Похоже, сегодня ваш счастливый день, ведь все дрон-комплекты исправны! "
+"Довольный вы отправляетесь в магазин."
 
 #: src-en/data/events_special_standard.xml.append:188
 msgid ""
@@ -176,31 +225,48 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESTORE\"]/text"
 msgstr ""
+"Завершив прыжок к маяку, вы замечаете неподалеку рынок АССОЦИАЦИИ по СБОРУ и "
+"ПОВТОРНОМУ ИСПОЛЬЗОВАНИЮ. Это, похоже, оживленный центр, где представители "
+"самых разных видов занимаются как продажей, так и покупкой. Вы "
+"пристыковываетесь к станции и осматриваете прилавки. Помимо продажи оружия и "
+"другого снаряжения, вы замечаете подозрительного на вид техника, "
+"предлагающего отремонтировать часть вашего снаряжения. Вы расспрашиваете "
+"его, и оказывается, что он готов отремонтировать любое сломанное оружие за "
+"25% от его обычной стоимости."
 
 #: src-en/data/events_special_standard.xml.append:201
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESTORE\"]/choice[1]/text"
 msgstr ""
+"Нам не нужно ремонтировать оружие, просто отправиться к другим продавцам."
 
 #: src-en/data/events_special_standard.xml.append:205
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_RESTORE\"]/choice[@req=\"GIFTLIST_RUSTY\"]/text"
-msgstr ""
+msgstr "У нас есть ржавое оружие, может быть, он сможет его починить?"
 
 #: src-en/data/events_special_standard.xml.append:211
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/text"
 msgstr ""
+"Вы проявляете интерес к предложению. Техник откладывает в сторону дрон-танк, "
+"над которым он работал, и готовится осмотреть ваши вещи. Какое оружие вы "
+"хотите отремонтировать?"
 
 #: src-en/data/events_special_standard.xml.append:213
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/text"
-msgstr ""
+msgstr "Починить свой Импульсный лазер мод. I."
 
 #: src-en/data/events_special_standard.xml.append:215
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_2\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:222
 msgid ""
@@ -210,12 +276,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:228
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/text"
-msgstr ""
+msgstr "Починить свой Импульсный лазер мод. II."
 
 #: src-en/data/events_special_standard.xml.append:230
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_3\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:237
 msgid ""
@@ -225,12 +296,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:243
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/text"
-msgstr ""
+msgstr "Починить свой Импульсный лазер мод. III."
 
 #: src-en/data/events_special_standard.xml.append:245
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_BURST_5\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:252
 msgid ""
@@ -240,12 +316,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:258
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/text"
-msgstr ""
+msgstr "Починить свой Тяжелый лазер мод. I."
 
 #: src-en/data/events_special_standard.xml.append:260
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_LASER_HEAVY_1\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:267
 msgid ""
@@ -255,12 +336,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:273
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_1\"]/text"
-msgstr ""
+msgstr "Починить свою Ракетную установку \"Лето\"."
 
 #: src-en/data/events_special_standard.xml.append:275
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_1\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:282
 msgid ""
@@ -270,12 +356,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:288
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_2\"]/text"
-msgstr ""
+msgstr "Починить свою Ракетную установку \"Артемида\"."
 
 #: src-en/data/events_special_standard.xml.append:290
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_2\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:297
 msgid ""
@@ -285,12 +376,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:303
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_3\"]/text"
-msgstr ""
+msgstr "Починить свою Ракетную установку \"Гермес\"."
 
 #: src-en/data/events_special_standard.xml.append:305
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_3\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:312
 msgid ""
@@ -300,12 +396,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:318
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_BURST\"]/text"
-msgstr ""
+msgstr "Починить свою Залповую ракетницу \"Пегас\"."
 
 #: src-en/data/events_special_standard.xml.append:320
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[@req=\"RUSTY_MISSILES_BURST\"]/event/text"
 msgstr ""
+"Мастер сначала разбирает оружие и очищает корпус. Вы наблюдаете, как он "
+"затем ремонтирует или заменяет все неисправные детали. Это занимает "
+"некоторое время, но в конце концов ваше оружие собирают заново, и оно "
+"выглядит как новое! Вы благодарите его и отправляетесь дальше к остальным "
+"торговым точкам."
 
 #: src-en/data/events_special_standard.xml.append:327
 msgid ""
@@ -315,22 +416,32 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_standard.xml.append:333
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"RSA_WEAPON_RESTORE\"]/choice[9]/text"
-msgstr ""
+msgstr "Передумать и заглянуть на обычную торговую площадку."
 
 #: src-en/data/events_special_standard.xml.append:342
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/text"
 msgstr ""
+"Как только вы появляетесь у маяка, вас вызывает стоящий поблизости корабль "
+"богомолов АПС: \"Добро пожаловать в наш магазин осколочных бомбовых пушек! У "
+"нас в продаже множество осколочных бомбовых пушек! ...И другие вещи, потому "
+"что никто их не покупает, так как все думают, что это мерзкие минометы! Но "
+"это не так!\""
 
 #: src-en/data/events_special_standard.xml.append:345
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_DUMB\"]/text"
-msgstr ""
+msgstr "(Член экипажа-богомол) \"Есть что-нибудь получше?\""
 
 #: src-en/data/events_special_standard.xml.append:347
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_DUMB\"]/event/text"
 msgstr ""
+"Ты думаешь, что осколочные бомбовые пушки - это минометы, да?! Или ты "
+"думаешь, что у меня какая-то особая древняя осколочная бомбовая пушка, "
+"сделанная, ну не знаю, каким-то разумным кубом? Но, конечно, ты думаешь "
+"первое, да? Ну, тогда ты - ИДИОТ! А идиоты, даже богомолы, должны умереть!\" "
+"Корабль активирует оружие и атакует!"
 
 #: src-en/data/events_special_standard.xml.append:350
 msgid ""
@@ -341,16 +452,23 @@ msgstr "Приготовиться к бою."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/text"
 msgstr ""
+"(Член экипажа-богомол АПС) Ваш богомол АПС выражает сочувствие в связи с их "
+"тяжелым положением."
 
 #: src-en/data/events_special_standard.xml.append:358
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/event/text"
 msgstr ""
+"\"Спасибо! Мы, богомолы АПС, лучше всех знаем, как устроены осколочные "
+"бомбовые пушки! Если бы только другие знали то же самое... Может, нам стоит "
+"заняться маркетингом? Нет, просто в Мультивселенной нужно меньше глупых "
+"людей! Вот, возьми немного припасов\". Богомол передает вам припасы и "
+"приглашает вас в свой магазин."
 
 #: src-en/data/events_special_standard.xml.append:361
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"mantis_rsa\"]/event/choice/text"
-msgstr ""
+msgstr "Заглянуть в его магазин."
 
 #: src-en/data/events_special_standard.xml.append:364
 msgid ""
@@ -373,16 +491,24 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/text"
 msgstr ""
+"(Член экипажа-умный богомол) Ваш богомол демонстрирует понимание разницы "
+"между минометами и осколочными бомбовыми пушками."
 
 #: src-en/data/events_special_standard.xml.append:380
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/event/text"
 msgstr ""
+"\"Богомол, не из АПС, понимающий разницу между осколочными бомбовыми пушками "
+"минометами? Не могу в это поверить!\" Голос богомола понижается до шепота: "
+"\"Это оружие еще не готово к публичному показу, это всего лишь прототип. Но, "
+"думаю, ты его заслуживаешь\". Он посылает осколочную бомбовую пушку, "
+"которая, похоже, основана на мод. IV! \"Здесь есть еще много осколочных "
+"бомбовых пушек, которые, я уверен, вам понравятся. Заходите!\""
 
 #: src-en/data/events_special_standard.xml.append:383
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[@req=\"BLUELIST_MANTIS_SMART\"]/event/choice/text"
-msgstr ""
+msgstr "Заглянуть в его магазин."
 
 #: src-en/data/events_special_standard.xml.append:386
 msgid ""
@@ -404,7 +530,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_special_standard.xml.append:400
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"STOREEVENT_RSA_BOMB_FLAKS\"]/choice[4]/text"
-msgstr ""
+msgstr "Заглянуть в его магазин."
 
 #: src-en/data/events_special_standard.xml.append:403
 msgid ""
@@ -427,8 +553,17 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"DESTROYED_STOREEVENT_RSA_BOMB_FLAKS\"]/text"
 msgstr ""
+"Наверное, не стоило позволять своему богомолу так их оскорблять, но задним "
+"числом всегда легко судить. Все осколочные бомбовые пушки на корабле были "
+"уничтожены, но, по крайней мере, обломки корабля можно разобрать на лом."
 
 #: src-en/data/events_special_standard.xml.append:422
 msgid ""
 "data/events_special_standard.xml.append$//event[@name=\"DEAD_CREW_STOREEVENT_RSA_BOMB_FLAKS\"]/text"
 msgstr ""
+"Наверное, не стоило позволять своему богомолу так их оскорблять, но задним "
+"числом всегда легко судить. В грузовом отсеке вы находите осколочные "
+"бомбовые пушки. Вы также замечаете запертую дверь, за которой, судя по "
+"всему, находится что-то важное, но открыть ее не получается. Вы "
+"довольствуетесь тем, что поднимаете на борт одну из осколочных бомбовых "
+"пушек, а остальную часть корабля разбираете на лом."
