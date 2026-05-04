@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-03 09:08+0000\n"
+"PO-Revision-Date: 2026-05-05 01:40+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datahyperspace-xml-append/ru/>\n"
@@ -432,6 +432,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 25с]\n"
+"\t\tНаносит 2 ед. урона корпусу и 2 ед. урона системам, а также оглушает "
+"ближайших врагов на 6 секунд."
 
 #: src-en/data/hyperspace.xml.append:3750
 msgid ""
@@ -444,6 +447,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"scrapper_heavy\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: Наносит 1 ед. урона корпусу, 1 ед. урона системе и оглушает ближайших "
+"врагов на 3 секунды."
 
 #: src-en/data/hyperspace.xml.append:3821
 msgid ""
@@ -456,6 +461,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"scrapper_heavy_mk2\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: Наносит 2 ед. урона корпусу, 2 ед. урона системам и оглушает "
+"ближайших врагов на 6 секунд."
 
 #: src-en/data/hyperspace.xml.append:3871
 msgid ""
@@ -506,49 +513,57 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_kora\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПОДЪЕМ"
 
 #: src-en/data/hyperspace.xml.append:4494
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_kora\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: весь союзный экипаж получает возможность телепортироваться в течение "
+"3 секунд."
 
 #: src-en/data/hyperspace.xml.append:5532
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"clonefail_lancer\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОВЕРДРАЙВ"
 
 #: src-en/data/hyperspace.xml.append:5533
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"clonefail_lancer\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: на 7 секунд увеличивает до 3х скорость передвижения, а урон экипажа - "
+"до 2.3х. НЕ увеличивает урон, получаемый от опасностей."
 
 #: src-en/data/hyperspace.xml.append:5747
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"rsa_technician\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ТАНК"
 
 #: src-en/data/hyperspace.xml.append:5748
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"rsa_technician\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: создает временный дрон-танк, способный сражаться и проводить саботаж, "
+"но не ремонтировать системы и не управлять ими. Действует 40 секунд."
 
 #: src-en/data/hyperspace.xml.append:5790
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"rsa_tank\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ИСТЕЧЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5791
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"rsa_tank\"]/powerEffect/tooltip"
 msgstr ""
+"Вы не должны это видеть. Здесь показано, сколько времени осталось до "
+"окончания срока службы."
 
 #: src-en/data/hyperspace.xml.append:5833
 msgid ""
@@ -561,30 +576,34 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"mantis_freebusiness\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: на 7 секунд увеличивает до 3х скорость передвижения, а урон экипажа - "
+"до в 2.2х. НЕ увеличивает урон, получаемый от опасностей."
 
 #: src-en/data/hyperspace.xml.append:5874
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"mantis_rsa\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ФЕРОМОН?"
 
 #: src-en/data/hyperspace.xml.append:5875
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"mantis_rsa\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: увеличивает до 2.2х скорость ремонта на 7 секунд. НЕ увеличивает "
+"урон, получаемый от опасностей."
 
 #: src-en/data/hyperspace.xml.append:6439
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_skygirr\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Е-РЕМОНТ"
 
 #: src-en/data/hyperspace.xml.append:6440
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_skygirr\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Готово: устраняет 5 урона системе и 1 урон корпуса."
 
 #: src-en/data/hyperspace.xml.append:6598
 msgid ""
@@ -597,6 +616,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"saviors\"]/powerEffect/tooltip"
 msgstr ""
+"Переключить в режим свободы. Когнитив не будет контролируем, но получит "
+"значительное усиление всех своих характеристик. Возврат в исходное состояние "
+"невозможен до следующего прыжка."
 
 #: src-en/data/hyperspace.xml.append:6648
 msgid ""
@@ -609,6 +631,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"saviorsa\"]/powerEffect/tooltip"
 msgstr ""
+"Переключить в режим управления. Вы получите полный контроль над когнитивом, "
+"но он утратит свои повышенные характеристики. Возврат к прежнему режиму "
+"возможен только один раз за прыжок."
 
 #: src-en/data/hyperspace.xml.append:6696
 msgid ""
@@ -620,7 +645,7 @@ msgstr "СВОБОДА"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"avatarlegion\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Каждые 25 секунд когнитив вырывается из оков и начинает буйствовать."
 
 #: src-en/data/hyperspace.xml.append:6745
 msgid ""
@@ -632,52 +657,54 @@ msgstr "КОНТРОЛЬ"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"avatarlegiona\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Каждые 25 секунд когнитив вырывается из оков и начинает буйствовать."
 
 #: src-en/data/hyperspace.xml.append:7250
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_PROTOGEN_BOOP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "Буп"
 
 #: src-en/data/hyperspace.xml.append:7251
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"LAB_PROTOGEN_BOOP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"Готов: на 10 секунд увеличивает до 1.5х скорость передвижения и урон всех "
+"союзников в том же помещении."
 
 #: src-en/data/hyperspace.xml.append:7838
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"ROBO_MANT_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "Боевой дрон \"Богомол\""
 
 #: src-en/data/hyperspace.xml.append:7842
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"ROBO_MANT_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "Боевой дрон \"Богомол\""
 
 #: src-en/data/hyperspace.xml.append:7870
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"SILICA_BATTLE\"]/tooltipName"
-msgstr ""
+msgstr "КремнеземКремнезем"
 
 #: src-en/data/hyperspace.xml.append:7874
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"SILICA_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "Кремнезем"
 
 #: src-en/data/hyperspace.xml.append:7973
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[14]/mod-"
 "append:page/section/@text"
-msgstr ""
+msgstr "Trash Compactor Collection"
 
 #: src-en/data/hyperspace.xml.append:7975
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TRASH_EATER\"]/name"
-msgstr ""
+msgstr "Забытый принц"
 
 #: src-en/data/hyperspace.xml.append:7976
 msgid ""
@@ -687,28 +714,30 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:7977
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TRASH_EATER\"]/description"
-msgstr ""
+msgstr "Нанять Пожирателя мусора."
 
 #: src-en/data/hyperspace.xml.append:7983
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TC6DEFEAT\"]/name"
-msgstr ""
+msgstr "Скраппер"
 
 #: src-en/data/hyperspace.xml.append:7984
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TC6DEFEAT\"]/description"
-msgstr ""
+msgstr "Победите последнего Мусоропресса."
 
 #: src-en/data/hyperspace.xml.append:7990
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/name"
-msgstr ""
+msgstr "Благо переработки"
 
 #: src-en/data/hyperspace.xml.append:7991
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо переработки от Сеста."
 
 #: src-en/data/hyperspace.xml.append:7992
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/description"
 msgstr ""
+"Покажите Сесту экипаж скрапперов. \n"
+"\t\t\t\tПока эффект действует, вы получаете на 5% больше лома."
