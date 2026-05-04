@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-03 09:08+0000\n"
+"PO-Revision-Date: 2026-05-05 01:40+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/ru/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:23
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/text"
-msgstr ""
+msgstr "Связаться с Мусоропрессом? (ВНИМАНИЕ - ВЫСОКИЙ РИСК, ВЫСОКАЯ ВЫГОДА)"
 
 #: src-en/data/events_special_multiverse.xml.append:25
 msgid ""
@@ -29,6 +29,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы посылаете сигнал, отображающий местонахождение лома, с помощью "
+"передатчика. Вскоре после этого на вашей карте появляются координаты "
+"местонахождения корабля."
 
 #: src-en/data/events_special_multiverse.xml.append:36
 msgid ""
@@ -41,6 +44,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вы используете топливо, ракету дальнего действия, а также свой лом. Вскоре "
+"на вашей карте появляются координаты корабля - скорее всего, тех самых "
+"скрапперов, с которым вы сталкивались ранее. Что они от вас хотят?"
 
 #: src-en/data/events_special_multiverse.xml.append:48
 msgid ""
@@ -53,6 +59,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Вы отправляете туда грузовой дрон с ломом. Похоже, таких скрапперов здесь "
+"много, ведь вы получили еще один сигнал! Новая добыча для охоты..."
 
 #: src-en/data/events_special_multiverse.xml.append:60
 msgid ""
@@ -65,6 +73,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"С помощью передатчика вы телепортируете столько лома, сколько можете. Все по-"
+"старому: сигнал, скрапперы, бойня. Весело."
 
 #: src-en/data/events_special_multiverse.xml.append:72
 msgid ""
@@ -77,6 +87,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Вам удалось создать и полностью заправить капсулу для перевозки лома прежде, "
+"чем вы привлекли внимание хорошо вооруженного и чрезвычайно опасного корабля "
+"скрапперов."
 
 #: src-en/data/events_special_multiverse.xml.append:84
 msgid ""
@@ -89,6 +102,9 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
+"Вы посылаете сигнал, указывающий на местонахождение лома, с помощью "
+"передатчика. Вскоре после этого на вашей карте появляются координаты судна - "
+"скорее всего, того самого скраппера, о котором шла речь ранее."
 
 #: src-en/data/events_special_multiverse.xml.append:96
 msgid ""
@@ -101,6 +117,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"SUMMON_TC_STORAGE\"]/choice[@req=\"TC_DEAD\""
 " and @lvl=\"6\"]/event/text"
 msgstr ""
+"Вы посылаете сигнал, отображающий лом, с помощью передатчика.\n"
+"\t\t\t\tНо никто не появился."
 
 #: src-en/data/events_special_multiverse.xml.append:101
 msgid ""
@@ -117,318 +135,476 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/text"
 msgstr ""
+"Кто вообще были эти парни? Вы разнесли их всех в клочья, заманив на приманку "
+"из лома, и тем не менее у вас есть ощущение, что это еще не конец... "
+"Возможно, где-то еще есть их соратники...\n"
+"\t\t\tОбыскивая остатки корабля, вы находите умирающего члена экипажа, "
+"сжимающего в руках неповрежденное оружие, которое он, по-видимому, вырвал "
+"прямо с корпуса. Похоже, он его грызет.\n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:131
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:133
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:138
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:140
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:145
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:147
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_DESTROY\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:163
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/text"
 msgstr ""
+"Кто вообще были эти люди? Вся команда погибла, и тем не менее у вас остается "
+"ощущение, что это еще не конец... Возможно, где-то еще есть их соратники...\n"
+"\t\t\tОбыскивая обломки корабля, вы находите умирающего члена экипажа, "
+"сжимающего в руке неповрежденное оружие, которое он, по-видимому, сорвал "
+"прямо с корпуса. Похоже, он его грызет.\n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:169
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:171
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:176
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:178
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:183
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:185
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC1_CREW\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:201
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/text"
 msgstr ""
+"Вы испытываете огромную гордость за каждую победу, но эта доставляет большее "
+"удовольствие, чем большинство других - ланиусы открыто выступали против "
+"Федерации и были грозными противниками.\n"
+"\t\t\tОбыскивая обломки корабля, вы обнаруживаете еще одного умирающего "
+"члена экипажа: на голове у него красный крест, он склонился над мертвым "
+"скраппером и, похоже, что-то жует.\n"
+"\t\t\tВы подумали, что он ест члена экипажа, но заметили, что он сжимает в "
+"руках продвинутую осколочную пушку. \n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:208
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:210
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:215
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:217
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:222
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:224
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_DESTROY\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:240
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/text"
 msgstr ""
+"Вы испытываете огромную гордость за каждую победу, но эта доставляет большее "
+"удовольствие, чем большинство других - ланиусы открыто выступали против "
+"Федерации и были грозными противниками.\n"
+"\t\t\tОбыскивая обломки корабля, вы обнаруживаете еще одного умирающего "
+"члена экипажа: на голове у него красный крест, он склонился над мертвым "
+"скраппером и, похоже, что-то жует.\n"
+"\t\t\tВы подумали, что он ест члена экипажа, но заметили, что он сжимает в "
+"руках продвинутую осколочную пушку. \n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:247
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:249
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:254
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:256
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:261
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:263
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC2_CREW\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:279
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/text"
 msgstr ""
+"Мусоропресс в очередной раз потерпел поражение, и небольшой флот беспомощно "
+"рассеялся. Среди обломков вы обнаруживаете, судя по всему, "
+"высокотехнологичное устройство, которое без труда интегрируется в ваши "
+"системы. Вы замечаете появление дополнительных опций в бортовой "
+"лаборатории.\n"
+"\t\t\tОбыскивая остатки корабля, вы находите еще одного умирающего члена "
+"экипажа; этот выглядит гораздо крупнее двух предыдущих. Вы не удивляетесь, "
+"увидев, как он нервно грызет продвинутую осколочную пушку. \n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:285
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:287
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:292
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:294
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:299
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:301
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_DESTROY\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:318
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/text"
 msgstr ""
+"Корабль флота раскололся перед вашим судном. Пока остальные корабли в панике "
+"разбегаются, вы можете быстро осмотреть обломки и добыть немного ресурсов. \n"
+"\t\t\tСреди обломков вы находите, судя по всему, высокотехнологичное "
+"устройство, которое без труда интегрируется в ваши системы. Вы замечаете "
+"появление дополнительных опций в бортовой лаборатории.\n"
+"\t\t\tОбыскивая обломки корабля, вы находите еще одного умирающего члена "
+"экипажа; этот выглядит гораздо крупнее двух предыдущих. Вы не удивляетесь, "
+"увидев, как он нервно грызет продвинутую осколочную пушку. \n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:325
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:327
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:332
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:334
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:339
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:341
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_DESTROY\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:358
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/text"
 msgstr ""
+"Корабль флота раскололся перед вашим судном. Пока остальные корабли в панике "
+"разбегаются, вы можете быстро осмотреть обломки и добыть немного ресурсов. \n"
+"\t\t\tСреди обломков вы находите, судя по всему, высокотехнологичное "
+"устройство, которое без труда интегрируется в ваши системы. Вы замечаете "
+"появление дополнительных опций в бортовой лаборатории.\n"
+"\t\t\tОбыскивая обломки корабля, вы находите еще одного умирающего члена "
+"экипажа; этот выглядит гораздо крупнее двух предыдущих. Вы не удивляетесь, "
+"увидев, как он нервно грызет продвинутую осколочную пушку. \n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:366
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:368
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:373
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:375
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:380
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:382
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_CREW\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:399
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/text"
 msgstr ""
+"Корабль флота раскололся перед вашим судном. Пока остальные корабли в панике "
+"разбегаются, вы можете быстро осмотреть обломки и добыть немного ресурсов. \n"
+"\t\t\tСреди обломков вы находите, судя по всему, высокотехнологичное "
+"устройство, которое без труда интегрируется в ваши системы. Вы замечаете "
+"появление дополнительных опций в бортовой лаборатории.\n"
+"\t\t\tОбыскивая обломки корабля, вы находите еще одного умирающего члена "
+"экипажа; этот выглядит гораздо крупнее двух предыдущих. Вы не удивляетесь, "
+"увидев, как он нервно грызет продвинутую осколочную пушку. \n"
+"\t\t\tВы можете отобрать у него оружие, забрать его и оружие с собой или "
+"оставить его умирать."
 
 #: src-en/data/events_special_multiverse.xml.append:406
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:408
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:413
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "Позволить члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:415
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете скрапперу дополнительный лом за работу и жилье на борту "
+"исправного корабля. После телепортации на борт он быстро поглощает оружие и "
+"восстанавливает свои силы."
 
 #: src-en/data/events_special_multiverse.xml.append:420
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:422
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC3_LESSER_CREW\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненный скраппер наблюдает, как вы телепортируетесь; кто знает, "
+"выживет он или погибнет, вечно дрейфуя среди космических обломков. Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:439
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/text"
 msgstr ""
+"Корабль скрапперов теперь разорван на куски, и судно Пустельга-шахтер "
+"вызывает вас: \"Просто супер, мы всегда рады помощи! ЧИИИИЗ! ТЕЛЕПОРТИРУЙ "
+"ИМ, э-э-э... ЧЕРТЕЖИ НАШЕГО КОРАБЛЯ! И ЭТО УЖАСНОЕ ОРУЖИЕ, КОТОРОЕ СДЕЛАЛ "
+"ЛАНСЕР!\".\n"
+"\t\t\tОбыскивая обломки корабля, вы находите раненого Пожирателя мусора, "
+"сжимающего в руках продвинутую осколочную пушку. Вы знаете, что раненые "
+"скрапперы пожирают оружие, чтобы выжить, но Пожиратель мусор просто держит "
+"его, уставившись на вас.\n"
+"\t\t\tВы можете предложить ему место на вашем корабле, хотя это может вам "
+"дорого обойтись."
 
 #: src-en/data/events_special_multiverse.xml.append:445
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:447
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[1]/event/text"
 msgstr ""
+"Вы решили забрать рабочее оружие, оставив члена экипажа на произвол судьбы."
 
 #: src-en/data/events_special_multiverse.xml.append:452
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/text"
-msgstr ""
+msgstr "Предложить Пожирателю мусора место в вашем экипаже."
 
 #: src-en/data/events_special_multiverse.xml.append:454
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете Пожирателю мусора дополнительный лом за работу и жилье на борту "
+"исправного корабля. Переместившись на борт, он поглощает осколочную пушку, "
+"посмеиваясь про себя."
 
 #: src-en/data/events_special_multiverse.xml.append:455
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Пожиратель мусора"
 
 #: src-en/data/events_special_multiverse.xml.append:460
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:462
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_DESTROY\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненый Пожиратель мусора наблюдает, как вы телепортируетесь; "
+"кто знает, выживет он или погибнет, вечно дрейфуя среди космического мусора. "
+"Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:479
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/text"
@@ -437,37 +613,45 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:485
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[1]/text"
-msgstr ""
+msgstr "Отнять оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:487
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Вы позволяете члену экипажа съесть оружие."
 
 #: src-en/data/events_special_multiverse.xml.append:492
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/text"
-msgstr ""
+msgstr "Предложить Пожирателю мусора место в вашем экипаже."
 
 #: src-en/data/events_special_multiverse.xml.append:494
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/event/text"
 msgstr ""
+"Вы обещаете Пожирателю мусора дополнительный лом за работу и жилье на борту "
+"исправного корабля. Переместившись на борт, он поглощает осколочную пушку, "
+"посмеиваясь про себя."
 
 #: src-en/data/events_special_multiverse.xml.append:495
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Пожиратель мусора"
 
 #: src-en/data/events_special_multiverse.xml.append:500
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[3]/text"
-msgstr ""
+msgstr "Потратить немного больше времени на поиск полезных вещей."
 
 #: src-en/data/events_special_multiverse.xml.append:502
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TC4_CREW\"]/choice[3]/event/text"
 msgstr ""
+"Вы тратите немного времени на сбор полезных ресурсов и без сожалений "
+"телепортируетесь обратно.\n"
+"\t\t\t\t\t\tРаненый Пожиратель мусора наблюдает, как вы телепортируетесь; "
+"кто знает, выживет он или погибнет, вечно дрейфуя среди космического мусора. "
+"Как грубо."
 
 #: src-en/data/events_special_multiverse.xml.append:519
 msgid ""
@@ -487,7 +671,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:530
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Пожиратель мусора"
 
 #: src-en/data/events_special_multiverse.xml.append:535
 msgid ""
@@ -502,7 +686,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:541
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Пожиратель мусора"
 
 #: src-en/data/events_special_multiverse.xml.append:548
 msgid "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/text"
@@ -521,7 +705,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:559
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[1]/event/crewMember"
-msgstr ""
+msgstr "Пожиратель мусора"
 
 #: src-en/data/events_special_multiverse.xml.append:564
 msgid ""
@@ -536,7 +720,7 @@ msgstr ""
 #: src-en/data/events_special_multiverse.xml.append:570
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_CREW\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "Пожиратель мусора"
 
 #: src-en/data/events_special_multiverse.xml.append:577
 msgid ""
