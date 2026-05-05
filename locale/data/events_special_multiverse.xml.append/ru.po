@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-05 14:57+0000\n"
+"PO-Revision-Date: 2026-05-05 15:02+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/ru/>\n"
@@ -1221,12 +1221,12 @@ msgstr "Неважно."
 #: src-en/data/events_special_multiverse.xml.append:1096
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/text"
-msgstr "Выберите осколочную пушку:"
+msgstr "Выберите осколочный дрон:"
 
 #: src-en/data/events_special_multiverse.xml.append:1099
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[1]/text"
-msgstr "ЭМИ"
+msgstr "С усилителем"
 
 #: src-en/data/events_special_multiverse.xml.append:1101
 msgid ""
@@ -1236,7 +1236,7 @@ msgstr "Готово!"
 #: src-en/data/events_special_multiverse.xml.append:1110
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[2]/text"
-msgstr ""
+msgstr "Золотой"
 
 #: src-en/data/events_special_multiverse.xml.append:1112
 msgid ""
@@ -1246,7 +1246,7 @@ msgstr "Готово!"
 #: src-en/data/events_special_multiverse.xml.append:1121
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[3]/text"
-msgstr ""
+msgstr "Нестабильный"
 
 #: src-en/data/events_special_multiverse.xml.append:1123
 msgid ""
@@ -1256,7 +1256,7 @@ msgstr "Готово!"
 #: src-en/data/events_special_multiverse.xml.append:1132
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[4]/text"
-msgstr ""
+msgstr "Тяжелый"
 
 #: src-en/data/events_special_multiverse.xml.append:1134
 msgid ""
@@ -1266,7 +1266,7 @@ msgstr "Готово!"
 #: src-en/data/events_special_multiverse.xml.append:1143
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"FLAK_FORGE_DRONE\"]/choice[5]/text"
-msgstr ""
+msgstr "Бомбовый"
 
 #: src-en/data/events_special_multiverse.xml.append:1145
 msgid ""
@@ -1282,6 +1282,11 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"AUTOMATED_QUARTERMASTER_CHOICE\"]/text"
 msgstr ""
+"ВЫБЕРИТЕ A/////ОРУЖИЕ////КАЧЕСТВЕННЫЙ ТОВАР////ОТЛИЧНЫЙ ВЫБОР////\n"
+"\t\tВСЕ ОРУЖИЕ СВЕЖЕЕ И ГОРЯЧЕЕ////ВСТАВЬТЕ СВОЙ ЛОМ В ПРИЕМНИК И ПОВЕРНИТЕ "
+"РУЧКУ ПРЕДОХРАНИТЕЛЯ НА 274° ПРОТИВ ЧАСОВОЙ СТРЕЛКИ////\n"
+"\t\tch33s3W4sH3r3////АПС НАВСЕГДА\n"
+"\t\t...ВЫБЕРИТЕ ОРУЖИЕ ИЗ СПИСКА ПРЕДУСТАНОВЛЕННЫХ ФАЙЛОВ .ДЖКОД..."
 
 #: src-en/data/events_special_multiverse.xml.append:1169
 msgid ""
