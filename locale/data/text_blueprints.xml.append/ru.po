@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-03 09:08+0000\n"
+"PO-Revision-Date: 2026-05-07 01:49+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datatext_blueprintsxmlappend/ru/>\n"
@@ -16,37 +16,37 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:5
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR1_class\"]"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/text_blueprints.xml.append:6
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR2_class\"]"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/text_blueprints.xml.append:7
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR3_class\"]"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/text_blueprints.xml.append:8
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR4_class\"]"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/text_blueprints.xml.append:9
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR5_class\"]"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/text_blueprints.xml.append:10
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_COMPACTOR6_class\"]"
-msgstr ""
+msgstr "Мусоропресс"
 
 #: src-en/data/text_blueprints.xml.append:11
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_TC_TRASH_MINER_class\"]"
-msgstr ""
+msgstr "Мусорный Шахтер"
 
 #: src-en/data/text_blueprints.xml.append:12
 msgid "data/text_blueprints.xml.append$/dummyroot/text[8]"
@@ -63,12 +63,12 @@ msgstr "Бомбардировщик киви"
 
 #: src-en/data/text_blueprints.xml.append:15
 msgid "data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_SCOUT_class\"]"
-msgstr ""
+msgstr "Разведчик киви"
 
 #: src-en/data/text_blueprints.xml.append:16
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_KIVIE_SCOUT_ENGI_class\"]"
-msgstr ""
+msgstr "Разведчик киви"
 
 #: src-en/data/text_blueprints.xml.append:17
 msgid "data/text_blueprints.xml.append$/dummyroot/text[13]"
@@ -99,17 +99,17 @@ msgstr "Челнок АПС"
 #: src-en/data/text_blueprints.xml.append:26
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAMPLE_unlock\"]"
-msgstr ""
+msgstr "Победите на любом типе предыдущего корабля."
 
 #: src-en/data/text_blueprints.xml.append:27
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAMPLE_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:28
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SAMPLE_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:32
 msgid ""
@@ -119,260 +119,300 @@ msgstr "Корвет скрапперов"
 #: src-en/data/text_blueprints.xml.append:33
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_name\"]"
-msgstr ""
+msgstr "Фиаре Веки"
 
 #: src-en/data/text_blueprints.xml.append:34
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_desc\"]"
 msgstr ""
+"Самое мощное боевое судно скрепперов... по крайней мере, из тех, что у нас "
+"есть.\n"
+"Установленный на борту Уплотнитель позволяет перерабатывать лом и печатать "
+"из него на 3D-принтере различные предметы."
 
 #: src-en/data/text_blueprints.xml.append:36
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_unlock\"]"
-msgstr ""
+msgstr "Победите все 6 вариантов Мусоропресса."
 
 #: src-en/data/text_blueprints.xml.append:38
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_class\"]"
-msgstr ""
+msgstr "Дредноут скрапперов"
 
 #: src-en/data/text_blueprints.xml.append:39
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_name\"]"
-msgstr ""
+msgstr "Лезвие Разума"
 
 #: src-en/data/text_blueprints.xml.append:40
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SCRAPPER_2_desc\"]"
 msgstr ""
+"Этот корабль может брать на абордаж как никто другой - но в спешке, стремясь "
+"создать гигантский отсек для телепортации, скрапперы забыли установить все "
+"слоты для оружия. Впрочем, вам они все равно не понадобятся."
 
 #: src-en/data/text_blueprints.xml.append:41
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SCRAPPER_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:45
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_class\"]"
-msgstr ""
+msgstr "Крейсер Пожирателя мусора"
 
 #: src-en/data/text_blueprints.xml.append:46
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_name\"]"
-msgstr ""
+msgstr "Моарте си Фиер"
 
 #: src-en/data/text_blueprints.xml.append:47
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_EATER_desc\"]"
 msgstr ""
+"Принц ланиусов командует собственной личной армией скрапперов - он стремится "
+"поглотить столько металлолома, что в итоге превратится в один огромный, "
+"разумный корабль, с конечной целью - поглотить весь мир. Пока что... он все "
+"еще размером с экипаж."
 
 #: src-en/data/text_blueprints.xml.append:48
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_EATER_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на дредноуте скрапперов."
 
 #: src-en/data/text_blueprints.xml.append:52
 msgid "data/text_blueprints.xml.append$/dummyroot/text[34]"
-msgstr ""
+msgstr "Пустельга-шахтер"
 
 #: src-en/data/text_blueprints.xml.append:53
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_name\"]"
-msgstr ""
+msgstr "Уплотнитель мусора"
 
 #: src-en/data/text_blueprints.xml.append:54
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_desc\"]"
 msgstr ""
+"Старый корабль класса \"Пустельга\", предназначенный для добычи полезных "
+"ископаемых на астероидах и уборки мусора. Переоборудован для боевых действий "
+"инженером Сергалом Чизом, к которому присоединились протоген ТРЕКЕР и "
+"примаген РАПТОР. В результате сбоя в системе резервного копирования ДНК в "
+"Клон-отсеке появился Лансер."
 
 #: src-en/data/text_blueprints.xml.append:55
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_MINER_unlock\"]"
-msgstr ""
+msgstr "Примите сторону Трекера в конфликте с Мусоропрессом."
 
 #: src-en/data/text_blueprints.xml.append:57
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_B_class\"]"
-msgstr ""
+msgstr "Пустельга-шахтер"
 
 #: src-en/data/text_blueprints.xml.append:58
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_B_name\"]"
-msgstr ""
+msgstr "Айс Кул Ион"
 
 #: src-en/data/text_blueprints.xml.append:59
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_B_desc\"]"
 msgstr ""
+"Айс-айс-айон. Ленсер с огромным удовольствием переделал Уплотнитель мусора "
+"под свои странные нужды и создал идеальный абордажный корабль - если, "
+"конечно, не обращать внимания на крошечные размеры телепорта. Айс-айс-айон."
 
 #: src-en/data/text_blueprints.xml.append:60
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_MINER_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:62
 msgid "data/text_blueprints.xml.append$/dummyroot/text[42]"
-msgstr ""
+msgstr "Пустельга-шахтер"
 
 #: src-en/data/text_blueprints.xml.append:63
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_3_name\"]"
-msgstr ""
+msgstr "Морнингстар"
 
 #: src-en/data/text_blueprints.xml.append:64
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_MINER_3_desc\"]"
 msgstr ""
+"Трое солдат АПС захватили этот корабль и решили немного его доработать. "
+"Уничтожьте своих врагов в огненном шквале с помощью этого чертовски крутого "
+"корабля."
 
 #: src-en/data/text_blueprints.xml.append:65
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_MINER_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:69
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_REACTOR_class\"]"
-msgstr ""
+msgstr "Персон. Пустельга-шахтер"
 
 #: src-en/data/text_blueprints.xml.append:70
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_REACTOR_name\"]"
-msgstr ""
+msgstr "Реактивный уплотнитель"
 
 #: src-en/data/text_blueprints.xml.append:71
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TRASH_REACTOR_desc\"]"
 msgstr ""
+"Создан на основе Уплотните мусора и обломков кораблей золтан и Гектар — на "
+"корабле Гектар были найдены весьма странные детали экзоскелета, которые мы "
+"смогли использовать в своих целях. Окраска была выполнена в спешке, но "
+"выглядит вполне уместно."
 
 #: src-en/data/text_blueprints.xml.append:72
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_REACTOR_unlock\"]"
 msgstr ""
+"Победите в игре на любом типе Мусорной коллекции крейсеров класса "
+"\"Пустельга\"."
 
 #: src-en/data/text_blueprints.xml.append:73
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TRASH_REACTOR_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:77
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ECHO_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любом типе Реактивного уплотнителя."
 
 #: src-en/data/text_blueprints.xml.append:78
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_ECHO_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:82
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SDM_class\"]"
-msgstr ""
+msgstr "Переоборудованный гражданский крейсер"
 
 #: src-en/data/text_blueprints.xml.append:83
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SDM_name\"]"
-msgstr ""
+msgstr "Размер не имеет значения"
 
 #: src-en/data/text_blueprints.xml.append:84
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SDM_desc\"]"
 msgstr ""
+"Мы все знаем, что главное не размер, а преданность. Хотя у телепорта на этом "
+"корабле явно есть какие-то... проблемы с перекомпенсацией."
 
 #: src-en/data/text_blueprints.xml.append:85
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SDM_unlock\"]"
-msgstr ""
+msgstr "Выиграйте игру на любом типе Реактивного уплотнителя."
 
 #: src-en/data/text_blueprints.xml.append:87
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SDM_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до сектора 5 на типе A"
 
 #: src-en/data/text_blueprints.xml.append:91
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_class\"]"
-msgstr ""
+msgstr "Рабочие-строители \"Пустельга\""
 
 #: src-en/data/text_blueprints.xml.append:92
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_name\"]"
-msgstr ""
+msgstr "Оригинал"
 
 #: src-en/data/text_blueprints.xml.append:93
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_CONSTRUCTION_desc\"]"
 msgstr ""
+"Это полностью рабочая версия Пустельга-шахтера из того времени, когда он "
+"действительно использовался для добычи полезных ископаемых - до того, как он "
+"попал в руки Трекера и его банды."
 
 #: src-en/data/text_blueprints.xml.append:94
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_CONSTRUCTION_unlock\"]"
-msgstr ""
+msgstr "Победите в игре на челноке АПС."
 
 #: src-en/data/text_blueprints.xml.append:96
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_CONSTRUCTION_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до сектора 5 на типе A"
 
 #: src-en/data/text_blueprints.xml.append:100
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_class\"]"
-msgstr ""
+msgstr "Корвет \"Гладиатор\""
 
 #: src-en/data/text_blueprints.xml.append:101
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_name\"]"
-msgstr ""
+msgstr "Бронированная Оса"
 
 #: src-en/data/text_blueprints.xml.append:102
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_desc\"]"
 msgstr ""
+"Этот корабль был построен из подручных материалов - теперь это быстрый и "
+"чрезвычайно боеспособный корабль, хотя он и немного тесен и хрупок."
 
 #: src-en/data/text_blueprints.xml.append:103
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_unlock\"]"
-msgstr ""
+msgstr "Выиграйте игру на любом типе транспортного челнока."
 
 #: src-en/data/text_blueprints.xml.append:105
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_2_class\"]"
-msgstr ""
+msgstr "Корвет \"Гладиатор\""
 
 #: src-en/data/text_blueprints.xml.append:106
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_2_name\"]"
-msgstr ""
+msgstr "Старсектор"
 
 #: src-en/data/text_blueprints.xml.append:107
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_2_desc\"]"
 msgstr ""
+"Этот корвет отличается маневренностью и скоростью - он был переоборудован "
+"для нужд разведывательного и легкого штурмового подразделения армии "
+"Федерации."
 
 #: src-en/data/text_blueprints.xml.append:108
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:110
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_3_class\"]"
-msgstr ""
+msgstr "Корвет \"Гладиатор\""
 
 #: src-en/data/text_blueprints.xml.append:111
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_3_name\"]"
-msgstr ""
+msgstr "Стальной Рассвет"
 
 #: src-en/data/text_blueprints.xml.append:112
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_ARMORED_WASP_3_desc\"]"
 msgstr ""
+"Этот корабль обладает высокими стелс-характеристиками - но все же "
+"постарайтесь не попасть под обстрел."
 
 #: src-en/data/text_blueprints.xml.append:113
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_TC_ARMORED_WASP_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:117
 msgid ""
@@ -382,54 +422,66 @@ msgstr "Челнок АПС"
 #: src-en/data/text_blueprints.xml.append:118
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_name\"]"
-msgstr ""
+msgstr "Корросус"
 
 #: src-en/data/text_blueprints.xml.append:119
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_desc\"]"
 msgstr ""
+"Старая, ржавая конструкция, собранная из обломков нескольких других "
+"кораблей. Ассоциация по сбору и повторному использованию укомплектовала ее "
+"разношерстным экипажем, в том числе и захваченным скраппером."
 
 #: src-en/data/text_blueprints.xml.append:120
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CORROSUS_unlock\"]"
 msgstr ""
+"Убедите одного из отколовшихся андроидов-Ренегата присоединиться к вам или "
+"выиграйте игру, используя любой тип гибридного корабля класса \"ЛПЦ\"."
 
 #: src-en/data/text_blueprints.xml.append:122
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_2_class\"]"
-msgstr ""
+msgstr "Разведчик АПС"
 
 #: src-en/data/text_blueprints.xml.append:123
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_2_name\"]"
-msgstr ""
+msgstr "Уэстбент"
 
 #: src-en/data/text_blueprints.xml.append:124
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_CORROSUS_2_desc\"]"
 msgstr ""
+"Этот разведывательный корабль АПС - легкий и маневренный - опасен, но "
+"уязвим. В его распоряжении обширный арсенал дронов, однако он не оснащен "
+"системой оружия."
 
 #: src-en/data/text_blueprints.xml.append:125
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CORROSUS_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:127
 msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_class\"]"
-msgstr ""
+msgstr "Поддержка флота АПС"
 
 #: src-en/data/text_blueprints.xml.append:128
 msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_name\"]"
-msgstr ""
+msgstr "Культура Стервятников"
 
 #: src-en/data/text_blueprints.xml.append:129
 msgid "data/text_blueprints.xml.append$//text[@name=\"text_TC_CORROSUS_3_desc\"]"
 msgstr ""
+"Эта модель корабля обеспечения флота является одной из самых "
+"распространенных в АССОЦИАЦИЯ по СБОРУ и ПОВТОРНОМУ ИСПОЛЬЗОВАНИЮ; хотя "
+"практически ни один из этих кораблей не выглядит точно так же, учитывая... "
+"грубую конструкцию корпуса."
 
 #: src-en/data/text_blueprints.xml.append:130
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_CORROSUS_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:134
 msgid ""
@@ -445,11 +497,13 @@ msgstr "Флагман Напрокат"
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_desc\"]"
 msgstr ""
+"ДОБРО ПОЖАЛОВАТЬ В [ПРОБНУЮ ВЕРСИЮ] [корабля средней сложности]!!! ИГРАЙ "
+"СЕЙЧАС ИГРАЙ СЕЙЧАС - СТАНЬ [большой шишкой]! ПОЛУЧИ [Б.Н.З. баллы]!"
 
 #: src-en/data/text_blueprints.xml.append:137
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SLUGTON_unlock\"]"
-msgstr ""
+msgstr "Победите в игре на челноке АПС."
 
 #: src-en/data/text_blueprints.xml.append:139
 msgid ""
@@ -459,17 +513,19 @@ msgstr "Флагман Напрокат"
 #: src-en/data/text_blueprints.xml.append:140
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_name\"]"
-msgstr ""
+msgstr "Бандитское Начало"
 
 #: src-en/data/text_blueprints.xml.append:141
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_2_desc\"]"
 msgstr ""
+"Этот корабль принадлежал Клептократии слизней - неудивительно, что теперь он "
+"превратился в пиратский корабль, грабящий мирных жителей."
 
 #: src-en/data/text_blueprints.xml.append:142
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SLUGTON_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:144
 msgid ""
@@ -479,112 +535,130 @@ msgstr "Флагман Напрокат"
 #: src-en/data/text_blueprints.xml.append:145
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_3_name\"]"
-msgstr ""
+msgstr "ДЖ4НК-3Р"
 
 #: src-en/data/text_blueprints.xml.append:146
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_3_desc\"]"
 msgstr ""
+"Почему Чиз переоборудовал этот корабль и включил его в состав флота "
+"Федерации? Отличный вопрос!"
 
 #: src-en/data/text_blueprints.xml.append:147
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SLUGTON_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:151
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_class\"]"
-msgstr ""
+msgstr "Захваченный челнок слизней"
 
 #: src-en/data/text_blueprints.xml.append:152
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_name\"]"
-msgstr ""
+msgstr "Нервный Центр"
 
 #: src-en/data/text_blueprints.xml.append:153
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_desc\"]"
 msgstr ""
+"Этот корабль был построен для перевозки большого количества аппетитно "
+"выглядящего груза. Может, поэтому на нем так много скрапперов? Нет, не может "
+"быть..."
 
 #: src-en/data/text_blueprints.xml.append:154
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_unlock\"]"
 msgstr ""
+"Разблокируйте все остальные корабли на первой странице, добавленные TCC."
 
 #: src-en/data/text_blueprints.xml.append:156
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_class\"]"
-msgstr ""
+msgstr "Искаженный дредноут скрапперов"
 
 #: src-en/data/text_blueprints.xml.append:157
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_name\"]"
-msgstr ""
+msgstr "Плотник"
 
 #: src-en/data/text_blueprints.xml.append:158
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_EXTRAELITE_2_desc\"]"
 msgstr ""
+"Идеальный корабль для убийств - уничтожьте своих врагов из других вселенных "
+"с помощью разнообразного арсенала этого корабля. Настоящий охотник за "
+"головами, верный тому, кто платит больше."
 
 #: src-en/data/text_blueprints.xml.append:159
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_2_unlock\"]"
-msgstr ""
+msgstr "Победите в игре на типе A."
 
 #: src-en/data/text_blueprints.xml.append:161
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_SLOT2_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:162
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_EXTRAELITE_SLOT2_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:166
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_unlock\"]"
 msgstr ""
+"Разблокируйте крейсер орхидей тип В, чтобы получить доступ к этому кораблю."
 
 #: src-en/data/text_blueprints.xml.append:167
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_2_unlock\"]"
 msgstr ""
+"Доберитесь до 5 сектора на крейсере Харриер тип A, чтобы разблокировать этот "
+"корабль."
 
 #: src-en/data/text_blueprints.xml.append:168
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_3_unlock\"]"
 msgstr ""
+"Доберитесь до 5 сектора на крейсере Харриер тип Б или пройдите игру на "
+"крейсере Харриер тип A, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:170
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FALCON_FRIGATE_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любом типе крейсера Харриер."
 
 #: src-en/data/text_blueprints.xml.append:175
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_AVALI_SLOT2_desc\"]"
 msgstr ""
+"Этот торговый крейсер был уже наполовину загружен хламом для продажи, когда "
+"его пришлось задействовать в военных целях. К счастью, его грузовой телепорт "
+"может использоваться в качестве средства нападения."
 
 #: src-en/data/text_blueprints.xml.append:176
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_AVALI_SLOT2_name\"]"
-msgstr ""
+msgstr "Акципитридае"
 
 #: src-en/data/text_blueprints.xml.append:177
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_AVALI_SLOT2_class\"]"
-msgstr ""
+msgstr "Торговый крейсер авали"
 
 #: src-en/data/text_blueprints.xml.append:178
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AVALI_SLOT2_unlock\"]"
 msgstr ""
+"Победите в игре на крейсере Харриер тип В, чтобы разблокировать этот корабль."
 
 #: src-en/data/text_blueprints.xml.append:180
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_SMEW_BATTLECRUISER_unlock\"]"
-msgstr ""
+msgstr "Победите в игре на любом типе фрегата класса \"Сокол\"."
 
 #: src-en/data/text_blueprints.xml.append:182
 msgid ""
@@ -629,7 +703,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:195
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:197
 msgid ""
@@ -649,7 +723,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:200
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_FEDERATION_CARRIER_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:204
 msgid "data/text_blueprints.xml.append$/dummyroot/text[131]"
@@ -668,7 +742,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:207
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_unlock\"]"
-msgstr ""
+msgstr "Пройдите игру на любом типе крейсера Харриер."
 
 #: src-en/data/text_blueprints.xml.append:209
 msgid "data/text_blueprints.xml.append$/dummyroot/text[135]"
@@ -687,7 +761,7 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:212
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_TC_MILSPEC_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:216
 msgid ""
@@ -799,12 +873,12 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:251
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:252
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_POTENTIAL_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:256
 msgid ""
@@ -828,7 +902,7 @@ msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:263
 msgid "data/text_blueprints.xml.append$/dummyroot/text[166]"
-msgstr ""
+msgstr "Гибридный корабль класса \"ЛПЦ\""
 
 #: src-en/data/text_blueprints.xml.append:264
 msgid ""
@@ -841,7 +915,7 @@ msgstr ""
 
 #: src-en/data/text_blueprints.xml.append:267
 msgid "data/text_blueprints.xml.append$/dummyroot/text[169]"
-msgstr ""
+msgstr "Гибридный корабль класса \"ЛПЦ\""
 
 #: src-en/data/text_blueprints.xml.append:268
 msgid ""
@@ -860,12 +934,12 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:274
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:275
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_AUTOGUNBOAT_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:276
 msgid ""
@@ -880,12 +954,12 @@ msgstr ""
 #: src-en/data/text_blueprints.xml.append:279
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_2_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе A."
 
 #: src-en/data/text_blueprints.xml.append:280
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"ship_PLAYER_SHIP_MILITIAGUNBOAT_3_unlock\"]"
-msgstr ""
+msgstr "Доберитесь до 5 сектора на типе Б или выиграйте на типе А."
 
 #: src-en/data/text_blueprints.xml.append:281
 msgid ""
