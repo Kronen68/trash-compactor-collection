@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-06 14:10+0000\n"
+"PO-Revision-Date: 2026-05-07 01:49+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
@@ -2311,7 +2311,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6158
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SCRAPPER\"]/name"
-msgstr ""
+msgstr "Фиаре Веки"
 
 #: src-en/data/blueprints.xml.append:6159
 msgid ""
@@ -2326,7 +2326,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6237
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SCRAPPER_2\"]/name"
-msgstr ""
+msgstr "Лезвие Разума"
 
 #: src-en/data/blueprints.xml.append:6238
 msgid ""
@@ -2336,27 +2336,31 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6314
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER\"]/class"
-msgstr ""
+msgstr "Крейсер Пожирателя мусора"
 
 #: src-en/data/blueprints.xml.append:6315
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER\"]/name"
-msgstr ""
+msgstr "Моарте си Фиер"
 
 #: src-en/data/blueprints.xml.append:6316
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER\"]/desc"
 msgstr ""
+"Принц ланиусов командует собственной личной армией скрапперов - он стремится "
+"поглотить столько металлолома, что в итоге превратится в один огромный, "
+"разумный корабль, с конечной целью - поглотить весь мир. Пока что... он все "
+"еще размером с экипаж."
 
 #: src-en/data/blueprints.xml.append:6399
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER\"]/class"
-msgstr ""
+msgstr "Класс \"Пустельга\" Мусорной коллекции"
 
 #: src-en/data/blueprints.xml.append:6400
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER\"]/name"
-msgstr ""
+msgstr "Уплотнитель мусора"
 
 #: src-en/data/blueprints.xml.append:6401
 msgid ""
@@ -2366,12 +2370,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6477
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/class"
-msgstr ""
+msgstr "Класс \"Пустельга\" Мусорной коллекции"
 
 #: src-en/data/blueprints.xml.append:6478
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/name"
-msgstr ""
+msgstr "Айс Кул Ион"
 
 #: src-en/data/blueprints.xml.append:6479
 msgid ""
@@ -2381,12 +2385,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6555
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_3\"]/class"
-msgstr ""
+msgstr "Класс \"Пустельга\" Мусорной коллекции"
 
 #: src-en/data/blueprints.xml.append:6556
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_3\"]/name"
-msgstr ""
+msgstr "Морнингстар"
 
 #: src-en/data/blueprints.xml.append:6557
 msgid ""
@@ -2431,7 +2435,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6783
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO\"]/class"
-msgstr ""
+msgstr "Гибридный корабль класса \"ЛПЦ\""
 
 #: src-en/data/blueprints.xml.append:6784
 msgid ""
@@ -2446,7 +2450,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6857
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO_2\"]/class"
-msgstr ""
+msgstr "Гибридный корабль класса \"ЛПЦ\""
 
 #: src-en/data/blueprints.xml.append:6858
 msgid ""
@@ -2466,12 +2470,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6936
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE\"]/name"
-msgstr ""
+msgstr "Нервный Центр"
 
 #: src-en/data/blueprints.xml.append:6937
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE\"]/desc"
 msgstr ""
+"Этот корабль был построен для перевозки большого количества аппетитно "
+"выглядящего груза. Может, поэтому на нем так много скрапперов? Нет, не может "
+"быть..."
 
 #: src-en/data/blueprints.xml.append:7012
 msgid ""
@@ -2481,7 +2488,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7013
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_2\"]/name"
-msgstr ""
+msgstr "Плотник"
 
 #: src-en/data/blueprints.xml.append:7014
 msgid ""
@@ -2496,7 +2503,7 @@ msgstr "Челнок АПС"
 #: src-en/data/blueprints.xml.append:7093
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_CORROSUS\"]/name"
-msgstr ""
+msgstr "Корросус"
 
 #: src-en/data/blueprints.xml.append:7094
 msgid ""
@@ -2784,7 +2791,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8510
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP\"]/name"
-msgstr ""
+msgstr "Бронированная Оса"
 
 #: src-en/data/blueprints.xml.append:8511
 msgid ""
@@ -2799,7 +2806,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8584
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_2\"]/name"
-msgstr ""
+msgstr "Старсектор"
 
 #: src-en/data/blueprints.xml.append:8585
 msgid ""
@@ -2814,7 +2821,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8656
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_3\"]/name"
-msgstr ""
+msgstr "Стальной Рассвет"
 
 #: src-en/data/blueprints.xml.append:8657
 msgid ""
@@ -2829,7 +2836,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:8734
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_SLOT2\"]/name"
-msgstr ""
+msgstr "Акципитридае"
 
 #: src-en/data/blueprints.xml.append:8735
 msgid ""
@@ -2865,6 +2872,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON_2\"]/desc"
 msgstr ""
+"Этот корабль принадлежал Клептократии слизней - неудивительно, что теперь он "
+"превратился в пиратский корабль, грабящий мирных жителей."
 
 #: src-en/data/blueprints.xml.append:8960
 msgid ""
@@ -2874,7 +2883,7 @@ msgstr "Флагман Напрокат"
 #: src-en/data/blueprints.xml.append:8961
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON_3\"]/name"
-msgstr ""
+msgstr "ДЖ4НК-3Р"
 
 #: src-en/data/blueprints.xml.append:8962
 msgid ""
@@ -3025,7 +3034,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:9719
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SDM\"]/name"
-msgstr ""
+msgstr "Размер не имеет значения"
 
 #: src-en/data/blueprints.xml.append:9720
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SDM\"]/desc"
