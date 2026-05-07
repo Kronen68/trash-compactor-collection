@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-07 07:06+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-05-08 02:02+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1826,7 +1826,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5500
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FUEL_RESERVOIR\"]/title"
-msgstr ""
+msgstr "Резервуар топлива"
 
 #: src-en/data/blueprints.xml.append:5501
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"FUEL_RESERVOIR\"]/desc"
@@ -2455,12 +2455,16 @@ msgstr "Гибридный корабль класса \"ЛПЦ\""
 #: src-en/data/blueprints.xml.append:6858
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO_2\"]/name"
-msgstr ""
+msgstr "ЭХО: 1-ЛАЙНЕР"
 
 #: src-en/data/blueprints.xml.append:6859
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO_2\"]/desc"
 msgstr ""
+"Это оригинальная версия ТРЕКЕРА 1-1, до того как его перекрасили, чтобы он "
+"выглядел незаметно. Возможно, на борту все еще находятся повстанческие "
+"отбросы, но, по крайней мере, так им будет легче проходить блокпосты "
+"повстанцев."
 
 #: src-en/data/blueprints.xml.append:6935
 msgid ""
@@ -2513,7 +2517,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7169
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_CONSTRUCTION\"]/class"
-msgstr ""
+msgstr "Конструктор-класс \"Фенек\""
 
 #: src-en/data/blueprints.xml.append:7170
 msgid ""
@@ -2528,7 +2532,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7243
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_CONSTRUCTION_2\"]/class"
-msgstr ""
+msgstr "Конструктор-класс \"Фенек\""
 
 #: src-en/data/blueprints.xml.append:7244
 msgid ""
@@ -2898,12 +2902,16 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9038
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_HEKTAR_REBEL\"]/name"
-msgstr ""
+msgstr "Бесплатный Образец"
 
 #: src-en/data/blueprints.xml.append:9039
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_HEKTAR_REBEL\"]/desc"
 msgstr ""
+"Корпорация Гектар не привыкать заимствовать конструкции - когда крейсер "
+"повстанцев доказал свою эффективность в бою, неудивительно, что Гектар... "
+"позаимствовала его конструкцию. Этот корабль подходит как для боевых "
+"действий, так и для перевозки грузов."
 
 #: src-en/data/blueprints.xml.append:9118
 msgid ""
@@ -2930,7 +2938,7 @@ msgstr "Крейсер Лии"
 #: src-en/data/blueprints.xml.append:9192
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_NEWTONBEAMA_2\"]/name"
-msgstr ""
+msgstr "Сборник Правил"
 
 #: src-en/data/blueprints.xml.append:9194
 msgid ""
@@ -2945,22 +2953,25 @@ msgstr "Крейсер Лии"
 #: src-en/data/blueprints.xml.append:9266
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_NEWTONBEAMA_3\"]/name"
-msgstr ""
+msgstr "Полукомпетентный"
 
 #: src-en/data/blueprints.xml.append:9268
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_NEWTONBEAMA_3\"]/desc"
 msgstr ""
+"Тщательно все обдумав, Лия поняла, что ее старый корабль не готов к "
+"испытаниям Мультивселенной. Однако в спешке, стремясь модернизировать "
+"корабль, она забыла обеспечить его возможностью работы с щитами. Упс."
 
 #: src-en/data/blueprints.xml.append:9335
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC\"]/class"
-msgstr ""
+msgstr "Экспериментальный грузовой лайнер"
 
 #: src-en/data/blueprints.xml.append:9336
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC\"]/name"
-msgstr ""
+msgstr "Военные Излишки"
 
 #: src-en/data/blueprints.xml.append:9337
 msgid ""
@@ -2970,17 +2981,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9409
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC_2\"]/class"
-msgstr ""
+msgstr "Экспериментальный грузовой лайнер"
 
 #: src-en/data/blueprints.xml.append:9410
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC_2\"]/name"
-msgstr ""
+msgstr "\"Аванпост 31\""
 
 #: src-en/data/blueprints.xml.append:9411
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC_2\"]/desc"
 msgstr ""
+"На этом крейсере перевозили инопланетный образец, найденный на заброшенной "
+"базе - образец сбежал, что вызвало у экипажа сильнейшую паранойю."
 
 #: src-en/data/blueprints.xml.append:9486
 msgid ""
@@ -3108,7 +3121,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:10098
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FEDERATION_CARRIER\"]/name"
-msgstr ""
+msgstr "Звездный Владыка"
 
 #: src-en/data/blueprints.xml.append:10099
 msgid ""
