@@ -1,47 +1,47 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-01 18:42+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"trash-compactor-collection/dataevents_special_storagexmlappend/ru/>\n"
+"PO-Revision-Date: 2026-05-08 02:02+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
+"collection/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
+"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/events_special_storage.xml.append:10
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Связаться с Мусоропрессом."
 
 #: src-en/data/events_special_storage.xml.append:15
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "(Уплотнитель) Напечатать кастомную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:20
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Автоматический квартирмейстер) Напечатать кастомное оружие."
 
 #: src-en/data/events_special_storage.xml.append:25
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Уплотнитель лома) Напечатать кастомную осколочную пушку."
 
 #: src-en/data/events_special_storage.xml.append:27
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice[4]/event/text"
-msgstr ""
+msgstr "Вы начинаете процесс..."
 
 #: src-en/data/events_special_storage.xml.append:32
 msgid ""
@@ -53,36 +53,38 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[1]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "(Резервуар топлива) Создать случайное количество топлива от 1 до 10."
 
 #: src-en/data/events_special_storage.xml.append:56
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY_UPGRADES\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Архив резервной памяти. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:63
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Улучшение Мультивселенского телепортатора"
 
 #: src-en/data/events_special_storage.xml.append:69
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Архив резервной памяти. [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:74
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Архив резервной памяти. [Цена: 50~]"
 
 #: src-en/data/events_special_storage.xml.append:80
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"TC_CLONEBAY_NOLOSS_INSTALL\"]/text"
 msgstr ""
+"Вы собираетесь установить Архив резервной памяти.\n"
+"\t[Эффекты: При клонировании члены экипажа не теряют навыки]"
 
 #: src-en/data/events_special_storage.xml.append:83
 msgid ""
@@ -123,11 +125,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"TC_CLONEBAY_NOLOSS_INSTALL\"]/choice[@req=\"LIST_CREW_SCRAPPER\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 35~]"
 
 #: src-en/data/events_special_storage.xml.append:116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_CLONEBAY_NOLOSS\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 35~]"
 
 #: src-en/data/events_special_storage.xml.append:118
 msgid ""
@@ -153,30 +157,32 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_MULTIVERSAL\"]/text"
 msgstr ""
+"Ваши элементальные скрапперы могут улучшить ваш телепортатор с помощью "
+"Мультивселенской технологии."
 
 #: src-en/data/events_special_storage.xml.append:143
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_MULTIVERSAL\"]/choice[@req=\"teleporter\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Адамантиновые резервные конденсаторы. [Цена: 75~, 5|]"
 
 #: src-en/data/events_special_storage.xml.append:147
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_MULTIVERSAL\"]/choice[@req=\"teleporter\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Адамантиновые резервные конденсаторы. [Установлено]"
 
 #: src-en/data/events_special_storage.xml.append:151
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_MULTIVERSAL\"]/choice[@req=\"UPG_MULTIVERSAL_TELEPORTER_AMPLIFIER\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Мультиспектральный фокальный усилитель. [Установлено]"
 
 #: src-en/data/events_special_storage.xml.append:155
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_MULTIVERSAL\"]/choice[@req=\"UPG_MULTIVERSAL_TELEPORTER_AMPLIFIER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Мультиспектральный фокальный усилитель [Цена: 90~, 5|, 4}, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:159
 msgid ""
@@ -187,6 +193,11 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"MULTIVERSAL_INSTALL_AMPLIFIER\"]/text"
 msgstr ""
+"Ваш элементальный скраппер может взаимодействовать с телепортатором и "
+"установить модифицированный фокальный усилитель, который окутывает ваших "
+"бойцов энергией Мультивселенной.\n"
+"\t[Эффекты: когда телепортатор полностью заряжен, ваши абордажники получают "
+"25% к боевому урону и 35% к скорости саботажа]"
 
 #: src-en/data/events_special_storage.xml.append:168
 msgid ""
@@ -210,7 +221,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"MULTIVERSAL_INSTALL_AMPLIFIER\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Для этого улучшения требуется Телепортатор 5-го уровня"
 
 #: src-en/data/events_special_storage.xml.append:188
 msgid ""
@@ -221,6 +232,10 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"MULTIVERSAL_INSTALL_CAPACITOR\"]/text"
 msgstr ""
+"Ваш элементальный скраппер может взаимодействовать с телепортатором и "
+"усиливать адамантиновые конденсаторы потока энергии Мультивселенной.\n"
+"\t[Эффекты: мгновенная перезарядка, совместим с Восстанавливающим "
+"телепортатором и всеми другими улучшениями телепортатора]"
 
 #: src-en/data/events_special_storage.xml.append:203
 msgid ""
@@ -247,11 +262,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SEALANT\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 25~, "
+"1{]"
 
 #: src-en/data/events_special_storage.xml.append:234
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_SEALANT\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 25~, "
+"1{]\n"
+"\tСкрапперы улучшили метод установки бортовых усовершенствований, используя "
+"в этом процессе части собственных тел."
 
 #: src-en/data/events_special_storage.xml.append:237
 msgid ""
@@ -287,11 +308,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_EXTINGUISHERS\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 35~, "
+"4{, 1}]"
 
 #: src-en/data/events_special_storage.xml.append:268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_EXTINGUISHERS\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 35~, "
+"4{, 1}]\n"
+"\tСкрапперы улучшили метод установки бортовых усовершенствований, используя "
+"в этом процессе части собственных тел."
 
 #: src-en/data/events_special_storage.xml.append:271
 msgid ""
@@ -327,11 +354,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_BYPASS\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"1{]"
 
 #: src-en/data/events_special_storage.xml.append:303
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_BYPASS\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"1{]\n"
+"\tСкрапперы улучшили метод установки бортовых усовершенствований, используя "
+"в этом процессе части собственных тел."
 
 #: src-en/data/events_special_storage.xml.append:306
 msgid ""
@@ -367,11 +400,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_SCRAMBLER\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"100~, 9|]"
 
 #: src-en/data/events_special_storage.xml.append:337
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_SCRAMBLER\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"100~, 9|]\n"
+"\tСкрапперы улучшили метод установки бортовых усовершенствований, используя "
+"в этом процессе части собственных тел."
 
 #: src-en/data/events_special_storage.xml.append:340
 msgid ""
@@ -407,11 +446,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_LIFEFORM\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 10~, "
+"1|]"
 
 #: src-en/data/events_special_storage.xml.append:371
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_LIFEFORM\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 10~, "
+"1|]\n"
+"\tСкрапперы улучшили метод установки бортовых усовершенствований, используя "
+"в этом процессе части собственных тел."
 
 #: src-en/data/events_special_storage.xml.append:374
 msgid ""
@@ -438,11 +483,16 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_RESPIRATOR\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 50~]"
 
 #: src-en/data/events_special_storage.xml.append:401
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_RESPIRATOR\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"50~]\n"
+"\tСкрапперы улучшили метод установки бортовых усовершенствований, используя "
+"в этом процессе части собственных тел."
 
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
@@ -469,11 +519,18 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_ARM_INSTALL_SCRAP\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:430
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_SCRAP\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"40~]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
@@ -500,11 +557,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_ARM_INSTALL_MAGNET\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 55~, "
+"2{]"
 
 #: src-en/data/events_special_storage.xml.append:460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_MAGNET\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 55~, "
+"2{]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:464
 msgid ""
@@ -531,11 +596,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_ARM_INSTALL_DRONE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"2|]"
 
 #: src-en/data/events_special_storage.xml.append:491
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_DRONE\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"2|]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:495
 msgid ""
@@ -562,11 +635,18 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_ARM_INSTALL_REPAIR\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 25~]"
 
 #: src-en/data/events_special_storage.xml.append:522
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ARM_REPAIR\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"25~]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:526
 msgid ""
@@ -593,11 +673,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_ENGINE_JUMPER\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 15~, "
+"2{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_JUMPER\"]/text"
 msgstr ""
+"Похоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:555
 msgid ""
@@ -621,7 +707,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_JUMPER\"]/choice[@req=\"engines\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Вам нужны Двигатели 4-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:574
 msgid ""
@@ -633,11 +719,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_ENGINE_PERFORMANCE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 15~, "
+"2{]"
 
 #: src-en/data/events_special_storage.xml.append:587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_PERFORMANCE\"]/text"
 msgstr ""
+"Похоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:590
 msgid ""
@@ -661,7 +753,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_ENGINE_PERFORMANCE\"]/choice[@req=\"engines\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Вам нужны Двигатели 4-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:608
 msgid ""
@@ -673,11 +765,18 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_SHIELD_ION\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~]"
 
 #: src-en/data/events_special_storage.xml.append:621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_ION\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"40~]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:625
 msgid ""
@@ -701,7 +800,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_ION\"]/choice[@req=\"shields\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Вам нужны Щиты 4-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:642
 msgid ""
@@ -713,11 +812,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_SHIELD_STUN\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 10~, "
+"1{]"
 
 #: src-en/data/events_special_storage.xml.append:655
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_STUN\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 10~, "
+"1{]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:659
 msgid ""
@@ -741,7 +848,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_STUN\"]/choice[@req=\"shields\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Вам нужны Щиты 4-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:677
 msgid ""
@@ -753,11 +860,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_SHIELD_PERFORMANCE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 30~, "
+"2{]"
 
 #: src-en/data/events_special_storage.xml.append:690
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SHIELD_PERFORMANCE\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 30~, "
+"2{]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:694
 msgid ""
@@ -784,11 +899,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPON_REPLICATOR\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"9}]"
 
 #: src-en/data/events_special_storage.xml.append:721
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_REPLICATOR\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"9}]\n"
+"\tСкрапперы в целом испытывают неприязнь к оружейным системам, но все же "
+"освоились с ними *достаточно*, чтобы помочь с их установкой."
 
 #: src-en/data/events_special_storage.xml.append:724
 msgid ""
@@ -824,11 +945,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPON_PERFORMANCE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"7}]"
 
 #: src-en/data/events_special_storage.xml.append:755
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_PERFORMANCE\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"7}]\n"
+"\tСкрапперы в целом испытывают неприязнь к оружейным системам, но все же "
+"освоились с ними *достаточно*, чтобы помочь с их установкой."
 
 #: src-en/data/events_special_storage.xml.append:758
 msgid ""
@@ -864,11 +991,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_WEAPONS_BEAM_PIERCE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 70~, "
+"9}]"
 
 #: src-en/data/events_special_storage.xml.append:789
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_BEAM\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 70~, "
+"9}]\n"
+"\tСкрапперы в целом испытывают неприязнь к оружейным системам, но все же "
+"освоились с ними *достаточно*, чтобы помочь с их установкой."
 
 #: src-en/data/events_special_storage.xml.append:792
 msgid ""
@@ -888,7 +1021,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:806
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_WEAPON_BEAM\"]/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Вам нужна система Оружия 7-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:810
 msgid ""
@@ -900,11 +1033,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MIND_BUFF\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 20~, "
+"1|]"
 
 #: src-en/data/events_special_storage.xml.append:823
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_MIND_BUFF\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 20~, "
+"1|]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:827
 msgid ""
@@ -931,11 +1072,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MIND_IMMUNITY\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 55~, "
+"2}]"
 
 #: src-en/data/events_special_storage.xml.append:854
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_MIND_IMMUNITY\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 55~, "
+"2}]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:858
 msgid ""
@@ -971,11 +1120,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_HACK_STUN\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 50~, "
+"1|]"
 
 #: src-en/data/events_special_storage.xml.append:889
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_HACK_STUN\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 50~, "
+"1|]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:893
 msgid ""
@@ -1002,11 +1159,18 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_HACK_JAMMER\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 20~]"
 
 #: src-en/data/events_special_storage.xml.append:920
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_HACK_JAMMER\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"20~]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:924
 msgid ""
@@ -1033,11 +1197,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_PERFORMANCE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 25~, "
+"1{]"
 
 #: src-en/data/events_special_storage.xml.append:950
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_BATTERY_PERFORMANCE\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 25~, "
+"1{]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:954
 msgid ""
@@ -1064,11 +1236,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_BATTERY_GENERATOR\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 45~, "
+"6{]"
 
 #: src-en/data/events_special_storage.xml.append:981
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_BATTERY_GENERATOR\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 45~, "
+"6{]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:985
 msgid ""
@@ -1095,11 +1275,19 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TECH_NOPHASE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 25~, "
+"1{]"
 
 #: src-en/data/events_special_storage.xml.append:1012
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_TECH_NOPHASE\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 25~, "
+"1{]\n"
+"\tПохоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:1016
 msgid ""
@@ -1126,11 +1314,15 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_DRONE_SPEED\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 20~, "
+"4|]"
 
 #: src-en/data/events_special_storage.xml.append:1043
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_DRONE_SPEED\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 20~, "
+"4|]"
 
 #: src-en/data/events_special_storage.xml.append:1045
 msgid ""
@@ -1166,11 +1358,18 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_LEVEL4\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 60~, "
+"3|]"
 
 #: src-en/data/events_special_storage.xml.append:1076
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_LEVEL4\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 60~, "
+"3|]\n"
+"\tСкрапперы отлично разбираются в работе системам телепортации. Им нравится "
+"интегрировать свои телепортаторы с технологиями, которые они находят в "
+"Мультивселенной."
 
 #: src-en/data/events_special_storage.xml.append:1079
 msgid ""
@@ -1206,11 +1405,18 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_TELEPORTER_HEAL\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена:40~, "
+"1|]"
 
 #: src-en/data/events_special_storage.xml.append:1112
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_HEAL\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"1|]\n"
+"\tСкрапперы отлично разбираются в работе системам телепортации. Им нравится "
+"интегрировать свои телепортаторы с технологиями, которые они находят в "
+"Мультивселенной."
 
 #: src-en/data/events_special_storage.xml.append:1115
 msgid ""
@@ -1241,6 +1447,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_TELEPORTER_HEAL\"]/choice[@req=\"teleporter\""
 " and @lvl=\"4\"]/text"
 msgstr ""
+"Это улучшение недоступно. Оно не совместимо с Телепортатором 4-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:1137
 msgid ""
@@ -1252,11 +1459,18 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLOAK_LEVEL3\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 55~, "
+"3{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1150
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL3\"]/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 55~, "
+"3{, 1|]\n"
+"\tСкрапперы любят думать, что знают толк в технологии Маскировки, и, если "
+"честно, у них это неплохо получается. Будем надеяться, что вы не пожалеете о "
+"том, что позволили им заниматься этим?"
 
 #: src-en/data/events_special_storage.xml.append:1153
 msgid ""
@@ -1297,11 +1511,16 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLOAK_LEVEL4\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 70~, "
+"5{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL4\"]/text"
 msgstr ""
+"Скрапперы любят думать, что знают толк в технологии Маскировки, и, если "
+"честно, у них это неплохо получается. Будем надеяться, что вы не пожалеете о "
+"том, что позволили им заниматься этим?"
 
 #: src-en/data/events_special_storage.xml.append:1193
 msgid ""
@@ -1342,11 +1561,16 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLOAK_LEVEL5\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: "
+"105~, 5{, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:1231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_LEVEL5\"]/text"
 msgstr ""
+"Скрапперы любят думать, что знают толк в технологии Маскировки, и, если "
+"честно, у них это неплохо получается. Будем надеяться, что вы не пожалеете о "
+"том, что позволили им заниматься этим?"
 
 #: src-en/data/events_special_storage.xml.append:1233
 msgid ""
@@ -1387,11 +1611,16 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLOAK_FIRE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 45~, "
+"4}, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:1271
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_FIRE\"]/text"
 msgstr ""
+"Скрапперы любят думать, что знают толк в технологии Маскировки, и, если "
+"честно, у них это неплохо получается. Будем надеяться, что вы не пожалеете о "
+"том, что позволили им заниматься этим?"
 
 #: src-en/data/events_special_storage.xml.append:1273
 msgid ""
@@ -1414,13 +1643,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:1289
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_FIRE\"]/choice[@req=\"UPG_CLOAK_FIRE\"]/text"
-msgstr ""
+msgstr "Это улучшение уже установлено."
 
 #: src-en/data/events_special_storage.xml.append:1293
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLOAK_FIRE\"]/choice[@req=\"cloaking\""
 " and @lvl=\"3\"]/text"
 msgstr ""
+"Это улучшение недоступно. Несовместимо с Маскировкой 3-го уровня и выше."
 
 #: src-en/data/events_special_storage.xml.append:1297
 msgid ""
@@ -1432,11 +1662,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_LEVEL4\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 80~, "
+"1|]"
 
 #: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_LEVEL4\"]/text"
 msgstr ""
+"Похоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:1313
 msgid ""
@@ -1460,7 +1696,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_LEVEL4\"]/choice[@req=\"UPG_MEDBAY_NANO\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Не совместимо с Медботами."
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
@@ -1472,11 +1708,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_NANO\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 40~, "
+"2|]"
 
 #: src-en/data/events_special_storage.xml.append:1345
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_NANO\"]/text"
 msgstr ""
+"Похоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:1348
 msgid ""
@@ -1500,7 +1742,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_NANO\"]/choice[@req=\"medbay\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Это улучшение недоступно. Не совместимо с Медотсеком 4-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:1366
 msgid ""
@@ -1512,11 +1754,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_SPEED\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 15~, "
+"1{]"
 
 #: src-en/data/events_special_storage.xml.append:1379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_SPEED\"]/text"
 msgstr ""
+"Похоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:1382
 msgid ""
@@ -1543,11 +1791,16 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_MEDBAY_RESISTANCE\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 10~]"
 
 #: src-en/data/events_special_storage.xml.append:1409
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_MEDBAY_RESISTANCE\"]/text"
 msgstr ""
+"Похоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
@@ -1574,11 +1827,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM_CLONEBAY_DNA\"]/mod-"
 "append:choice/text"
 msgstr ""
+"Ваши скрапперы могут установить это улучшение по сниженной цене. [Цена: 35~, "
+"2{]"
 
 #: src-en/data/events_special_storage.xml.append:1438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"SCRAPPER_INSTALL_SYSTEM_CLONEBAY_DNA\"]/text"
 msgstr ""
+"Похоже, что скрапперы отлично умеют интегрировать себя и свой лом в свои "
+"корабли, что позволяет им преуспевать в установке и обслуживании корабельных "
+"улучшений.\n"
+"\tОднако этот талант, судя по всему, не всегда проявляется одинаково."
 
 #: src-en/data/events_special_storage.xml.append:1441
 msgid ""
@@ -1604,7 +1863,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/FTL/mod:findName[42]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Приготовить лапшу быстрого приготовления."
 
 #: src-en/data/events_special_storage.xml.append:1477
 msgid ""
@@ -1614,137 +1873,141 @@ msgstr "Что бы вы хотели сделать?"
 #: src-en/data/events_special_storage.xml.append:1479
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[1]/text"
-msgstr ""
+msgstr "Порция лапши (базовая)"
 
 #: src-en/data/events_special_storage.xml.append:1483
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Порция лапши (1-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Порция лапши (2-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1491
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Порция лапши (3-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Порция лапши (4-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1499
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Порция лапши (5-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Порция лапши (6-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1507
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Порция лапши (7-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1511
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Порция лапши (8-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1515
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"9\"]/text"
-msgstr ""
+msgstr "Порция лапши (9-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"10\"]/text"
-msgstr ""
+msgstr "Порция лапши (10-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1523
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"11\"]/text"
-msgstr ""
+msgstr "Порция лапши (11-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1527
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"12\"]/text"
-msgstr ""
+msgstr "Порция лапши (12-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"13\"]/text"
-msgstr ""
+msgstr "Порция лапши (13-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"14\"]/text"
-msgstr ""
+msgstr "Порция лапши (14-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1539
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"15\"]/text"
-msgstr ""
+msgstr "Порция лапши (15-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1543
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"16\"]/text"
-msgstr ""
+msgstr "Порция лапши (16-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1547
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"17\"]/text"
-msgstr ""
+msgstr "Порция лапши (17-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1551
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"18\"]/text"
-msgstr ""
+msgstr "Порция лапши (18-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1555
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"19\"]/text"
-msgstr ""
+msgstr "Порция лапши (19-й уровень)"
 
 #: src-en/data/events_special_storage.xml.append:1559
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[@req=\"NOODLE_RATIONS_UPGRADE\""
 " and @lvl=\"20\"]/text"
-msgstr ""
+msgstr "Порция лапши (20-й уровень, максимальный)"
 
 #: src-en/data/events_special_storage.xml.append:1564
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[22]/text"
 msgstr ""
+"Улучшайте свои порции лапши с помощью топлива, чтобы получить дополнительный "
+"множитель 1.01х к скорости передвижения, урону в бою и максимальному запасу "
+"здоровья. Не спрашивайте, как именно топливо помогает улучшать порции - это "
+"секретная информация."
 
 #: src-en/data/events_special_storage.xml.append:1566
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_NOODLES\"]/choice[22]/event/text"
-msgstr ""
+msgstr "Лапша подвергается обработке. Вы не знаете, как именно."
 
 #: src-en/data/events_special_storage.xml.append:1572
 msgid ""
@@ -1761,6 +2024,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice/text"
 msgstr ""
+"(Броня из лома) Ваша Рулевая рубка позволяет вам таранить вражеский корабль, "
+"хотя это может нанести небольшой ущерб корпусу. [Цена: 10~]"
 
 #: src-en/data/events_special_storage.xml.append:1612
 msgid ""
@@ -1776,11 +2041,13 @@ msgstr "Да."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_SCRAP\"]/choice[1]/event/text"
 msgstr ""
+"Вы переключаете всю мощность на двигатели и с максимальной силой тараните "
+"вражеское судно."
 
 #: src-en/data/events_special_storage.xml.append:1622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_RAMMING_SCRAP\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжать бой!"
 
 #: src-en/data/events_special_storage.xml.append:1628
 msgid ""
@@ -1790,111 +2057,168 @@ msgstr "Неважно."
 #: src-en/data/events_special_storage.xml.append:1640
 msgid "data/events_special_storage.xml.append$//event[@name=\"FLAK_FORGE\"]/text"
 msgstr ""
+"Вы запускаете Уплотнитель - он гудит, набирая мощность, пока вы смотрите на "
+"экран выбора оружия. Похоже, у вас в распоряжении довольно много чертежей. "
+"Что бы вы хотели создать?"
 
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FLAK_FORGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Чертежи обычного осколочного оружия"
 
 #: src-en/data/events_special_storage.xml.append:1646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FLAK_FORGE\"]/choice[2]/text"
-msgstr ""
+msgstr "Чертежи Пожирателя мусора"
 
 #: src-en/data/events_special_storage.xml.append:1650
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FLAK_FORGE\"]/choice[3]/text"
-msgstr ""
+msgstr "Чертежи бомбового осколочного оружия"
 
 #: src-en/data/events_special_storage.xml.append:1654
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"FLAK_FORGE\"]/choice[4]/text"
-msgstr ""
+msgstr "Чертежи осколочных дронов"
 
 #: src-en/data/events_special_storage.xml.append:1670
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Отправить своих скрапперов на поиски лома! [Это можно сделать три раза в "
+"каждом секторе]"
 
 #: src-en/data/events_special_storage.xml.append:1674
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Ваши скрапперы уже один раз обыскали этот сектор."
 
 #: src-en/data/events_special_storage.xml.append:1678
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Ваши скрапперы уже два раза обыскали этот сектор."
 
 #: src-en/data/events_special_storage.xml.append:1682
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Ваши скрапперы уже три раза обыскали этот сектор."
 
 #: src-en/data/events_special_storage.xml.append:1686
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB\"]/mod-"
 "append:choice[5]/text"
-msgstr ""
+msgstr "Отправить Пожирателя мусора, чтобы он спрессовал плавающие обломки."
 
 #: src-en/data/events_special_storage.xml.append:1697
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_SCRAPPER\"]/event[1]/text"
 msgstr ""
+"Уставшие, но воодушевленные, ваши скрапперы возвращаются на корабль, неся "
+"мешки, наполненные странной смесью мусора. К вашему удивлению, среди куч "
+"мусора им удалось добыть пригодные для использования ресурсы, что "
+"свидетельствует об их находчивости. Однако то, что по-настоящему привлекает "
+"их внимание, - это огромное количество блестящего мусора, который, кажется, "
+"гипнотизирует их. Несмотря на отсутствие практической ценности, их увлечение "
+"служит напоминанием о том, что даже в самых мрачных обстоятельствах поиск "
+"радости и красоты в самых простых вещах может стать источником стойкости и "
+"вдохновения."
 
 #: src-en/data/events_special_storage.xml.append:1702
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_SCRAPPER\"]/event[2]/text"
 msgstr ""
+"Ваши скрапперы торжественно возвращаются на корабль, неся ящик, доверху "
+"набитый ценными дрон-комплектами. Их находка открывает захватывающие "
+"возможности для усиления потенциала вашего корабля перед лицом неминуемой "
+"опасности, таящейся в космосе."
 
 #: src-en/data/events_special_storage.xml.append:1707
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_SCRAPPER\"]/event[3]/text"
 msgstr ""
+"Когда вы спрашиваете о происхождении топлива, которое они вам передали, "
+"скрапперы обмениваются нервными взглядами, уклоняясь от ответа. Вас "
+"охватывает тревожное предчувствие, когда вы понимаете, что маяк снаружи "
+"перестал работать - это признак того, что их действия, возможно, привели к "
+"непредвиденным последствиям. Однако размышления о прошлом ничего не изменят, "
+"и вы смиряетесь с ситуацией."
 
 #: src-en/data/events_special_storage.xml.append:1712
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_SCRAPPER\"]/event[4]/text"
 msgstr ""
+"Ваши скрапперы с профессионализмом и мастерством разбирают целый отсек "
+"разрушенного корабля, превращая его в ценный лом, который можно использовать "
+"для ремонта и улучшений. Среди извлеченных материалов один из ваших "
+"скрапперов находит ценную фигурку с качающейся головой протогена и радость "
+"явно читается на его лице. Эта находка напоминает о том, что даже в условиях "
+"изнурительной борьбы за выживание можно найти маленькие моменты счастья."
 
 #: src-en/data/events_special_storage.xml.append:1717
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_SCRAPPER\"]/event[5]/text"
 msgstr ""
+"К вашему удивлению, ваши скрапперы возвращаются гораздо позже, чем "
+"ожидалось, с кучкой лома в руках. Независимо от того, заблудились ли они или "
+"просто пытаются скрыть неудачу экспедиции, вам невольно становится "
+"интересно, что же на самом деле произошло во время их путешествия. Тем не "
+"менее, вы рады их возвращению и тому скромному вкладу, который им удалось "
+"собрать, понимая, что безграничные просторы космоса часто таят в себе "
+"неожиданные трудности и препятствия."
 
 #: src-en/data/events_special_storage.xml.append:1723
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_SCRAPPER\"]/event[6]/text"
 msgstr ""
+"С чувством тревоги наконец возвращаются ваши скрапперы, и их опоздание "
+"только усиливает ваше осознание приближающегося флота. Хотя в их руках лишь "
+"скудное количество лома, вы понимаете, что время не терпит. Каждый ресурс на "
+"счету, пока вы отчаянно пытаетесь опередить преследующие силы, максимально "
+"используя то, что у вас есть, и выжимая из корабля все возможное. Флот "
+"приближается, и вы готовитесь к предстоящим испытаниям, понимая, что каждое "
+"решение и каждая единица лома могут стать тем, что разделит выживание и "
+"поражение."
 
 #: src-en/data/events_special_storage.xml.append:1732
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT\"]/event[1]/text"
 msgstr ""
+"Пожиратель мусора возвращается с несколькими кучами мусора. Вы не знаете, "
+"откуда он взялся, но вам это и не особо интересно."
 
 #: src-en/data/events_special_storage.xml.append:1736
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT\"]/event[2]/text"
 msgstr ""
+"Судя по фиолетовым следам на большей части добытого лома, поблизости, "
+"видимо, находился разрушенный пиратский корабль."
 
 #: src-en/data/events_special_storage.xml.append:1740
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT\"]/event[3]/text"
 msgstr ""
+"Получить побольше трофеев - это всегда кстати. И в этот раз тоже. Правда, "
+"возникает вопрос, зачем Пожиратель мусора притащил с собой несколько "
+"статуэток протогенов. Может, ему просто показалось, что они симпатичные."
 
 #: src-en/data/events_special_storage.xml.append:1744
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT\"]/event[4]/text"
 msgstr ""
+"Вы начинаете сомневаться, вернется ли Пожиратель мусора вообще после того, "
+"как вы его отпустили, но, похоже, он вернулся. И принес с собой лом! Какой "
+"практичный подарок."
 
 #: src-en/data/events_special_storage.xml.append:1748
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT\"]/event[5]/text"
 msgstr ""
+"Похоже, Пожиратель мусора нашел столько техники, что сможет смастерить для "
+"вас что-нибудь; что именно вам нужно?"
 
 #: src-en/data/events_special_storage.xml.append:1750
 msgid ""
@@ -1905,257 +2229,278 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT\"]/event[6]/text"
 msgstr ""
+"Пожиратель мусора вернулся с огромным опозданием и принес с собой совсем "
+"немного. Хуже того, вы уверены, что флот с каждой секундой приближается все "
+"ближе."
 
 #: src-en/data/events_special_storage.xml.append:1760
 msgid ""
 "data/events_special_storage.xml.append$//eventList[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT\"]/event[7]/text"
 msgstr ""
+"Пожиратель мусора вернулся с огромным опозданием и принес с собой совсем "
+"немного. Хуже того, вы уверены, что флот с каждой секундой приближается все "
+"ближе."
 
 #: src-en/data/events_special_storage.xml.append:1767
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/text"
 msgstr ""
+"Пожиратель мусора возвращается с победой - он нашел еще немного электроники "
+"и лома и спрашивает вас, что из этого сделать."
 
 #: src-en/data/events_special_storage.xml.append:1770
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[1]/text"
-msgstr ""
+msgstr "Попросить Пожирателя мусора создать оружие."
 
 #: src-en/data/events_special_storage.xml.append:1772
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[1]/event/text"
 msgstr ""
+"Пожиратель мусора кивает и приступает к делу - и из сложного танго ржавчины "
+"и механизмов рождается настоящая баллада винтов и болтов. У вас в руках - "
+"просто чудовищное оружие!"
 
 #: src-en/data/events_special_storage.xml.append:1778
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[2]/text"
-msgstr ""
+msgstr "Попросить Пожирателя мусора создать дрон."
 
 #: src-en/data/events_special_storage.xml.append:1780
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[2]/event/text"
 msgstr ""
+"Пожиратель мусора начинает соединять воедино разные части найденной техники "
+"и электроники, а затем представляет вам полностью работоспособный боевой "
+"дрон!"
 
 #: src-en/data/events_special_storage.xml.append:1786
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Попросить Пожирателя мусора создать скраппера."
 
 #: src-en/data/events_special_storage.xml.append:1788
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[3]/event/text"
 msgstr ""
+"Пожиратель мусора кивает и начинает вырезать из металла фигурку, "
+"напоминающую ланиуса. Вы пытаетесь объяснить ему, что вам не нужна "
+"декоративная статуэтка, но она внезапно оживает!"
 
 #: src-en/data/events_special_storage.xml.append:1789
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[3]/event/crewMember"
-msgstr ""
+msgstr "Скрапфейс Статуман"
 
 #: src-en/data/events_special_storage.xml.append:1793
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[4]/text"
-msgstr ""
+msgstr "Разобрать все на пригодные к использованию материалы."
 
 #: src-en/data/events_special_storage.xml.append:1795
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_JOB_TRASH_COMPACT_CHOICE\"]/choice[4]/event/text"
 msgstr ""
+"Сказать ему, чтобы он не беспокоился - такого понятия, как \"слишком много "
+"лома\", не существует. Пожиратель мусора поможет вам собрать каждый кусочек."
 
 #: src-en/data/events_special_storage.xml.append:1811
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Искать Пожирателя мусора."
 
 #: src-en/data/events_special_storage.xml.append:1816
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Искать ТРЕКЕРА."
 
 #: src-en/data/events_special_storage.xml.append:1821
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Искать Скайгирр."
 
 #: src-en/data/events_special_storage.xml.append:1841
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Разумный."
 
 #: src-en/data/events_special_storage.xml.append:1846
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Скраппер."
 
 #: src-en/data/events_special_storage.xml.append:1851
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Авали."
 
 #: src-en/data/events_special_storage.xml.append:1856
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "[УЛУЧШЕНИЕ ЭКИПАЖА]"
 
 #: src-en/data/events_special_storage.xml.append:1877
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/text"
 msgstr ""
+"Вы открыли лабораторное меню улучшения экипажа.\n"
+"\tКаждое улучшение можно применить 5 раз."
 
 #: src-en/data/events_special_storage.xml.append:1880
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_HEALTH\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение жизней 1 раз"
 
 #: src-en/data/events_special_storage.xml.append:1884
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_DAMAGE\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение урона 1 раз"
 
 #: src-en/data/events_special_storage.xml.append:1888
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_MOVESPEED\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение передвижения 1 раз"
 
 #: src-en/data/events_special_storage.xml.append:1892
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установлено: Ускорение ремонта и саботажа 1 раз"
 
 #: src-en/data/events_special_storage.xml.append:1896
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_HEALTH\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение здоровья 2 раза"
 
 #: src-en/data/events_special_storage.xml.append:1900
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_DAMAGE\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение урона 2 раза"
 
 #: src-en/data/events_special_storage.xml.append:1904
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_MOVESPEED\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение передвижения 2 раза"
 
 #: src-en/data/events_special_storage.xml.append:1908
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение скорости ремонта и саботажа 2 раза"
 
 #: src-en/data/events_special_storage.xml.append:1912
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_HEALTH\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение здоровья 3 раза"
 
 #: src-en/data/events_special_storage.xml.append:1916
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_DAMAGE\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение урона 3 раза"
 
 #: src-en/data/events_special_storage.xml.append:1920
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_MOVESPEED\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение передвижения 3 раза"
 
 #: src-en/data/events_special_storage.xml.append:1924
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение скорости ремонта и саботажа 3 раза"
 
 #: src-en/data/events_special_storage.xml.append:1928
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_HEALTH\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение здоровья 4 раза"
 
 #: src-en/data/events_special_storage.xml.append:1932
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_DAMAGE\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение урона 4 раза"
 
 #: src-en/data/events_special_storage.xml.append:1936
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_MOVESPEED\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение передвижения 4 раза"
 
 #: src-en/data/events_special_storage.xml.append:1940
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение скорости ремонта и саботажа 4 раза"
 
 #: src-en/data/events_special_storage.xml.append:1944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_HEALTH\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение здоровья 5 раз"
 
 #: src-en/data/events_special_storage.xml.append:1948
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_DAMAGE\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение урона 5 раз"
 
 #: src-en/data/events_special_storage.xml.append:1952
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_MOVESPEED\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение передвижения 5 раз"
 
 #: src-en/data/events_special_storage.xml.append:1956
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Установлено: Улучшение скорости ремонта и саботажа 5 раз"
 
 #: src-en/data/events_special_storage.xml.append:1960
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_HEALTH\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение: Здоровье экипажа."
 
 #: src-en/data/events_special_storage.xml.append:1964
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_DAMAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение: Урон экипажа."
 
 #: src-en/data/events_special_storage.xml.append:1968
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение: Скорость ремонта и саботажа экипажа."
 
 #: src-en/data/events_special_storage.xml.append:1972
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_CREW_UPGRADER_MOVESPEED\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Установить улучшение: Скорость передвижения экипажа."
 
 #: src-en/data/events_special_storage.xml.append:1976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER\"]/choice[@req=\"LAB_UPGRADE\"]/text"
-msgstr ""
+msgstr "[УЛУЧШЕННАЯ БОРТОВАЯ ЛАБОРАТОРИЯ] Продвинутые улучшения экипажа."
 
 #: src-en/data/events_special_storage.xml.append:1980
 msgid ""
@@ -2166,6 +2511,8 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER_HEALTH\"]/text"
 msgstr ""
+"Вы хотите добавить Улучшение здоровья.\n"
+"\t[Эффекты: Максимальное здоровье экипажа увеличено на 5%]"
 
 #: src-en/data/events_special_storage.xml.append:1989
 msgid ""
@@ -2191,6 +2538,8 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER_DAMAGE\"]/text"
 msgstr ""
+"Вы хотите добавить Улучшение урона.\n"
+"\t[Эффекты: Урон, наносимый экипажем, увеличен на 5%]"
 
 #: src-en/data/events_special_storage.xml.append:2018
 msgid ""
@@ -2216,6 +2565,8 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\"]/text"
 msgstr ""
+"Вы хотите добавить Улучшение скорости ремонта и саботажа.\n"
+"\t[Эффекты: Скорость ремонта и саботажа экипажа увеличена на 10%]"
 
 #: src-en/data/events_special_storage.xml.append:2047
 msgid ""
@@ -2241,6 +2592,8 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER_MOVESPEED\"]/text"
 msgstr ""
+"Вы хотите добавить Улучшение скорости передвижения.\n"
+"\t[Эффекты: Скорость передвижения экипажа увеличена на 5%]"
 
 #: src-en/data/events_special_storage.xml.append:2076
 msgid ""
@@ -2265,17 +2618,17 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:2103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_CREW_UPGRADER_ADVANCED\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Вернуться назад. [Мне еще нужно создать эти улучшения :(]"
 
 #: src-en/data/events_special_storage.xml.append:2110
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_ROBOTTO\"]/text"
-msgstr ""
+msgstr "Вы открыли лабораторное меню для: [РАЗУМНОГО]"
 
 #: src-en/data/events_special_storage.xml.append:2157
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_ROBOTTO\"]/choice[@req=\"robottos\"]/text"
-msgstr ""
+msgstr "Улучшить вашего Разумного."
 
 #: src-en/data/events_special_storage.xml.append:2162
 msgid ""
@@ -2285,60 +2638,61 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:2259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/text"
-msgstr ""
+msgstr "Вы открыли лабораторное меню для: [СКРАППЕР]"
 
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[1]/text"
-msgstr ""
+msgstr "Осн: Снаряжение для абордажа [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:2265
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[@req=\"LAB_SCRAPPER_PRIMARY_INSTALLED\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Осн: Продвинутое снаряжение для абордажа [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:2269
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[3]/text"
-msgstr ""
+msgstr "Осн: Генератор защитного поля [Улучшение уже добавлено]"
 
 #: src-en/data/events_special_storage.xml.append:2273
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[@req=\"LAB_SCRAPPER_BOARDING_GEAR\"]/text"
-msgstr ""
+msgstr "Осн: Продвинутое снаряжение для абордажа [Цена: 70~,4|]"
 
 #: src-en/data/events_special_storage.xml.append:2277
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[5]/text"
-msgstr ""
+msgstr "Осн: Снаряжение для абордажа [Цена: 35~,2|]"
 
 #: src-en/data/events_special_storage.xml.append:2281
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[6]/text"
-msgstr ""
+msgstr "Осн: Генератор защитного поля [Цена: 50~,5|]"
 
 #: src-en/data/events_special_storage.xml.append:2285
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[@req=\"LAB_SCRAPPER_TELEPATHIC_RESISTORS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Осн: Телепатическое сопротивление [Цена: 75~,6|]"
 
 #: src-en/data/events_special_storage.xml.append:2289
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[@req=\"LAB_SCRAPPER_TELEPATHIC_RESISTORS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Установлено: Телепатическое сопротивление"
 
 #: src-en/data/events_special_storage.xml.append:2293
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[@req=\"LAB_SCRAPPER_DEFENSE_FIELD_GENERATOR\"]/text"
-msgstr ""
+msgstr "Установлено: Генератор защитного поля"
 
 #: src-en/data/events_special_storage.xml.append:2297
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER\"]/choice[10]/text"
 msgstr ""
+"[ПРОДВИНУТЫЙ ПРОЦЕССОР ЛОМА] Модернизировать и улучшить своих скрапперов."
 
 #: src-en/data/events_special_storage.xml.append:2301
 msgid ""
