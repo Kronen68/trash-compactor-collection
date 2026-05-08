@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-08 02:02+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-05-08 19:42+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -2703,6 +2703,16 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_BOARDING_GEAR\"]/text"
 msgstr ""
+"Вы хотите добавить Снаряжение для абордажа для своих скрапперов.\n"
+"\t[Эффекты: Урон в бою увеличивается на 7.5%, максимальное здоровье "
+"увеличивается на 7.5%, скорость саботажа увеличивается на 15%, однако "
+"скорость передвижения снижается на 10%]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу скрапперов .... Вы также не сможете "
+"деактивировать эту модификацию]\n"
+"\t\n"
+"\t[После разблокировки это улучшение можно усилить дополнительными опциями]"
 
 #: src-en/data/events_special_storage.xml.append:2314
 msgid ""
@@ -2728,6 +2738,15 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_DEFENSE_FIELD_GENERATOR\"]/text"
 msgstr ""
+"Вы хотите добавить Генератор защитного поля.\n"
+"\t[Эффекты: Экипаж скрапперов получает на 25% меньше урона, находясь на "
+"борту вашего корабля]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу скрапперов .... Вы также не сможете "
+"деактивировать эту модификацию]\n"
+"\t\n"
+"\t[После разблокировки это улучшение можно усилить дополнительными опциями]"
 
 #: src-en/data/events_special_storage.xml.append:2339
 msgid ""
@@ -2753,6 +2772,10 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_TELEPATHIC_RESISTORS\"]/text"
 msgstr ""
+"Вы хотите добавить Телепатическое сопротивление.\n"
+"\t[Эффекты: Экипаж скрапперов получает на 25% меньше урона, находясь на "
+"борту вашего корабля]\n"
+"\t[После разблокировки это улучшение можно усилить дополнительными опциями]"
 
 #: src-en/data/events_special_storage.xml.append:2363
 msgid ""
@@ -2778,6 +2801,12 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_SCRAPPER_ADVANCED_BOARDING_GEAR\"]/text"
 msgstr ""
+"Вы хотите добавить Снаряжение для абордажа.\n"
+"\t[Эффекты: Урон в бою увеличивается на 7.5%, максимальное здоровье "
+"увеличивается на 7.5%, скорость саботажа увеличивается на 15%, однако "
+"скорость передвижения снижается на 10%]\n"
+"\t\n"
+"\t[После разблокировки это улучшение можно усилить дополнительными опциями]"
 
 #: src-en/data/events_special_storage.xml.append:2387
 msgid ""
@@ -2803,56 +2832,58 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/text"
 msgstr ""
+"[Продвинутый процессор лома] Используя этот продвинутый модуль, вы сможете "
+"модернизировать своих скрапперов различными способами."
 
 #: src-en/data/events_special_storage.xml.append:2445
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[1]/text"
-msgstr ""
+msgstr "[Руководство для скрапперов]"
 
 #: src-en/data/events_special_storage.xml.append:2449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"scrapper\"]/text"
-msgstr ""
+msgstr "Улучшение своих скрапперов."
 
 #: src-en/data/events_special_storage.xml.append:2453
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"scrapper_soldier\"]/text"
-msgstr ""
+msgstr "Улучшение своих скрапперов-Солдатов."
 
 #: src-en/data/events_special_storage.xml.append:2457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"scrapper_engineer\"]/text"
-msgstr ""
+msgstr "Улучшение своих скрапперов-Инженеров."
 
 #: src-en/data/events_special_storage.xml.append:2461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"scrapper_medic\"]/text"
-msgstr ""
+msgstr "Улучшение своих скрапперов-Медиков."
 
 #: src-en/data/events_special_storage.xml.append:2465
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"scrapper_defender\"]/text"
-msgstr ""
+msgstr "Улучшение своих скрапперов-Защитников."
 
 #: src-en/data/events_special_storage.xml.append:2469
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"scrapper_heavy\"]/text"
-msgstr ""
+msgstr "Улучшение своих тяжелых скрапперов-Солдатов."
 
 #: src-en/data/events_special_storage.xml.append:2473
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"scrapper_scavenger\"]/text"
-msgstr ""
+msgstr "Улучшение своих скрапперов-Мусорщиков."
 
 #: src-en/data/events_special_storage.xml.append:2477
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[@req=\"lanius\"]/text"
-msgstr ""
+msgstr "Трансформировать своего ланиуса при помощи лома."
 
 #: src-en/data/events_special_storage.xml.append:2481
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE\"]/choice[10]/text"
-msgstr ""
+msgstr "Усилить своих скрапперов энергией Мультивселенной."
 
 #: src-en/data/events_special_storage.xml.append:2485
 msgid ""
@@ -2862,12 +2893,12 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:2493
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_LANIUS\"]/text"
-msgstr ""
+msgstr "Вашего ланиуса можно покрыть ломом, превратив его в скраппера."
 
 #: src-en/data/events_special_storage.xml.append:2496
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_LANIUS\"]/choice[@req=\"lanius\"]/text"
-msgstr ""
+msgstr "Создать скраппера."
 
 #: src-en/data/events_special_storage.xml.append:2500
 msgid ""
@@ -2878,21 +2909,23 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE\"]/text"
 msgstr ""
+"Вашего базового скраппера можно модернизировать до одного из трех вариантов "
+"второго уровня."
 
 #: src-en/data/events_special_storage.xml.append:2510
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE\"]/choice[1]/text"
-msgstr ""
+msgstr "Создать скраппера-Солдата."
 
 #: src-en/data/events_special_storage.xml.append:2514
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE\"]/choice[2]/text"
-msgstr ""
+msgstr "Создать скраппера-Инженера."
 
 #: src-en/data/events_special_storage.xml.append:2518
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE\"]/choice[3]/text"
-msgstr ""
+msgstr "Создать скраппера-Медика."
 
 #: src-en/data/events_special_storage.xml.append:2522
 msgid ""
@@ -2903,11 +2936,13 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SOLDIER\"]/text"
 msgstr ""
+"Вы можете модернизировать своего скраппера-Солдата до элитного тяжелого "
+"варианта."
 
 #: src-en/data/events_special_storage.xml.append:2532
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SOLDIER\"]/choice[@req=\"scrapper_soldier\"]/text"
-msgstr ""
+msgstr "Улучшить скраппера-Солдата до тяжелого скраппера-Солдата."
 
 #: src-en/data/events_special_storage.xml.append:2536
 msgid ""
@@ -2918,11 +2953,13 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ENGINEER\"]/text"
 msgstr ""
+"Вы можете модернизировать своего скраппера-Инженера до элитного скраппера-"
+"Мусорщика."
 
 #: src-en/data/events_special_storage.xml.append:2546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ENGINEER\"]/choice[@req=\"scrapper_engineer\"]/text"
-msgstr ""
+msgstr "Улучшить скраппера-Инженера до скраппера-Мусорщика."
 
 #: src-en/data/events_special_storage.xml.append:2550
 msgid ""
@@ -2932,12 +2969,12 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:2558
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_MEDIC\"]/text"
-msgstr ""
+msgstr "Кого вы хотите улучшить?"
 
 #: src-en/data/events_special_storage.xml.append:2560
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_MEDIC\"]/choice[@req=\"scrapper_medic\"]/text"
-msgstr ""
+msgstr "Улучшить скраппера-Медика до скраппера-Защитника."
 
 #: src-en/data/events_special_storage.xml.append:2564
 msgid ""
@@ -2947,12 +2984,12 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:2572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_DEFENDER\"]/text"
-msgstr ""
+msgstr "Кого вы хотите улучшить?"
 
 #: src-en/data/events_special_storage.xml.append:2574
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_DEFENDER\"]/choice[@req=\"scrapper_defender\"]/text"
-msgstr ""
+msgstr "Улучшение своих скрапперов-Защитников."
 
 #: src-en/data/events_special_storage.xml.append:2578
 msgid ""
@@ -2962,12 +2999,12 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:2585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_HEAVY\"]/text"
-msgstr ""
+msgstr "Кого вы хотите улучшить?"
 
 #: src-en/data/events_special_storage.xml.append:2587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_HEAVY\"]/choice[@req=\"scrapper_heavy\"]/text"
-msgstr ""
+msgstr "Улучшение своих тяжелых скрапперов-Солдатов."
 
 #: src-en/data/events_special_storage.xml.append:2591
 msgid ""
@@ -2977,12 +3014,12 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:2599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SCAVENGER\"]/text"
-msgstr ""
+msgstr "Кого вы хотите улучшить?"
 
 #: src-en/data/events_special_storage.xml.append:2601
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SCAVENGER\"]/choice[@req=\"scrapper_scavenger\"]/text"
-msgstr ""
+msgstr "Улучшить своего скраппера-Мусорщика."
 
 #: src-en/data/events_special_storage.xml.append:2605
 msgid ""
@@ -2993,6 +3030,16 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GUIDE\"]/text"
 msgstr ""
+"Скрапперы уникальны тем, что их можно модернизировать во многие другие "
+"специализированные варианты. Существует 3 уровня скрапперов.\n"
+"        Уровень 1: Скраппер\n"
+"        Уровень 2: Солдат, Инженер, Медик\n"
+"\t3-й уровень: Тяжелый, Мусорщик и Защитник\n"
+"        Вы можете модернизировать скрапперов до более высоких уровней за лом "
+"и другие ресурсы.\n"
+"        С 1-го уровня на 2-й\n"
+"        Со 2-го уровня на 3-й\n"
+"        С 3-го уровня на улучшенный/усиленный."
 
 #: src-en/data/events_special_storage.xml.append:2623
 msgid ""
@@ -3003,6 +3050,15 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_LANIUS\"]/text"
 msgstr ""
+"Подвергает вашего ланиуса процессу превращения в скраппера.\n"
+"        [Уровень 1] Скраппер\n"
+"\t115 здоровья\n"
+"        0.5x получаемый урон от огня\n"
+"        0.5x истощение кислорода\n"
+"        Наносит 0.75x урона в бою\n"
+"        1.5x урон от саботажа\n"
+"        1.5x скорость ремонта\n"
+"        0.75x скорость передвижения"
 
 #: src-en/data/events_special_storage.xml.append:2643
 msgid ""
@@ -3012,7 +3068,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2645
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_LANIUS\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш ланиус претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:2653
 msgid ""
@@ -3023,6 +3079,15 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_SOLDIER\"]/text"
 msgstr ""
+"[От базового уровня до специалиста 1-го уровня] Превращает тело скраппера в "
+"боевое оружие.\n"
+"        [Специализация] Наносит 1.35х урона в бою\n"
+"        [Специализация] 2х урон при саботаже\n"
+"        Невозможно управлять или ремонтировать системы\n"
+"\t115 здоровья\n"
+"        0.5x получаемый урон от огня\n"
+"        0.5x истощение кислорода\n"
+"        0.75x скорость передвижения"
 
 #: src-en/data/events_special_storage.xml.append:2673
 msgid ""
@@ -3032,7 +3097,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2675
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_SOLDIER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:2685
 msgid ""
@@ -3043,6 +3108,17 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ENGINEER\"]/text"
 msgstr ""
+"[От базового уровня до специалиста 1-го уровня] Превращает тело скраппера в "
+"инструмент инженерии.\n"
+"\t\t[Специализация] 1.0x скорость передвижения\n"
+"\t\t[Специализация] 2.0x скорость ремонта\n"
+"\t\t[Специализация] Быстрее осваивает все навыки. Не теряет навыки при "
+"клонировании.\n"
+"\t\t115 здоровья\n"
+"\t\t0.25x получаемый урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНе может сражаться\n"
+"\t\tНе может саботировать"
 
 #: src-en/data/events_special_storage.xml.append:2702
 msgid ""
@@ -3052,7 +3128,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2704
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ENGINEER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:2714
 msgid ""
@@ -3063,6 +3139,22 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_MEDIC\"]/text"
 msgstr ""
+"[От базового уровня до специалиста 1-го уровня] Преобразует тело скраппера в "
+"более легкую версию и наделяет его способностью мгновенно восстанавливать "
+"здоровье союзников и наносить урон ближайшим врагам за счет собственного "
+"здоровья.\n"
+"\t\t[Специализация] Исцеляет себя после 15-секундной задержки со скоростью 2 "
+"ОЗ/с.\n"
+"\t\t[Специализация] Быстро исцеляет союзников на 50 ед. здоровья за счет 50 "
+"ед. собственного здоровья. Время перезарядки - 45 секунд. 1 заряд за каждый "
+"прыжок, максимум 2 заряда. \n"
+"\t\t115 здоровья\n"
+"\t\t0.50x получаемый урон от огня\n"
+"\t\t0.50x истощение кислорода\n"
+"\t\tНаносит 0.50x урона в бою\n"
+"\t\t0.50x урон при саботаже\n"
+"\t\t1.2x скорость передвижения\n"
+"\t\tНе может ремонтировать"
 
 #: src-en/data/events_special_storage.xml.append:2732
 msgid ""
@@ -3072,7 +3164,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2734
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_MEDIC\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
@@ -3083,6 +3175,18 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SOLDIER_HEAVY\"]/text"
 msgstr ""
+"[Специалист 1-го уровня до специалиста 2-го уровня] Добавив лома ко всем "
+"частям тела вашего скраппера, вы сможете сделать его чрезвычайно устойчивым "
+"к повреждениям.\n"
+"\t\t[Специализация] Наносит 1.75х урона в бою\n"
+"\t\t[Специализация] 2х урона при саботаже\n"
+"\t\t[Специализация] Может вызывать взрывы на борту вражеских кораблей, "
+"нанося урон кораблю и системам, а также оглушая экипаж.     \n"
+"\t\tНе может управлять системами или ремонтировать их\n"
+"\t\t150 здоровья\n"
+"\t\t0.5x получаемый урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\t0.5x скорость передвижения"
 
 #: src-en/data/events_special_storage.xml.append:2763
 msgid ""
@@ -3092,7 +3196,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2765
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SOLDIER_HEAVY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:2775
 msgid ""
@@ -3103,6 +3207,23 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_MEDIC_DEFENDER\"]/text"
 msgstr ""
+"[Специалист 1-го уровня до специалиста 2-го уровня] Добавление "
+"дополнительного лома к Медику повышает его устойчивость к урону и дает "
+"союзникам поблизости усиление, снижающее получаемый урон.\n"
+"\t\t[Специализация] 200 здоровья\n"
+"\t\t[Специализация] Снижает весь получаемый урон для всех союзников в "
+"помещении на 10\n"
+"\t\t[Специализация] Исцеляет себя после 15-секундной задержки со скоростью 4 "
+"ОЗ/с.\n"
+"\t\t[Специализация] Быстро исцеляет союзников на 75 ед. здоровья и наносит "
+"урон ближайшим врагам в размере 25 ед. здоровья за счет 75 ед. здоровья. "
+"Время перезарядки - 45 секунд. 1 заряд за прыжок, максимум 2 заряда. \n"
+"\t\t0.5x получаемый урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНаносит 0.50x урона в бою\n"
+"\t\t0.75x скорость передвижения\n"
+"\t\t0.50x урона при саботаже\n"
+"\t\tНе может ремонтировать"
 
 #: src-en/data/events_special_storage.xml.append:2796
 msgid ""
@@ -3112,7 +3233,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2798
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_MEDIC_DEFENDER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:2808
 msgid ""
@@ -3123,6 +3244,15 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ENGINEER_SCAV\"]/text"
 msgstr ""
+"[Специалист 1-го уровня до специалиста 2-го уровня] Благодаря передовым "
+"методам ваши Инженеры могут превратиться в Мусорщиков. \n"
+"\t\t[Специализация] 2.5х урон при саботаже\n"
+"\t\t[Специализация] 1.25х скорость передвижения\n"
+"\t\t[Специализация] 2.0х скорость ремонта \n"
+"\t\t115 здоровья\n"
+"\t\t0,5x получаемый урон от огня\n"
+"\t\t0,5x истощение кислорода\n"
+"\t\tНе может сражаться"
 
 #: src-en/data/events_special_storage.xml.append:2826
 msgid ""
@@ -3132,7 +3262,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2828
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ENGINEER_SCAV\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:2838
 msgid ""
@@ -3143,6 +3273,22 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_DEFENDER_TIER2\"]/text"
 msgstr ""
+"[От специалиста 2-го уровня до специалиста 3-го уровня] Продвинутые методы "
+"позволяют еще больше усилить ваших Защитников.\n"
+"\t\t[Специализация] 200 единиц здоровья\n"
+"\t\t[Специализация] Уменьшает весь получаемый урон всем союзным членам "
+"экипажа в помещении на 20%.\n"
+"\t\t[Специализация] После 15-секундной задержки восстанавливает себе 4 ОЗ/"
+"с.\n"
+"\t\t[Специализация] Быстро восстанавливает союзникам 75 ед. здоровья и "
+"наносит 25 ед. урона ближайшим врагам, затрачивая 75 ед. здоровья. Время "
+"перезарядки - 45 секунд. 1 заряд за прыжок, максимум 2 заряда. \n"
+"\t\tНаносит 0.5x урона в бою\n"
+"\t\t0.75x скорость передвижения\n"
+"\t\t0.5x урон при саботаже\n"
+"\t\t0.5x Получаемый урон от огня\n"
+"\t\t0.5x Потребление кислорода\n"
+"\t\tНе может ремонтировать"
 
 #: src-en/data/events_special_storage.xml.append:2860
 msgid ""
@@ -3152,7 +3298,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2862
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_DEFENDER_TIER2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер проходит процесс усиления."
 
 #: src-en/data/events_special_storage.xml.append:2872
 msgid ""
@@ -3163,6 +3309,15 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SCAVENGER_TIER2\"]/text"
 msgstr ""
+"[Специалист 2-го уровня до специалиста 3-го уровня] Продвинутые методы "
+"позволяют еще больше усилить ваших Мусорщиков.\n"
+"\t\t[Специализация] 3.0x урон при саботаже\n"
+"\t\t[Специализация] 1.25x скорость передвижения\n"
+"\t\t[Специализация] 3.0x скорость ремонта\n"
+"\t\t115 здоровья\n"
+"\t\t0.25x получаемый урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНе может сражаться"
 
 #: src-en/data/events_special_storage.xml.append:2888
 msgid ""
@@ -3172,7 +3327,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2890
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_SCAVENGER_TIER2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер проходит процесс усиления."
 
 #: src-en/data/events_special_storage.xml.append:2900
 msgid ""
@@ -3183,6 +3338,17 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_HEAVY_TIER2\"]/text"
 msgstr ""
+"[Специалист 2-го уровня до специалиста 3-го уровня] Продвинутые методы "
+"позволяют еще больше усилить ваших тяжелых скрапперов.\n"
+"\t\t[Специализация] Наносит 0.5x урона в бою\n"
+"\t\t[Специализация] 0.5x урон при саботаже\n"
+"\t\t[Специализация] Может вызывать взрывы на борту вражеских кораблей, "
+"нанося урон кораблю и системам.\t\t\n"
+"\t\tНе может управлять или ремонтировать системы\n"
+"\t\t150 здоровья\n"
+"\t\t0.5x получаемый урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\t0.5x скорость передвижения"
 
 #: src-en/data/events_special_storage.xml.append:2917
 msgid ""
@@ -3192,7 +3358,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:2919
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_HEAVY_TIER2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер проходит процесс усиления."
 
 #: src-en/data/events_special_storage.xml.append:2929
 msgid ""
@@ -3203,36 +3369,44 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_MENU\"]/text"
 msgstr ""
+"Технологии Мультивселенной позволяют значительно улучшить возможности вашего "
+"экипажа."
 
 #: src-en/data/events_special_storage.xml.append:2940
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_MENU\"]/choice[@req=\"scrapper\"]/text"
 msgstr ""
+"Базовых скрапперов можно трансформировать в одних из базовых элементальных "
+"скрапперов."
 
 #: src-en/data/events_special_storage.xml.append:2944
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_MENU\"]/choice[2]/text"
 msgstr ""
+"Базовых элементарных скрапперов можно трансформировать в другие варианты."
 
 #: src-en/data/events_special_storage.xml.append:2948
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_MENU\"]/choice[@req=\"LIST_SCRAPPER_TIER_UPGRADEABLE\"]/text"
 msgstr ""
+"Специалистов Мусорщиков можно трансформировать в элементальных специалистов."
 
 #: src-en/data/events_special_storage.xml.append:2952
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_MENU\"]/choice[@req=\"LIST_ELEMENTAL_SCRAPPER_BASE_UPGRADEABLE\"]/text"
-msgstr ""
+msgstr "Базовых элементальных скрапперов можно модернизировать."
 
 #: src-en/data/events_special_storage.xml.append:2956
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_MENU\"]/choice[@req=\"LIST_SCRAPPER_ELEMENTAL_TIER_UPGRADABLE\"]/text"
-msgstr ""
+msgstr "Элементальных специалистов скрапперов можно модернизировать."
 
 #: src-en/data/events_special_storage.xml.append:2960
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_MENU\"]/choice[6]/text"
 msgstr ""
+"Базовых элементальных скрапперов можно модернизировать до элементальных "
+"специалистов. Затем их можно вернуть в модульное состояние."
 
 #: src-en/data/events_special_storage.xml.append:2964
 msgid ""
@@ -3243,21 +3417,23 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_MENU\"]/text"
 msgstr ""
+"Базовых скрапперов можно трансформировать в одних из элементальных "
+"скрапперов."
 
 #: src-en/data/events_special_storage.xml.append:2972
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_MENU\"]/choice[1]/text"
-msgstr ""
+msgstr "Создать розово-золотого скраппера."
 
 #: src-en/data/events_special_storage.xml.append:2976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_MENU\"]/choice[2]/text"
-msgstr ""
+msgstr "Создать золотого скраппера."
 
 #: src-en/data/events_special_storage.xml.append:2980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_MENU\"]/choice[3]/text"
-msgstr ""
+msgstr "Создать адамантинового скраппера."
 
 #: src-en/data/events_special_storage.xml.append:2984
 msgid ""
@@ -3268,6 +3444,20 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ROSEGOLD\"]/text"
 msgstr ""
+"[1-й уровень до элементаля 1-го уровня] Воспользовавшись Мультивселенским "
+"процессором переработки лома, вы наполнили своего скраппера розовым "
+"золотом.\n"
+"\t125 здоровья\n"
+"\tИммунитет к огненному урону\n"
+"\t0.5x истощение кислорода\n"
+"\tНаносит 0.5x урона в бою\n"
+"\t2x скорость ремонта\n"
+"\t0.5x урон при саботаже\n"
+"\t0.75x скорость передвижения\n"
+"\tДает 1 единицу энергии\n"
+"\tСопротивление контролю разума\n"
+"\tУвеличивает здоровье, урон и скорость ремонта ближайших членов экипажа на "
+"7.5%. Уменьшает получаемый урон ближайших союзников на 10%"
 
 #: src-en/data/events_special_storage.xml.append:3003
 msgid ""
@@ -3277,7 +3467,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3005
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ROSEGOLD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3014
 msgid ""
@@ -3288,6 +3478,17 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_GOLDEN\"]/text"
 msgstr ""
+"[1-го уровень до элементаля 1-го уровня] Воспользовавшись Мультивселенским "
+"процессором переработки лома, вы наполнили своего скраппера золотом.\n"
+"\t100 здоровья\n"
+"\t0.5x урон от огня\n"
+"\t0.5x истощение кислорода\n"
+"\tНаносит 1.25x урона в бою\n"
+"\t1.5x скорость ремонта\n"
+"\t1.5x урон при саботаже\n"
+"\t0.75x скорость передвижения\n"
+"\tДает 1 единицу энергии. Поглощает 1 единицу энергии из систем противника\n"
+"\tУрон от всех источников уменьшен на 10%"
 
 #: src-en/data/events_special_storage.xml.append:3032
 msgid ""
@@ -3297,7 +3498,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3034
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_GOLDEN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3043
 msgid ""
@@ -3308,6 +3509,17 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ADAMANTINE\"]/text"
 msgstr ""
+"[1-й уровень до элементаля 1-го уровня] Воспользовавшись Мультивселенским "
+"процессором переработки лома, вы наполнили своего скраппера адамантином. \n"
+"\t125 здоровья\n"
+"\t4x урон от огня\n"
+"\t0.5x истощение кислорода\n"
+"\tНаносит 0.75x урона в бою\n"
+"\t0.75x скорость ремонта\n"
+"\t1.5x урон при саботаже\n"
+"\t0.75x скорость передвижения\n"
+"\tВсе враги поблизости получают урон от удушья, а их скорость передвижения "
+"снижается на 40%"
 
 #: src-en/data/events_special_storage.xml.append:3060
 msgid ""
@@ -3317,7 +3529,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3062
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ADAMANTINE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3071
 msgid ""
@@ -3327,17 +3539,17 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:3077
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_MENU\"]/text"
-msgstr ""
+msgstr "Базовых элементальных скрапперов можно модернизировать."
 
 #: src-en/data/events_special_storage.xml.append:3079
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_MENU\"]/choice[@req=\"LIST_ELEMENTAL_SCRAPPER_LEVEL_1\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 1-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3083
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_MENU\"]/choice[@req=\"LIST_ELEMENTAL_SCRAPPER_LEVEL_2\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 2-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3087
 msgid ""
@@ -3348,36 +3560,44 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_TIER_MENU\"]/text"
 msgstr ""
+"Базовых элементарных скрапперов можно модернизировать до их "
+"специализированных форм и вернуть в исходное состояние."
 
 #: src-en/data/events_special_storage.xml.append:3095
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_TIER_MENU\"]/choice[@req=\"LIST_ELEMENTAL_SCRAPPER_LEVEL_1\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 1-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3099
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_TIER_MENU\"]/choice[@req=\"LIST_ELEMENTAL_SCRAPPER_LEVEL_2\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 2-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3103
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_TIER_MENU\"]/choice[@req=\"LIST_ELEMENTAL_SCRAPPER_LEVEL_3\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 3-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3107
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_TIER_MENU\"]/choice[@req=\"LIST_SCRAPPER_ELEMENTAL_TIER_1\"]/text"
 msgstr ""
+"Вернуть элементальных специалистов-скрапперов 1-го уровня до их базовой "
+"формы."
 
 #: src-en/data/events_special_storage.xml.append:3111
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_TIER_MENU\"]/choice[@req=\"LIST_SCRAPPER_ELEMENTAL_TIER_2\"]/text"
 msgstr ""
+"Вернуть элементальных специалистов-скрапперов 2-го уровня до их базовой "
+"формы."
 
 #: src-en/data/events_special_storage.xml.append:3115
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_BASE_UPGRADE_TIER_MENU\"]/choice[@req=\"LIST_SCRAPPER_ELEMENTAL_TIER_3\"]/text"
 msgstr ""
+"Вернуть элементальных специалистов-скрапперов 3-го уровня до их базовой "
+"формы."
 
 #: src-en/data/events_special_storage.xml.append:3119
 msgid ""
@@ -3387,22 +3607,23 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:3125
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_1_TIER\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 1-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3127
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_1_TIER\"]/choice[@req=\"rosegold_scrapper\"]/text"
 msgstr ""
+"Улучшить розово-золотых скрапперов до розово-золотых скрапперов-Инженеров."
 
 #: src-en/data/events_special_storage.xml.append:3131
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_1_TIER\"]/choice[@req=\"adamantine_scrapper\"]/text"
-msgstr ""
+msgstr "Улучшить адамантиновых скрапперов до адамантиновых скрапперов-Солдатов."
 
 #: src-en/data/events_special_storage.xml.append:3135
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_1_TIER\"]/choice[@req=\"golden_scrapper\"]/text"
-msgstr ""
+msgstr "Улучшить золотого скраппера до розово-золотого скраппера-Медика."
 
 #: src-en/data/events_special_storage.xml.append:3139
 msgid ""
@@ -3413,6 +3634,21 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ROSEGOLD_BASE_TIER_LEVEL_1\"]/text"
 msgstr ""
+"[Элементаль 1-го уровня до специалиста-элементаля 1-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего розово-золотого скраппера в розово-золотого скраппера-"
+"Инженера. \n"
+"\t\t[Специализация] 1.5х скорость передвижения\n"
+"\t\t[Специализация] 3х скорость ремонта\n"
+"\t\t115 единиц здоровья\n"
+"\t\tНевосприимчивость к урону от огня\n"
+"\t\t0.5х истощение кислорода\n"
+"\t\tНаносит 0.5х урона в бою\n"
+"\t\tНе может саботировать\n"
+"\t\tДает 1 единицу энергии\n"
+"\t\tСопротивление контролю разума\n"
+"\t\tУвеличивает здоровье, урон и скорость ремонта ближайших членов экипажа "
+"на 7.5%. Уменьшает получаемый урон ближайших союзников на 10%"
 
 #: src-en/data/events_special_storage.xml.append:3157
 msgid ""
@@ -3422,7 +3658,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3159
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ROSEGOLD_BASE_TIER_LEVEL_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3168
 msgid ""
@@ -3433,6 +3669,24 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_GOLDEN_BASE_TIER_LEVEL_1\"]/text"
 msgstr ""
+"[Элементаль 1-го уровня до специалиста-элементаля 1-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего золотого скраппера в золотого скраппера-Медика. \n"
+"\t\t[Специализация] Исцеляет себя после 15-секундной задержки со скоростью 4 "
+"ОЗ/с.\n"
+"\t\t[Специализация] Может исцелять союзников на 50 ед. здоровья за счет 50 "
+"ед. собственного здоровья. Время перезарядки - 30 секунд. Восстанавливает 1 "
+"заряд за каждый прыжок.\n"
+"\t\t100 ед. здоровья\n"
+"\t\t0.5x урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\t1x урон\n"
+"\t\t1x скорость ремонта\n"
+"\t\t1x урон при саботаже\n"
+"\t\t1x скорость передвижения\n"
+"\t\tДает 1 единицу энергии. Поглощает 1 единицу энергии из систем "
+"противника\n"
+"\t\tУрон от всех источников уменьшен на 10%"
 
 #: src-en/data/events_special_storage.xml.append:3188
 msgid ""
@@ -3442,7 +3696,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3190
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_GOLDEN_BASE_TIER_LEVEL_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3199
 msgid ""
@@ -3453,6 +3707,18 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ADAMANTINE_BASE_TIER_LEVEL_1\"]/text"
 msgstr ""
+"[Элементаль 1-го уровня до специалиста-элементаля 1-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего адамантинового скраппера в адамантинового скраппера-"
+"Солдата. \n"
+"\t\t[Специализация] Наносит 1.35х урона в бою\n"
+"\t\t[Специализация] 2х урон при саботаже\n"
+"\t\t135 здоровья\n"
+"\t\t4х урон от огня\n"
+"\t\t1х истощение кислорода\n"
+"\t\t0.75х скорость передвижения\n"
+"\t\tВсе ближайшие враги получают урон от удушья, а их скорость передвижения "
+"снижается на 50%"
 
 #: src-en/data/events_special_storage.xml.append:3214
 msgid ""
@@ -3462,7 +3728,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ADAMANTINE_BASE_TIER_LEVEL_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3225
 msgid ""
@@ -3472,22 +3738,24 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:3231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_2_TIER\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 2-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3233
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_2_TIER\"]/choice[@req=\"rosegold_scrapper_2\"]/text"
 msgstr ""
+"Улучшить розово-золотого скраппера до розово-золотого скраппера-Мусорщика."
 
 #: src-en/data/events_special_storage.xml.append:3237
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_2_TIER\"]/choice[@req=\"adamantium_scrapper_2\"]/text"
 msgstr ""
+"Улучшить адамантивого скраппера до тяжелого адамантивого скраппера-Солдата."
 
 #: src-en/data/events_special_storage.xml.append:3241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_2_TIER\"]/choice[@req=\"golden_scrapper_2\"]/text"
-msgstr ""
+msgstr "Улучшить золотого скраппера до розово-золотого скраппера-Защитника."
 
 #: src-en/data/events_special_storage.xml.append:3245
 msgid ""
@@ -3498,6 +3766,21 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ROSEGOLD_BASE_TIER_LEVEL_2\"]/text"
 msgstr ""
+"[Элементаль 2-го уровня до специалиста-элементаля 2-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего розово-золотого скраппера в розово-золотого скраппера-"
+"Мусорщика. \n"
+"\t\t[Специализация] 3х скорость саботажа\n"
+"\t\t[Специализация] 3х скорость передвижения\n"
+"\t\t[Специализация] 3х скорость ремонта\n"
+"\t\t135 здоровья\n"
+"\t\tИммунитет к урону от огня\n"
+"\t\t0.5х истощение кислорода\n"
+"\t\tНаносит 0.5х урона в бою\n"
+"\t\tДает 2 единицы энергии\n"
+"\t\tСопротивляется контролю разума\n"
+"\t\tУвеличивает здоровье, урон и скорость ремонта ближайших членов экипажа "
+"на 10%. Уменьшает получаемый урон ближайших союзников на 12.5%"
 
 #: src-en/data/events_special_storage.xml.append:3263
 msgid ""
@@ -3507,7 +3790,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3265
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ROSEGOLD_BASE_TIER_LEVEL_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3274
 msgid ""
@@ -3518,6 +3801,26 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_GOLDEN_BASE_TIER_LEVEL_2\"]/text"
 msgstr ""
+"[Элементаль 2-го уровня до специалиста-элементаля 2-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего золотого скраппера в золотого скраппера-Защитника. \n"
+"\t\t[Специализация] Уменьшает весь получаемый урон для всех союзников в "
+"помещении на 20%\n"
+"\t\t[Специализация] Исцеляет себя после 15-секундной задержки со скоростью 4 "
+"ОЗ/с.\n"
+"\t\t[Специализация] Может исцелить союзников на 50 ед. здоровья за счет 50 "
+"ед. собственного здоровья. Время перезарядка - 30 секунд. Восстанавливает 1 "
+"заряд за каждый прыжок.\n"
+"\t\t150 ед. здоровья\n"
+"\t\t0.5x урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНаносит 1x урона в бою\n"
+"\t\t1x скорость ремонта\n"
+"\t\t1x урон при саботаже\n"
+"\t\t1x скорость передвижения\n"
+"\t\tДает 1 единицу энергии. Поглощает 1 единицу энергии из систем "
+"противника\n"
+"\t\tУрон от всех источников уменьшен на 10%"
 
 #: src-en/data/events_special_storage.xml.append:3294
 msgid ""
@@ -3527,7 +3830,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_GOLDEN_BASE_TIER_LEVEL_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3305
 msgid ""
@@ -3538,6 +3841,20 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ADAMANTINE_BASE_TIER_LEVEL_2\"]/text"
 msgstr ""
+"[Элементаль 2-го уровня до специалиста-элементаля 2-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего адамантинового скраппера в тяжелого адамантинового "
+"скраппера-Солдата\n"
+"\t\t[Специализация] Наносит 1.75х урона в бою\n"
+"\t\t[Специализация] 0.5х урон при саботаже\n"
+"\t\t175 здоровья\n"
+"\t\t4х урон от огня\n"
+"\t\t1х истощение кислорода\n"
+"\t\t0.5х скорость передвижения\n"
+"\t\tВсе ближайшие враги получают урон от удушья, а их скорость передвижения "
+"снижается на 80%\n"
+"\t\tМожет вызывать взрывы на борту вражеских кораблей, нанося урон кораблю и "
+"системам."
 
 #: src-en/data/events_special_storage.xml.append:3321
 msgid ""
@@ -3547,7 +3864,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ADAMANTINE_BASE_TIER_LEVEL_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3332
 msgid ""
@@ -3557,22 +3874,27 @@ msgstr "Вернуться."
 #: src-en/data/events_special_storage.xml.append:3338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_3_TIER\"]/text"
-msgstr ""
+msgstr "Улучшить базовых элементальных скрапперов 3-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_3_TIER\"]/choice[@req=\"rosegold_scrapper_3\"]/text"
 msgstr ""
+"Улучшить розово-золотого скраппера до розово-золотого скраппера-Мусорщика "
+"мод. 2."
 
 #: src-en/data/events_special_storage.xml.append:3344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_3_TIER\"]/choice[@req=\"adamantium_scrapper_3\"]/text"
 msgstr ""
+"Улучшить адамантинового скраппера до тяжелого адамантинового скраппера-"
+"Солдата мод. 2."
 
 #: src-en/data/events_special_storage.xml.append:3348
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_LEVEL_3_TIER\"]/choice[@req=\"golden_scrapper_3\"]/text"
 msgstr ""
+"Улучшить золотого скраппера до розово-золотого скраппера-Защитника мод. 2."
 
 #: src-en/data/events_special_storage.xml.append:3352
 msgid ""
@@ -3583,6 +3905,22 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ROSEGOLD_BASE_TIER_LEVEL_3\"]/text"
 msgstr ""
+"[Элементаль 3-го уровня до специалиста-элементаля 3-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего розово-золотого скраппера в розово-золотого скраппера-"
+"Мусорщика мод. 2. \n"
+"\t\t[Специализация] 4х скорость саботажа\n"
+"\t\t[Специализация] 1.5х скорость передвижения\n"
+"\t\t[Специализация] 4х скорость ремонта\n"
+"\t\t165 здоровья\n"
+"\t\tИммунитет к урону от огня\n"
+"\t\t0.5х истощение кислорода\n"
+"\t\tНаносит 0.5х урона в бою\n"
+"\t\tДает 3 единицы энергии. Поглощает 1 единицу энергии из систем "
+"противника\n"
+"\t\tСопротивление контролю разума\n"
+"\t\tУвеличивает здоровье, урон и скорость ремонта ближайших членов экипажа "
+"на 20%. Уменьшает получаемый урон ближайших союзников на 20%"
 
 #: src-en/data/events_special_storage.xml.append:3370
 msgid ""
@@ -3592,7 +3930,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ROSEGOLD_BASE_TIER_LEVEL_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3381
 msgid ""
@@ -3603,6 +3941,27 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_GOLDEN_BASE_TIER_LEVEL_3\"]/text"
 msgstr ""
+"[Элементаль 3-го уровня до специалиста-элементаля 3-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего золотого скраппера взолотого скраппера-Защитника мод. "
+"2. \n"
+"\t\t[Специализация] Уменьшает весь получаемый урон для всех союзников в "
+"помещении на 30%\n"
+"\t\t[Специализация] После 10-секундной задержки исцеляется со скоростью 6 ОЗ/"
+"с\n"
+"\t\t[Специализация] Может исцелить союзников на 75 ед. здоровья за счет 50 "
+"ед. собственного здоровья. Время перезарядки - 30 секунд. Восстанавливает 1 "
+"заряд за каждый прыжок.\n"
+"\t\t200 здоровья\n"
+"\t\t0.5x урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНаносит 1.25x урона в бою\n"
+"\t\t1x скорость ремонта\n"
+"\t\t1x урон при саботаже\n"
+"\t\t1x скорость передвижения\n"
+"\t\tПредоставляет 2 единицы энергии. Поглощает 2 единицы энергии из систем "
+"противника\n"
+"\t\tУрон от всех источников уменьшен на 20%"
 
 #: src-en/data/events_special_storage.xml.append:3402
 msgid ""
@@ -3612,7 +3971,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_GOLDEN_BASE_TIER_LEVEL_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3413
 msgid ""
@@ -3623,6 +3982,20 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ADAMANTINE_BASE_TIER_LEVEL_3\"]/text"
 msgstr ""
+"[Элементаль 3-го уровня до специалиста-элементаля 3-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего адамантинового скраппера в тяжелого адамантинового "
+"скраппера-Солдата мод. 2. \n"
+"\t\t[Специализация] Наносит 2.25х урона в бою\n"
+"\t\t[Специализация] 0.5х урон при саботаже\n"
+"\t\t225 здоровья\n"
+"\t\t2х урон от огня\n"
+"\t\t4х истощение кислорода\n"
+"\t\t0.5х скорость передвижения\n"
+"\t\tВсе ближайшие враги получают урон от удушья, а их скорость передвижения "
+"снижается на 95%\n"
+"\t\tМожет вызывать взрывы на борту вражеских кораблей, нанося урон кораблю и "
+"системам."
 
 #: src-en/data/events_special_storage.xml.append:3429
 msgid ""
@@ -3632,7 +4005,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3431
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_ADAMANTINE_BASE_TIER_LEVEL_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3440
 msgid ""
@@ -3643,21 +4016,27 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ELEMENTAL_TIER_LEVEL_1\"]/text"
 msgstr ""
+"Вернуть элементальных специалистов-скрапперов 1-го уровня до их базовой "
+"элементальной формы."
 
 #: src-en/data/events_special_storage.xml.append:3448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ELEMENTAL_TIER_LEVEL_1\"]/choice[1]/text"
 msgstr ""
+"Вернуть розово-золотых скрапперов-Инженеров до их розово-золотой "
+"элементальной формы 1-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ELEMENTAL_TIER_LEVEL_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Вернуть золотых скрапперов-Медиков до их золотой формы 1-го уровня."
 
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ELEMENTAL_TIER_LEVEL_1\"]/choice[@req=\"adamantine_scrapper_engineer\"]/text"
 msgstr ""
+"Вернуть адамантиновых скрапперов-Солдат до их адамантиновой формы 1-го "
+"уровня."
 
 #: src-en/data/events_special_storage.xml.append:3460
 msgid ""
@@ -3668,6 +4047,21 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ROSEGOLD_BASE_TIER_LEVEL_1\"]/text"
 msgstr ""
+"[Специалист элементаль 1-го уровня до элементаля 1-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего розово-золотого скраппера-Инженера в розово-золотого "
+"скраппера. \n"
+"\t\t125 здоровья\n"
+"\t\tИммунитет к урону от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНаносит 0.5x урона в бою\n"
+"\t\t2x скорость ремонта\n"
+"\t\t0.5x урон при саботаже\n"
+"\t\t0.75x скорость передвижения\n"
+"\t\tДает 1 единицу энергии\n"
+"\t\tСопротивляется контролю разума\n"
+"\t\tУвеличивает здоровье, урон и скорость ремонта ближайших членов экипажа "
+"на 7.5%. Уменьшает получаемый урон ближайших союзников на 10%"
 
 #: src-en/data/events_special_storage.xml.append:3478
 msgid ""
@@ -3677,7 +4071,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3480
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ROSEGOLD_BASE_TIER_LEVEL_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3489
 msgid ""
@@ -3688,6 +4082,20 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_GOLDEN_BASE_TIER_LEVEL_1\"]/text"
 msgstr ""
+"[Специалист элементаль 1-го уровня до элементаля 1-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего золотого скраппера-Медика в золотого скраппера. \n"
+"\t\t100 здоровья\n"
+"\t\tИммунитет к урону от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНаносит 0.5x урона в бою\n"
+"\t\t2x скорость ремонта\n"
+"\t\t0.5x урон при саботаже\n"
+"\t\t0.75x скорость передвижения\n"
+"\t\tДает 1 единицу энергии\n"
+"\t\tСопротивляется контролю разума\n"
+"\t\tУвеличивает здоровье, урон и скорость ремонта ближайших членов экипажа "
+"на 7.5%. Уменьшает получаемый урон ближайших союзников на 10%"
 
 #: src-en/data/events_special_storage.xml.append:3506
 msgid ""
@@ -3697,7 +4105,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3508
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_GOLDEN_BASE_TIER_LEVEL_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3517
 msgid ""
@@ -3708,6 +4116,19 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ADAMANTINE_BASE_TIER_LEVEL_1\"]/text"
 msgstr ""
+"[Специалист элементаль 1-го уровня до элементаля 1-го уровня] "
+"Воспользовавшись Мультивселенским процессором переработки лома, вы "
+"трансформируете своего адамантинового скраппера-Солдата в адамантинового "
+"скраппера. \n"
+"\t\t125 здоровья\n"
+"\t\t4x урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
+"\t\tНаносит 0.75x урона в бою\n"
+"\t\t0.75x скорость ремонта\n"
+"\t\t1.5x урон при саботаже\n"
+"\t\t0.75x скорость передвижения\n"
+"\t\tВсе враги поблизости получают урон от удушья, а их скорость передвижения "
+"снижается на 40%"
 
 #: src-en/data/events_special_storage.xml.append:3533
 msgid ""
@@ -3717,7 +4138,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ADAMANTINE_BASE_TIER_LEVEL_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3544
 msgid ""
@@ -3762,7 +4183,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3584
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ROSEGOLD_BASE_TIER_LEVEL_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3593
 msgid ""
@@ -3782,7 +4203,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3612
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_GOLDEN_BASE_TIER_LEVEL_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3621
 msgid ""
@@ -3802,7 +4223,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ADAMANTINE_BASE_TIER_LEVEL_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3648
 msgid ""
@@ -3847,7 +4268,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3688
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ROSEGOLD_BASE_TIER_LEVEL_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3697
 msgid ""
@@ -3867,7 +4288,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3716
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_GOLDEN_BASE_TIER_LEVEL_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3725
 msgid ""
@@ -3887,7 +4308,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_REVERT_ADAMANTINE_BASE_TIER_LEVEL_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3752
 msgid ""
@@ -3898,6 +4319,7 @@ msgstr "Вернуться."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ELEMENTAL_TRANSMUTE_MENU\"]/text"
 msgstr ""
+"Базовых элементарных скрапперов можно трансформировать в другие варианты."
 
 #: src-en/data/events_special_storage.xml.append:3760
 msgid ""
@@ -3972,7 +4394,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3823
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD_GOLDEN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3828
 msgid ""
@@ -3992,7 +4414,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3846
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD_ADAMANTINE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3851
 msgid ""
@@ -4012,7 +4434,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3870
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD_GOLDEN_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3875
 msgid ""
@@ -4032,7 +4454,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3893
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD_ADAMANTINE_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3898
 msgid ""
@@ -4052,7 +4474,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3917
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD_GOLDEN_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3922
 msgid ""
@@ -4072,7 +4494,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3940
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ROSEGOLD_ADAMANTINE_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:3945
 msgid ""
@@ -4132,7 +4554,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:3997
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN_ROSEGOLD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4002
 msgid ""
@@ -4152,7 +4574,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4020
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN_ADAMANTINE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4025
 msgid ""
@@ -4172,7 +4594,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4045
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN_ROSEGOLD_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4050
 msgid ""
@@ -4192,7 +4614,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4068
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN_ADAMANTINE_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "м"
 
 #: src-en/data/events_special_storage.xml.append:4073
 msgid ""
@@ -4212,7 +4634,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4093
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN_ROSEGOLD_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4098
 msgid ""
@@ -4232,7 +4654,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4116
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_GOLDEN_ADAMANTINE_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "м"
 
 #: src-en/data/events_special_storage.xml.append:4121
 msgid ""
@@ -4292,7 +4714,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4173
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE_ROSEGOLD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4178
 msgid ""
@@ -4312,7 +4734,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4197
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE_GOLDEN\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4202
 msgid ""
@@ -4332,7 +4754,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4223
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE_ROSEGOLD_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4228
 msgid ""
@@ -4352,7 +4774,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4247
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE_GOLDEN_2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4252
 msgid ""
@@ -4372,7 +4794,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4272
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE_ROSEGOLD_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4277
 msgid ""
@@ -4392,7 +4814,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_TRANSMUTE_ADAMANTINE_GOLDEN_3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4301
 msgid ""
@@ -4462,7 +4884,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4365
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ROSEGOLD_LEVEL2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4374
 msgid ""
@@ -4482,7 +4904,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_GOLDEN_LEVEL2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4403
 msgid ""
@@ -4502,7 +4924,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ADAMANTINE_LEVEL2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4431
 msgid ""
@@ -4522,7 +4944,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ROSEGOLD_LEVEL3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4461
 msgid ""
@@ -4542,7 +4964,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4481
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_GOLDEN_LEVEL3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4490
 msgid ""
@@ -4562,7 +4984,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_BASE_ADAMANTINE_LEVEL3\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4518
 msgid ""
@@ -4627,7 +5049,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ROSEGOLD_ENGINEER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "м"
 
 #: src-en/data/events_special_storage.xml.append:4584
 msgid ""
@@ -4647,7 +5069,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4606
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GOLDEN_MEDIC\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4615
 msgid ""
@@ -4667,7 +5089,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4633
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ADAMANTINE_SOLDIER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4642
 msgid ""
@@ -4712,7 +5134,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4683
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ROSEGOLD_SCAVENGER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4692
 msgid ""
@@ -4732,7 +5154,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4715
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GOLDEN_DEFENDER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4724
 msgid ""
@@ -4752,7 +5174,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4743
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ADAMANTINE_HEAVY_SOLDIER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4752
 msgid ""
@@ -4817,7 +5239,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4808
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ROSEGOLD_ENGINEER_SCAVENGER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4817
 msgid ""
@@ -4837,7 +5259,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4840
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GOLDEN_MEDIC_DEFENDER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4849
 msgid ""
@@ -4857,7 +5279,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4868
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ADAMANTINE_SOLDIER_HEAVY_SOLDIER\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4877
 msgid ""
@@ -4902,7 +5324,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4918
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ROSEGOLD_SCAVENGER_MK2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4927
 msgid ""
@@ -4922,7 +5344,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4950
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_GOLDEN_DEFENDER_MK2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4959
 msgid ""
@@ -4942,7 +5364,7 @@ msgstr "Сделать это."
 #: src-en/data/events_special_storage.xml.append:4978
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_CREW_SCRAPPER_UPGRADE_ADAMANTINE_HEAVY_SOLDIER_MK2\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Ваш скраппер претерпевает трансформацию..."
 
 #: src-en/data/events_special_storage.xml.append:4987
 msgid ""
