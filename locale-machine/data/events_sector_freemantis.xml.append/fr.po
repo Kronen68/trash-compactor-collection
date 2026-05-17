@@ -1,0 +1,181 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_freemantis.xml.append:5
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/text"
+msgstr ""
+"Un vaisseau Mantis Libre à proximité vous hèle. \"Bonjour capitaine "
+"Fédération, je vends Bombes Flaks ! Oui, volées à étrange vaisseau Ruche. "
+"Terrible bataille, ils utilisent Bombes Flaks contre moi. Mais à la fin, je "
+"gagne ! Vous en voulez ?\" Ils vous montrent les Bombes Flaks, mais elles "
+"semblent être des lance-mines."
+
+#: src-en/data/events_sector_freemantis.xml.append:8
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[1]/text"
+msgstr "Acheter une \"Bombe Flak.\""
+
+#: src-en/data/events_sector_freemantis.xml.append:10
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[1]/event/text"
+msgstr ""
+"\" Grand merci pour le commerce, bonne journée capitaine de la Fédération ! "
+"\" Le Mantis Libre fait signe d'au revoir, puis coupe les communications. "
+"Bien que ce ne soit pas une vraie Bombe Flak, elle devrait quand même être "
+"très utile."
+
+#: src-en/data/events_sector_freemantis.xml.append:18
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[2]/text"
+msgstr "Expliquer que ce sont des lance-mines, pas des Bombes Flaks."
+
+#: src-en/data/events_sector_freemantis.xml.append:22
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_BOMB_SHOTGUNS\"]/text"
+msgstr "(Bombe Flak) Montrez-leur une vraie Bombe Flak."
+
+#: src-en/data/events_sector_freemantis.xml.append:24
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_BOMB_SHOTGUNS\"]/event/text"
+msgstr ""
+"\"Vous disant que j'ai lance-mines, et ceci est Bombe Flak ?\" Vous hocher "
+"la tête. \"Ah, je vois différence maintenant ! Merci beaucoup capitaine ! "
+"Tiens, ayant lance-mines gratuit, et je rejoins équipage ! Peut-être je "
+"verrai plus Bombes Flaks futur !\""
+
+#: src-en/data/events_sector_freemantis.xml.append:30
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
+msgstr ""
+"(Équipage Rocailleux) Demandez à votre Rocailleux d'expliquer la différence."
+
+#: src-en/data/events_sector_freemantis.xml.append:32
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/text"
+msgstr ""
+"Vous savez que votre Rocailleux est expérimenté avec les armes explosives, "
+"alors vous le mettez en communication pour expliquer. \"Ah, je vois "
+"maintenant. Les lance-mines percent le bouclier, et ne blessent pas le "
+"système. Merci capitaine ! Je vous rejoins, alors peut-être je verrai de "
+"vraies Bombes Flaks !\""
+
+#: src-en/data/events_sector_freemantis.xml.append:37
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/text"
+msgstr "(Équipage Lanius) Demandez à votre Lanius d'expliquer la différence."
+
+#: src-en/data/events_sector_freemantis.xml.append:39
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
+msgstr ""
+"Vous savez que votre Lanius est expérimenté avec les armes flak, alors vous "
+"le mettez en communication pour expliquer. \"Ah, je vois maintenant. Les "
+"lance-mines percent le bouclier, et ne blessent pas le système. Merci "
+"capitaine ! Je vous rejoins, alors peut-être je verrai de vraies Bombes "
+"Flaks !\""
+
+#: src-en/data/events_sector_freemantis.xml.append:44
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
+msgstr ""
+"(Équipage Sangsue) Demandez à votre Sangsue d'expliquer la différence."
+
+#: src-en/data/events_sector_freemantis.xml.append:46
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/text"
+msgstr ""
+"Vous savez que votre Sangsue est expérimentée avec les armes flak, alors "
+"vous la mettez en communication pour expliquer. \"Ah, je vois maintenant. "
+"Les lance-mines percent le bouclier, et ne blessent pas le système. Merci "
+"capitaine ! Je vous rejoins, alors peut-être je verrai de vraies Bombes "
+"Flaks !\""
+
+#: src-en/data/events_sector_freemantis.xml.append:51
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_HIVE\"]/text"
+msgstr ""
+"(Mantis de la Ruche) Demandez à votre Mantis de la Ruche d'expliquer la "
+"différence."
+
+#: src-en/data/events_sector_freemantis.xml.append:53
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_HIVE\"]/event/text"
+msgstr ""
+"Les Mantis de la Ruche sont ceux qui ont développé les Bombes Flaks, alors "
+"vous pensez qu'ils devraient être ceux qui expliquent. Vous mettez votre "
+"Mantis de la Ruche en communication. \"Eep ! Hors du vaisseau de la "
+"Fédération, sale Mantis de la Ruche ! Pas de souci capitaine de la "
+"Fédération, je vous sauve !\" Le vaisseau Mantis Libre se met en mouvement "
+"pour attaquer !"
+
+#: src-en/data/events_sector_freemantis.xml.append:56
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[@req=\"LIST_CREW_HIVE\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_freemantis.xml.append:62
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/events_sector_freemantis.xml.append:64
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/event/text"
+msgstr ""
+"\" D'accord, bonne journée capitaine de la Fédération ! \" Le Mantis Libre "
+"fait signe d'au revoir, puis coupe les communications."
+
+#: src-en/data/events_sector_freemantis.xml.append:66
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_freemantis.xml.append:70
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"FREEMANTIS_BOMB_FLAKS\"]/choice[8]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_freemantis.xml.append:79
+msgid ""
+"data/events_sector_freemantis.xml.append$//eventList[@name=\"FREEMANTIS_BOMB_FLAKS_UNDERSTANDING\"]/event[1]/text"
+msgstr ""
+"\"Elles ne sont pas Bombes Flaks ?\" Vous expliquez la différence entre les "
+"lance-mines et les Bombes Flaks. \"Ah, je vois maintenant. Les lance-mines "
+"percent le bouclier, et ne blessent pas le système. Merci capitaine ! Je "
+"vous rejoins, alors peut-être je verrai de vraies Bombes Flaks !\""
+
+#: src-en/data/events_sector_freemantis.xml.append:83
+msgid ""
+"data/events_sector_freemantis.xml.append$//eventList[@name=\"FREEMANTIS_BOMB_FLAKS_UNDERSTANDING\"]/event[2]/text"
+msgstr ""
+"\"Elles ne sont pas Bombes Flaks ?\" Vous expliquez la différence entre les "
+"lance-mines et les Bombes Flaks. \"Je ne comprends pas. Je vois avec mes "
+"propres yeux composés, elles tirent plusieurs bombes qui font boom !\" Vous "
+"essayez d'expliquer davantage, mais ils ne comprennent toujours pas. "
+"Finalement, vous abandonnez et mettez fin aux communications."
+
+#: src-en/data/events_sector_freemantis.xml.append:88
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"DESTROYED_FREEMANTIS_BOMB_FLAKS\"]/text"
+msgstr ""
+"Rétrospectivement, vous auriez probablement dû vous attendre à une réaction "
+"négative des Mantis Libres. Les restes éparpillés du vaisseau et les "
+"\"Bombes Flaks\" jonchent la zone. Vous démanteler les débris, ainsi que "
+"quelques missiles fonctionnels, et vous préparez à avancer."
+
+#: src-en/data/events_sector_freemantis.xml.append:93
+msgid ""
+"data/events_sector_freemantis.xml.append$//event[@name=\"DEAD_CREW_FREEMANTIS_BOMB_FLAKS\"]/text"
+msgstr ""
+"Rétrospectivement, vous auriez probablement dû vous attendre à une réaction "
+"négative des Mantis Libres. Vous et votre équipage contournez avec "
+"précaution les cadavres de Mantis Libres et entrez dans la soute. À "
+"l'intérieur, vous trouvez les \"Bombes Flaks\", ainsi qu'une pile de "
+"missiles. Vous et votre équipage en prenez une, ainsi que le plus de "
+"missiles que vous pouvez transporter. Ensuite, vous démanteler l'extérieur "
+"et vous préparez à avancer."
