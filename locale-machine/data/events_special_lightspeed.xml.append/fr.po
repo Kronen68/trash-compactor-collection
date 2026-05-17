@@ -1,0 +1,177 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_lightspeed.xml.append:5
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FMCORE_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[1]/text"
+msgstr "Contacter le Compacteur de Déchets."
+
+#: src-en/data/events_special_lightspeed.xml.append:12
+msgid ""
+"data/events_special_lightspeed.xml.append$//mod:findName[@name=\"FMCORE_ATLAS_EQUIPMENT\"]/mod-"
+"append:choice[2]/text"
+msgstr "Vous avez déjà contacté le Compacteur de Déchets."
+
+#: src-en/data/events_special_lightspeed.xml.append:26
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/text"
+msgstr ""
+"Contacter le Compacteur de Déchets ? (ATTENTION - RISQUE ÉLEVÉ, RÉCOMPENSE "
+"ÉLEVÉE)"
+
+#: src-en/data/events_special_lightspeed.xml.append:28
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:30
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"Vous envoyez un signal affichant la ferraille à l'aide de l'émetteur. Peu "
+"après, votre carte reçoit les coordonnées de l'emplacement d'un vaisseau "
+"dans le secteur suivant."
+
+#: src-en/data/events_special_lightspeed.xml.append:37
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:45
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:47
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"Vous utilisez du carburant et un missile de transmission à longue portée "
+"ainsi que votre ferraille. Peu après, votre carte reçoit les coordonnées de "
+"l'emplacement d'un vaisseau - très probablement les Ferrailleurs de tout à "
+"l'heure. Que veulent-ils de vous ?"
+
+#: src-en/data/events_special_lightspeed.xml.append:55
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:63
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:65
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/event/text"
+msgstr ""
+"Vous envoyez un drone de transport lourd avec la ferraille. Il doit y avoir "
+"plus de ces Ferrailleurs, car vous avez reçu un autre signal ! Des proies à "
+"chasser..."
+
+#: src-en/data/events_special_lightspeed.xml.append:73
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"2\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:81
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:83
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/event/text"
+msgstr ""
+"Vous téléportez autant de ferraille que vous le pouvez en utilisant "
+"l'émetteur. La même rengaine qu'avant - signal, Ferrailleurs, meurtre. "
+"Amusant."
+
+#: src-en/data/events_special_lightspeed.xml.append:90
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"3\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:98
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:100
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/event/text"
+msgstr ""
+"Vous parvenez à créer et à ravitailler entièrement une capsule de transport "
+"de ferraille, attirant l'attention d'un vaisseau Ferrailleur lourdement armé"
+" et très dangereux."
+
+#: src-en/data/events_special_lightspeed.xml.append:109
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"4\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:117
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:119
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/event/text"
+msgstr ""
+"Vous envoyez un signal affichant la ferraille à l'aide de l'émetteur. Peu "
+"après, votre carte reçoit les coordonnées de l'emplacement d'un vaisseau - "
+"très probablement le vaisseau Ferrailleur précédent."
+
+#: src-en/data/events_special_lightspeed.xml.append:126
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"5\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:134
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:136
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/event/text"
+msgstr ""
+"Vous envoyez un signal affichant la ferraille à l'aide de l'émetteur. Mais "
+"personne n'est venu."
+
+#: src-en/data/events_special_lightspeed.xml.append:138
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[@req=\"TC_DEAD\""
+" and @lvl=\"6\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_lightspeed.xml.append:146
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"SUMMON_TC\"]/choice[8]/text"
+msgstr ""

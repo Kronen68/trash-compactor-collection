@@ -1,0 +1,109 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_sector_droppoint.xml.append:3
+msgid "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_CALL\"]/text"
+msgstr ""
+"Vous remarquez un étrange signal provenant d'un emplacement sur votre carte."
+" Nous devrions vérifier."
+
+#: src-en/data/events_sector_droppoint.xml.append:8
+msgid "data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/text"
+msgstr ""
+"Cette balise est vide, à l'exception d'un étrange vaisseau Lanius d'un "
+"design qui n'apparaît sur aucun enregistrement. Leurs armes, autrefois "
+"vrombissantes de vie, s'éteignent lorsque vous entrez dans les environs. Il "
+"semble qu'ils ne veuillent pas se battre. Bien qu'ils ne répondent pas aux "
+"appels, vous n'êtes de toute façon pas sûr qu'ils comprendraient."
+
+#: src-en/data/events_sector_droppoint.xml.append:11
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/unvisitedTooltip"
+msgstr "V3NEZ L3 CHERCHeR"
+
+#: src-en/data/events_sector_droppoint.xml.append:12
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/visitedTooltip"
+msgstr ""
+
+#: src-en/data/events_sector_droppoint.xml.append:13
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/beaconType/undiscoveredTooltip"
+msgstr "N0US S0MMES TOUJourS LÀ"
+
+#: src-en/data/events_sector_droppoint.xml.append:18
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/text"
+msgstr "Rapprochez-vous du vaisseau Lanius inconnu..."
+
+#: src-en/data/events_sector_droppoint.xml.append:20
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/text"
+msgstr ""
+"L'étrange vaisseau Lanius a ramassé de la ferraille de ce qui semble avoir "
+"été un vaisseau pirate Mantis. Les scans des capteurs montrent qu'ils ont "
+"des armes flak avancées à bord. Ils ne semblent pas vous avoir remarqué ou "
+"vous ignorent autrement."
+
+#: src-en/data/events_sector_droppoint.xml.append:22
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_droppoint.xml.append:24
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"Le vaisseau continue d'ignorer votre présence tout en alimentant ses "
+"moteurs. Peu après, il saute, laissant derrière lui un étrange engin. Vous "
+"vous demandez s'ils le voudront en retour..."
+
+#: src-en/data/events_sector_droppoint.xml.append:26
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/text"
+msgstr "Prenez-le."
+
+#: src-en/data/events_sector_droppoint.xml.append:28
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+"Il semble s'agir d'un émetteur sur mesure - il peut envoyer une capsule de transport en utilisant du carburant et/ou des pièces de drone. Un écran affiche la position en direct de ce qui est vraisemblablement le vaisseau Lanius précédent, ainsi qu'un étrange message - \"VENEZ LE CHERCHER\". Peut-être que si vous les attirez avec de la ferraille, ils reviendront ?\n"
+"\n"
+"                                [Utilisez-le lors d'une vérification de stockage]"
+
+#: src-en/data/events_sector_droppoint.xml.append:37
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/text"
+msgstr "Vous n'êtes pas intéressé par de vrais déchets."
+
+#: src-en/data/events_sector_droppoint.xml.append:39
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[1]/event/choice[2]/event/text"
+msgstr ""
+"Cela pourrait être un piège, cela pourrait être des déchets. Les Lanius ne "
+"laissent généralement pas de proies derrière eux, même lorsque ladite proie "
+"est une machine apparemment inoffensive. Vous décidez de partir."
+
+#: src-en/data/events_sector_droppoint.xml.append:46
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/text"
+msgstr "Allez, nous n'avons pas le temps pour ça."
+
+#: src-en/data/events_sector_droppoint.xml.append:48
+msgid ""
+"data/events_sector_droppoint.xml.append$//event[@name=\"TRASH_MEET\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"Le vaisseau rend la pareille en sautant lui aussi. Au moins, ils n'ont pas "
+"attaqué."
+
+#: src-en/data/events_sector_droppoint.xml.append:58
+msgid ""
+"data/events_sector_droppoint.xml.append$//mod:findName[@name=\"START_BEACON_PRESELECT\"]/mod-"
+"append:choice/text"
+msgstr ""
+"Activez les batteries Éther prototypes de votre bouclier. (Recharge du "
+"bouclier d'énergie)"

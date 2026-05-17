@@ -1,0 +1,729 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/hyperspace.xml.append:143
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[1]/category[2]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:161
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[1]/category[3]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:193
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[2]/category[1]/customTitle"
+msgstr "OBJET DU JOUR [40% DE RÉDUCTION]"
+
+#: src-en/data/hyperspace.xml.append:237
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[2]/category[5]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:247
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[2]/category[6]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:265
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[2]/category[7]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:297
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[3]/category[1]/customTitle"
+msgstr "OBJET DU JOUR [40% DE RÉDUCTION]"
+
+#: src-en/data/hyperspace.xml.append:327
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[3]/category[3]/customTitle"
+msgstr "FLAKS BOMBES [20% DE RÉDUCTION]"
+
+#: src-en/data/hyperspace.xml.append:360
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[3]/category[6]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:370
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[3]/category[7]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:388
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[2]/mod-"
+"append:customStore[3]/category[8]/customTitle"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1156
+msgid "data/hyperspace.xml.append$//scrapper_engineer[@name=\"Zuggo\"]/@name"
+msgstr "Zuggo"
+
+#: src-en/data/hyperspace.xml.append:1158
+msgid "data/hyperspace.xml.append$//scrapper[@name=\"Ash\"]/@name"
+msgstr "Ash"
+
+#: src-en/data/hyperspace.xml.append:1169
+msgid "data/hyperspace.xml.append$//scrapper_engineer[@name=\"Emmy\"]/@name"
+msgstr "Emmy"
+
+#: src-en/data/hyperspace.xml.append:1231
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER\"]/crew/primagen_raptor[@name=\"RAPTOR\"]/@name"
+msgstr "RAPTOR"
+
+#: src-en/data/hyperspace.xml.append:1232
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER\"]/crew/protogen_tracker[@name=\"TRACKER\"]/@name"
+msgstr "TRACKER"
+
+#: src-en/data/hyperspace.xml.append:1233
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER\"]/crew/sergal_cheese[@name=\"Cheese\"]/@name"
+msgstr "Cheese"
+
+#: src-en/data/hyperspace.xml.append:1234
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER\"]/crew/clonefail_lancer[@name=\"Lancer\"]/@name"
+msgstr "Lancer"
+
+#: src-en/data/hyperspace.xml.append:1243
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/crew/primagen_raptor[@name=\"RAPTOR\"]/@name"
+msgstr "RAPTOR"
+
+#: src-en/data/hyperspace.xml.append:1244
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/crew/protogen_tracker[@name=\"TRACKER\"]/@name"
+msgstr "TRACKER"
+
+#: src-en/data/hyperspace.xml.append:1245
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/crew/sergal_cheese[@name=\"Cheese\"]/@name"
+msgstr "Cheese"
+
+#: src-en/data/hyperspace.xml.append:1246
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/crew/clonefail_lancer[@name=\"Lancer\"]/@name"
+msgstr "Lancer"
+
+#: src-en/data/hyperspace.xml.append:1247
+msgid "data/hyperspace.xml.append$//rock_commando[@name=\"Lex\"]/@name"
+msgstr "Lex"
+
+#: src-en/data/hyperspace.xml.append:1256
+msgid "data/hyperspace.xml.append$//avali[@name=\"Stolas\"]/@name"
+msgstr "Stolas"
+
+#: src-en/data/hyperspace.xml.append:1257
+msgid "data/hyperspace.xml.append$//kiviekith[@name=\"Alastor\"]/@name"
+msgstr "Alastor"
+
+#: src-en/data/hyperspace.xml.append:1258
+msgid "data/hyperspace.xml.append$//kiviekith[@name=\"Blitzo\"]/@name"
+msgstr "Blitzo"
+
+#: src-en/data/hyperspace.xml.append:1298
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_REACTOR\"]/crew/unique_kora[@name=\"Kora\"]/@name"
+msgstr "Kora"
+
+#: src-en/data/hyperspace.xml.append:1310
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TRASH_REACTOR_2\"]/crew/unique_kora[@name=\"Kora\"]/@name"
+msgstr "Kora"
+
+#: src-en/data/hyperspace.xml.append:1311
+msgid "data/hyperspace.xml.append$//unique_skygirr[@name=\"Skygirr\"]/@name"
+msgstr "Skygirr"
+
+#: src-en/data/hyperspace.xml.append:1312
+msgid "data/hyperspace.xml.append$//protogen_tracker[@name=\"Tracker\"]/@name"
+msgstr "Tracker"
+
+#: src-en/data/hyperspace.xml.append:1313
+msgid "data/hyperspace.xml.append$//cheetah[@name=\"Raul\"]/@name"
+msgstr "Raul"
+
+#: src-en/data/hyperspace.xml.append:1314
+msgid "data/hyperspace.xml.append$//scrapper_zog[@name=\"Zog\"]/@name"
+msgstr "Zog"
+
+#: src-en/data/hyperspace.xml.append:1355
+msgid "data/hyperspace.xml.append$//kiviekith[@name=\"Orvech Vonor\"]/@name"
+msgstr "Orvech Vonor"
+
+#: src-en/data/hyperspace.xml.append:1356
+msgid "data/hyperspace.xml.append$//kiviekith[@name=\"Altan\"]/@name"
+msgstr "Altan"
+
+#: src-en/data/hyperspace.xml.append:1357
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_EXTRAELITE_2\"]/crew/unique_kora[@name=\"Kora\"]/@name"
+msgstr "Kora"
+
+#: src-en/data/hyperspace.xml.append:1392
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_CORROSUS\"]/crew/unique_black_rose[@name=\"Black"
+" Rose\"]/@name"
+msgstr "Rose Noire"
+
+#: src-en/data/hyperspace.xml.append:1490
+msgid "data/hyperspace.xml.append$//human_phoenix[@name=\"Echo-Cap\"]/@name"
+msgstr "Écho-Cap"
+
+#: src-en/data/hyperspace.xml.append:1491
+msgid "data/hyperspace.xml.append$//human_soldier[@name=\"Echo-1\"]/@name"
+msgstr "Écho-1"
+
+#: src-en/data/hyperspace.xml.append:1492
+msgid "data/hyperspace.xml.append$//human_soldier[@name=\"Echo-2\"]/@name"
+msgstr "Écho-2"
+
+#: src-en/data/hyperspace.xml.append:1493
+msgid "data/hyperspace.xml.append$//human_soldier[@name=\"Echo-3\"]/@name"
+msgstr "Écho-3"
+
+#: src-en/data/hyperspace.xml.append:1494
+msgid "data/hyperspace.xml.append$//human_soldier[@name=\"Echo-4\"]/@name"
+msgstr "Écho-4"
+
+#: src-en/data/hyperspace.xml.append:1495
+msgid "data/hyperspace.xml.append$//human_soldier[@name=\"Echo-5\"]/@name"
+msgstr "Écho-5"
+
+#: src-en/data/hyperspace.xml.append:1496
+msgid "data/hyperspace.xml.append$//human_hazmat[@name=\"Echo-Sci\"]/@name"
+msgstr "Écho-Sci"
+
+#: src-en/data/hyperspace.xml.append:1497
+msgid "data/hyperspace.xml.append$//human_medic[@name=\"Echo-Med\"]/@name"
+msgstr "Écho-Med"
+
+#: src-en/data/hyperspace.xml.append:1553
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_3\"]/crew/unique_kora[@name=\"Kora\"]/@name"
+msgstr "Kora"
+
+#: src-en/data/hyperspace.xml.append:1554
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_3\"]/crew/clonefail_lancer[@name=\"Lancer\"]/@name"
+msgstr "Lancer"
+
+#: src-en/data/hyperspace.xml.append:1587
+msgid "data/hyperspace.xml.append$//slug_hektar[@name=\"SLUGTON\"]/@name"
+msgstr "SLUGTON"
+
+#: src-en/data/hyperspace.xml.append:1588
+msgid ""
+"data/hyperspace.xml.append$//mantis_freebusiness[@name=\"Businessmantis\"]/@name"
+msgstr "Mantis d'Affaires"
+
+#: src-en/data/hyperspace.xml.append:1590
+msgid "data/hyperspace.xml.append$//slug_hektar[@name=\"ConMan\"]/@name"
+msgstr "ConMan"
+
+#: src-en/data/hyperspace.xml.append:1599
+msgid "data/hyperspace.xml.append$//kiviekith[@name=\"Krieg\"]/@name"
+msgstr "Krieg"
+
+#: src-en/data/hyperspace.xml.append:1600
+msgid "data/hyperspace.xml.append$//avali[@name=\"Jessica\"]/@name"
+msgstr "Jessica"
+
+#: src-en/data/hyperspace.xml.append:1601
+msgid "data/hyperspace.xml.append$//mantis_rsa[@name=\"Diego\"]/@name"
+msgstr "Diego"
+
+#: src-en/data/hyperspace.xml.append:1667
+msgid "data/hyperspace.xml.append$//engineer[@name=\"Doctor M.\"]/@name"
+msgstr "Docteur M."
+
+#: src-en/data/hyperspace.xml.append:1671
+msgid "data/hyperspace.xml.append$//technomanning[@name=\"1812\"]/@name"
+msgstr "1812"
+
+#: src-en/data/hyperspace.xml.append:1852
+msgid "data/hyperspace.xml.append$//human[@name=\"Childs\"]/@name"
+msgstr "Childs"
+
+#: src-en/data/hyperspace.xml.append:1853
+msgid "data/hyperspace.xml.append$//human[@name=\"Windows\"]/@name"
+msgstr "Windows"
+
+#: src-en/data/hyperspace.xml.append:1854
+msgid "data/hyperspace.xml.append$//human[@name=\"Garry\"]/@name"
+msgstr "Garry"
+
+#: src-en/data/hyperspace.xml.append:1855
+msgid ""
+"data/hyperspace.xml.append$//human_legion_pyro[@name=\"R.J. "
+"MacReady\"]/@name"
+msgstr "R.J. MacReady"
+
+#: src-en/data/hyperspace.xml.append:1856
+msgid "data/hyperspace.xml.append$//blobhuman[@name=\"Palmer\"]/@name"
+msgstr "Palmer"
+
+#: src-en/data/hyperspace.xml.append:1879
+msgid "data/hyperspace.xml.append$//unique_leah_mfk[@name=\"Leah\"]/@name"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:1891
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_NEWTONBEAMA_2\"]/crew/unique_leah_mfk[@name=\"Leo"
+" Liam Leviticus\"]/@name"
+msgstr "Leo Liam Leviticus"
+
+#: src-en/data/hyperspace.xml.append:1903
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_NEWTONBEAMA_3\"]/crew/unique_leah_mfk[@name=\"Leo"
+" Liam Leviticus\"]/@name"
+msgstr "Leo Liam Leviticus"
+
+#: src-en/data/hyperspace.xml.append:2205
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_ECHO\"]/crew/primagen_raptor[@name=\"RAPTOR\"]/@name"
+msgstr "RAPTOR"
+
+#: src-en/data/hyperspace.xml.append:2206
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_ECHO\"]/crew/protogen_tracker[@name=\"TRACKER\"]/@name"
+msgstr "TRACKER"
+
+#: src-en/data/hyperspace.xml.append:2207
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"PLAYER_SHIP_ECHO\"]/crew/sergal_cheese[@name=\"Cheese\"]/@name"
+msgstr "Cheese"
+
+#: src-en/data/hyperspace.xml.append:2273
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:customShip[@name=\"RSA_DROPSHIP\"]/crew/unique_black_rose[@name=\"Black"
+" Rose\"]/@name"
+msgstr "Rose Noire"
+
+#: src-en/data/hyperspace.xml.append:2429
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"trash_eater\"]/powerEffect/buttonText"
+msgstr "COMPACT"
+
+#: src-en/data/hyperspace.xml.append:2430
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"trash_eater\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Soigne de 50 PV supplémentaires et inflige 1 dégât de coque à la "
+"pièce occupée tout en réduisant de moitié la vitesse de déplacement et en "
+"triplant les dégâts de combat pendant 10 secondes."
+
+#: src-en/data/hyperspace.xml.append:2994
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"golden_scrapper_medic\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:2995
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"golden_scrapper_medic\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE:45s]\n"
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce pour 50 points de vie au prix de sa propre santé."
+
+#: src-en/data/hyperspace.xml.append:3049
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"golden_scrapper_defender\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3050
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"golden_scrapper_defender\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE:45s]\n"
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce pour 75 points de vie au prix de sa propre santé."
+
+#: src-en/data/hyperspace.xml.append:3104
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"golden_scrapper_defender_mk2\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3105
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"golden_scrapper_defender_mk2\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE:45s]\n"
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce pour 75 points de vie au prix de sa propre santé."
+
+#: src-en/data/hyperspace.xml.append:3539
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"adamantine_scrapper_heavy_soldier\"]/powerEffect/buttonText"
+msgstr "DISPERSER"
+
+#: src-en/data/hyperspace.xml.append:3540
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"adamantine_scrapper_heavy_soldier\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE: 25s]\n"
+"\t\tInflige 1 dégât de coque, 1 dégât au système et étourdit les ennemis proches pendant 3 secondes."
+
+#: src-en/data/hyperspace.xml.append:3645
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerEffect/buttonText"
+msgstr "DISPERSER"
+
+#: src-en/data/hyperspace.xml.append:3646
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"adamantine_scrapper_heavy_soldier_mk2\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE: 25s]\n"
+"\t\tInflige 2 dégâts de coque, 2 dégâts au système et étourdit les ennemis proches pendant 6 secondes."
+
+#: src-en/data/hyperspace.xml.append:3750
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_heavy\"]/powerEffect/buttonText"
+msgstr "DISPERSER"
+
+#: src-en/data/hyperspace.xml.append:3751
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_heavy\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Inflige 1 dégât de coque, 1 dégât au système et étourdit les ennemis "
+"proches pendant 3 secondes."
+
+#: src-en/data/hyperspace.xml.append:3821
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_heavy_mk2\"]/powerEffect/buttonText"
+msgstr "DISPERSER"
+
+#: src-en/data/hyperspace.xml.append:3822
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_heavy_mk2\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Inflige 2 dégâts de coque, 2 dégâts au système et étourdit les "
+"ennemis proches pendant 6 secondes."
+
+#: src-en/data/hyperspace.xml.append:3871
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_medic\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3872
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_medic\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE:45s]\n"
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce pour 50 points de vie au prix de sa propre santé."
+
+#: src-en/data/hyperspace.xml.append:3932
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_defender\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3933
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_defender\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE:45s]\n"
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce pour 75 points de vie au prix de sa propre santé."
+
+#: src-en/data/hyperspace.xml.append:3987
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_defender_mk2\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:3988
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"scrapper_defender_mk2\"]/powerEffect/tooltip"
+msgstr ""
+"[TEMPS DE RECHARGE:45s]\n"
+"\t\t\tSoigne tous les autres membres d'équipage alliés dans la pièce pour 75 points de vie au prix de sa propre santé."
+
+#: src-en/data/hyperspace.xml.append:4493
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_kora\"]/powerEffect/buttonText"
+msgstr "SOUTIEN"
+
+#: src-en/data/hyperspace.xml.append:4494
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_kora\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Rend tous les membres d'équipage alliés capables de se téléporter "
+"pendant 3 secondes."
+
+#: src-en/data/hyperspace.xml.append:5532
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"clonefail_lancer\"]/powerEffect/buttonText"
+msgstr "SURCHARGE"
+
+#: src-en/data/hyperspace.xml.append:5533
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"clonefail_lancer\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Augmente la vitesse de déplacement à 3x et les dégâts d'équipage à "
+"2.3x pendant 7 secondes. N'augmente PAS les dégâts subis des dégâts "
+"environnementaux."
+
+#: src-en/data/hyperspace.xml.append:5747
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"rsa_technician\"]/powerEffect/buttonText"
+msgstr "TANK"
+
+#: src-en/data/hyperspace.xml.append:5748
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"rsa_technician\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Fait apparaître un drone tank temporaire qui peut combattre et "
+"saboter, mais pas réparer ou piloter des systèmes. Dure 40 secondes."
+
+#: src-en/data/hyperspace.xml.append:5790
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"rsa_tank\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:5791
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"rsa_tank\"]/powerEffect/tooltip"
+msgstr "Vous ne devriez pas voir ça. Montre la durée de vie restante."
+
+#: src-en/data/hyperspace.xml.append:5833
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"mantis_freebusiness\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:5834
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"mantis_freebusiness\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Augmente la vitesse de déplacement à 3x et les dégâts d'équipage à "
+"2.2x pendant 7 secondes. N'augmente PAS les dégâts subis des dégâts "
+"environnementaux."
+
+#: src-en/data/hyperspace.xml.append:5874
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"mantis_rsa\"]/powerEffect/buttonText"
+msgstr "PHÉROMONE?"
+
+#: src-en/data/hyperspace.xml.append:5875
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"mantis_rsa\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Augmente la vitesse de réparation à 2.2x pendant 7 secondes. "
+"N'augmente PAS les dégâts subis des dégâts environnementaux."
+
+#: src-en/data/hyperspace.xml.append:6439
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_skygirr\"]/powerEffect/buttonText"
+msgstr "E-RÉPARATION"
+
+#: src-en/data/hyperspace.xml.append:6440
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"unique_skygirr\"]/powerEffect/tooltip"
+msgstr "Prêt : Répare 5 dégâts de système et 1 dégât de coque."
+
+#: src-en/data/hyperspace.xml.append:6598
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"saviors\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:6599
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"saviors\"]/powerEffect/tooltip"
+msgstr ""
+"Active le mode libéré. Le Cognitif ne sera pas contrôlable mais bénéficiera "
+"d'énormes boosts à toutes ses statistiques. Ne peut pas être désactivé avant"
+" le prochain saut."
+
+#: src-en/data/hyperspace.xml.append:6648
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"saviorsa\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:6649
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"saviorsa\"]/powerEffect/tooltip"
+msgstr ""
+"Active le mode contrôle. Vous prendrez le contrôle total du Cognitif, mais "
+"il perdra ses statistiques boostées. Ne peut être désactivé qu'une fois par "
+"saut."
+
+#: src-en/data/hyperspace.xml.append:6696
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"avatarlegion\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:6697
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"avatarlegion\"]/powerEffect/tooltip"
+msgstr ""
+"Toutes les 25 secondes, le Cognitif se libère de ses chaînes et se déchaîne."
+
+#: src-en/data/hyperspace.xml.append:6745
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"avatarlegiona\"]/powerEffect/buttonText"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:6746
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:race[@name=\"avatarlegiona\"]/powerEffect/tooltip"
+msgstr ""
+"Toutes les 25 secondes, le Cognitif se libère de ses chaînes et se déchaîne."
+
+#: src-en/data/hyperspace.xml.append:7250
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"LAB_PROTOGEN_BOOP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
+msgstr "Boop"
+
+#: src-en/data/hyperspace.xml.append:7251
+msgid ""
+"data/hyperspace.xml.append$//aug[@name=\"LAB_PROTOGEN_BOOP\"]/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
+msgstr ""
+"Prêt : Multiplie la vitesse de déplacement et les dégâts de tous les membres"
+" d'équipage alliés dans la même pièce par 1.5 pendant 10 secondes."
+
+#: src-en/data/hyperspace.xml.append:7838
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:drone[@name=\"ROBO_MANT_DEFEND\"]/tooltipName"
+msgstr "Drone de Combat Mantis"
+
+#: src-en/data/hyperspace.xml.append:7842
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:drone[@name=\"ROBO_MANT_BOARDER\"]/tooltipName"
+msgstr "Drone de Combat Mantis"
+
+#: src-en/data/hyperspace.xml.append:7870
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:drone[@name=\"SILICA_BATTLE\"]/tooltipName"
+msgstr "Silica"
+
+#: src-en/data/hyperspace.xml.append:7874
+msgid ""
+"data/hyperspace.xml.append$//mod-"
+"append:drone[@name=\"SILICA_BOARDER\"]/tooltipName"
+msgstr "Silica"
+
+#: src-en/data/hyperspace.xml.append:7973
+msgid ""
+"data/hyperspace.xml.append$/dummyroot/FTL[3]/mod:findLike[14]/mod-"
+"append:page/section/@text"
+msgstr "Collection de Compacteur de Déchets"
+
+#: src-en/data/hyperspace.xml.append:7975
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TRASH_EATER\"]/name"
+msgstr "Prince Oublié"
+
+#: src-en/data/hyperspace.xml.append:7976
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TRASH_EATER\"]/secretDescription"
+msgstr ""
+
+#: src-en/data/hyperspace.xml.append:7977
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TRASH_EATER\"]/description"
+msgstr "Recruter le Mange-Déchets."
+
+#: src-en/data/hyperspace.xml.append:7983
+msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TC6DEFEAT\"]/name"
+msgstr "Démantelé"
+
+#: src-en/data/hyperspace.xml.append:7984
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_TCC_TC6DEFEAT\"]/description"
+msgstr "Vaincre le dernier Compacteur de Déchets."
+
+#: src-en/data/hyperspace.xml.append:7990
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/name"
+msgstr "Faveur de la Ferraille"
+
+#: src-en/data/hyperspace.xml.append:7991
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/secretDescription"
+msgstr "Recevoir la Faveur du Démantèlement de Thest."
+
+#: src-en/data/hyperspace.xml.append:7992
+msgid ""
+"data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_TCC_SCRAPPER\"]/description"
+msgstr ""
+"Montrer un membre d'équipage récupérateur à Thest. \n"
+"\t\t\t\tPendant l'effet, gagnez 5 % de ferraille en plus."
