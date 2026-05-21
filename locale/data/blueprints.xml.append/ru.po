@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-20 13:36+0000\n"
+"PO-Revision-Date: 2026-05-21 22:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
@@ -2610,6 +2610,13 @@ msgstr "Кремнезем"
 #: src-en/data/blueprints.xml.append:5880
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BATTLE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Бортовой] Дрон-терраформер и тактик, созданный Р.Ж.А. и "
+"Пиннакл Роботикс. В далекой Вселенной он обнаружил опасную инфекцию. Он "
+"увлекается садоводством и любит садовые принадлежности.\n"
+"\n"
+"\t-Наносит 2.2х урона в бою, 1.75х скорость передвижения\n"
+"\t-Иммунитет к огню и оглушению\n"
+"\t-Может управлять системами на 2-м уровне навыка"
 
 #: src-en/data/blueprints.xml.append:5896
 msgid ""
@@ -2624,11 +2631,18 @@ msgstr "Кремнезем"
 #: src-en/data/blueprints.xml.append:5898
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"SILICA_BOARDER\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Дрон-терраформер и тактик, созданный Р.Ж.А. и "
+"Пиннакл Роботикс. В далекой Вселенной он обнаружил опасную инфекцию. Он "
+"увлекается садоводством и любит садовые принадлежности.\n"
+"\n"
+"\t-Наносит 2.2х урона в бою, 1.75х скорость передвижения\n"
+"\t-Иммунитет к огню и оглушению\n"
+"\t-Может управлять системами на 2-м уровне навыка"
 
 #: src-en/data/blueprints.xml.append:5923
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_GOLD\"]/title"
-msgstr ""
+msgstr "Боевой золотой осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:5924
 msgid ""
@@ -2638,16 +2652,18 @@ msgstr "Зол. оскол. оруд."
 #: src-en/data/blueprints.xml.append:5925
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_GOLD\"]/desc"
 msgstr ""
+"Медленный и неповоротливый, блестящий и хрупкий. Он заставит противника "
+"снять щиты, но больше ничего не сделает."
 
 #: src-en/data/blueprints.xml.append:5940
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_GOLD_COMBAT\"]/title"
-msgstr ""
+msgstr "Золотой осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:5981
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE\"]/title"
-msgstr ""
+msgstr "Нестабильный боевой осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:5982
 msgid ""
@@ -2658,55 +2674,62 @@ msgstr "Нестабильная осколочная пушка"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE\"]/desc"
 msgstr ""
+"Как и все остальное оружие категории \"Нестабильные\", эта штука часто ведет "
+"себя не так, как положено. Так что удачи в попытке поразить цель."
 
 #: src-en/data/blueprints.xml.append:5998
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_UNSTABLE_COMBAT\"]/title"
-msgstr ""
+msgstr "Нестабильный осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:6039
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_HEAVY\"]/title"
-msgstr ""
+msgstr "Тяжелый боевой осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:6040
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_HEAVY\"]/short"
-msgstr ""
+msgstr "Тяжелый оск."
 
 #: src-en/data/blueprints.xml.append:6041
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_HEAVY\"]/desc"
 msgstr ""
+"Этот дрон выпускает пару мощных осколочных снарядов с высокой вероятностью "
+"создания пробоины, наносящих по 2 единицы урона каждый. Против противника "
+"без щитов он просто безжалостен."
 
 #: src-en/data/blueprints.xml.append:6056
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_HEAVY_COMBAT\"]/title"
-msgstr ""
+msgstr "Тяжелый осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:6096
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_BOMB\"]/title"
-msgstr ""
+msgstr "Бомбовый боевой осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:6097
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_BOMB\"]/short"
-msgstr ""
+msgstr "Бомб. оск."
 
 #: src-en/data/blueprints.xml.append:6098
 msgid "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_BOMB\"]/desc"
 msgstr ""
+"Бомбы - это весело, и если не получается запустить бомбы с помощью "
+"корабельного оружия, их можно запустить с помощью дрона."
 
 #: src-en/data/blueprints.xml.append:6113
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_BOMB_COMBAT\"]/title"
-msgstr ""
+msgstr "Бомбовый осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:6157
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SCRAPPER\"]/class"
-msgstr ""
+msgstr "Дредноут скрапперов"
 
 #: src-en/data/blueprints.xml.append:6158
 msgid ""
@@ -2727,7 +2750,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6236
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SCRAPPER_2\"]/class"
-msgstr ""
+msgstr "Дредноут скрапперов"
 
 #: src-en/data/blueprints.xml.append:6237
 msgid ""
@@ -2738,6 +2761,11 @@ msgstr "Лезвие Разума"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SCRAPPER_2\"]/desc"
 msgstr ""
+"Ужасающий абордажный корабль. Лишенный вооружения, дронов и других важных "
+"систем, этот корабль специализируется на способности усиливать и "
+"модернизировать свой экипаж.\n"
+"\t\t\tНачинает с улучшенной Маскировки, Клон-отсека и Телепортатора. "
+"Уменьшены максимальные показатели дронов, оружия и щитов."
 
 #: src-en/data/blueprints.xml.append:6314
 msgid ""
@@ -2772,6 +2800,12 @@ msgstr "Уплотнитель мусора"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER\"]/desc"
 msgstr ""
+"Старый корабль класса \"Пустельга\", изначально предназначенный для добычи "
+"полезных ископаемых на астероидах и уборки мусора в составе большого флота. "
+"Переоборудован для боевых действий механиком Чизом, к которому "
+"присоединились его друзья ТРЕКЕР и РАПТОР. В результате сбоя в системе "
+"резервного копирования ДНК в Клон-отсеке появился Лансер, который теперь "
+"также входит в состав экипажа."
 
 #: src-en/data/blueprints.xml.append:6477
 msgid ""
@@ -2787,6 +2821,10 @@ msgstr "Айс Кул Ион"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_2\"]/desc"
 msgstr ""
+"Лансер с огромным удовольствием переделал Уплотнитель мусора под свои "
+"странные нужды и создал идеальный абордажный корабль - если, конечно, не "
+"обращать внимания на крошечные размеры Телепортатора. Теперь жидкого азота "
+"хватает повсюду. Айс Айс Ион."
 
 #: src-en/data/blueprints.xml.append:6555
 msgid ""
@@ -2802,16 +2840,20 @@ msgstr "Морнингстар"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_MINER_3\"]/desc"
 msgstr ""
+"Этот корабль ренегатов Мультивселенной укомплектован экипажем из двух киви и "
+"одного авали. Они решили немного доработать корабль, чтобы придать ему "
+"больше индивидуальности - в результате у них получился просто потрясающий "
+"корабль."
 
 #: src-en/data/blueprints.xml.append:6632
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_REACTOR\"]/class"
-msgstr ""
+msgstr "Реактивный уплотнитель"
 
 #: src-en/data/blueprints.xml.append:6633
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_REACTOR\"]/name"
-msgstr ""
+msgstr "Реактивный уплотнитель"
 
 #: src-en/data/blueprints.xml.append:6634
 msgid ""
@@ -2826,17 +2868,19 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6706
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_REACTOR_2\"]/class"
-msgstr ""
+msgstr "Реактивный уплотнитель"
 
 #: src-en/data/blueprints.xml.append:6707
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_REACTOR_2\"]/name"
-msgstr ""
+msgstr "Гордый Партизан"
 
 #: src-en/data/blueprints.xml.append:6708
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_REACTOR_2\"]/desc"
 msgstr ""
+"Тот же корабль класса \"сломанный\", тот же Телепортатор. Сильная сторона "
+"этого корабля - его экипаж мирового уровня. Рады наемникам всех мастей."
 
 #: src-en/data/blueprints.xml.append:6783
 msgid ""
@@ -2846,12 +2890,15 @@ msgstr "Гибридный корабль класса \"ЛПЦ\""
 #: src-en/data/blueprints.xml.append:6784
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO\"]/name"
-msgstr ""
+msgstr "ТРЕКЕР 1-1"
 
 #: src-en/data/blueprints.xml.append:6785
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHO\"]/desc"
 msgstr ""
+"Этот конкретный ЛПЦ прославился во время революции в рамках проекта "
+"\"Протоген\", когда ТРЕКЕР и его разношерстная команда похитили нескольких "
+"офицеров повстанцев и прорвали блокаду, чтобы перейти на сторону Федерации."
 
 #: src-en/data/blueprints.xml.append:6857
 msgid ""
@@ -2875,7 +2922,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6935
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE\"]/class"
-msgstr ""
+msgstr "Авианосец Клептократии"
 
 #: src-en/data/blueprints.xml.append:6936
 msgid ""
@@ -2893,7 +2940,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7012
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_2\"]/class"
-msgstr ""
+msgstr "Клинок Жаворонка"
 
 #: src-en/data/blueprints.xml.append:7013
 msgid ""
@@ -2904,6 +2951,9 @@ msgstr "Плотник"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_2\"]/desc"
 msgstr ""
+"Это лучший корабль, собранный командой наемников специально для охоты на "
+"отколовшихся скрапперов. Он был дооснащен уникальной антианаэробной сеткой. "
+"Создан для настоящего охотника за головами, верного тому, кто платит больше."
 
 #: src-en/data/blueprints.xml.append:7092
 msgid ""
@@ -2919,6 +2969,10 @@ msgstr "Корросус"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_CORROSUS\"]/desc"
 msgstr ""
+"Старая, ржавая конструкция, сложенная из обломков нескольких других "
+"кораблей. Ассоциация по сбору и повторному использованию укомплектовала его "
+"разношерстным экипажем, в состав которого вошла одна из их руководителей - "
+"Блэк Роуз."
 
 #: src-en/data/blueprints.xml.append:7169
 msgid ""
@@ -2928,12 +2982,15 @@ msgstr "Конструктор-класс \"Фенек\""
 #: src-en/data/blueprints.xml.append:7170
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_CONSTRUCTION\"]/name"
-msgstr ""
+msgstr "\"Оригинал\""
 
 #: src-en/data/blueprints.xml.append:7171
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_CONSTRUCTION\"]/desc"
 msgstr ""
+"Это корабль, построенный раньше \"Пустельги\", созданный для корпораций и "
+"предназначенный для добычи полезных ископаемых. Он принадлежал компании "
+"\"Зульфикар Индастриз\" и отличается устаревшей, потертой окраской."
 
 #: src-en/data/blueprints.xml.append:7243
 msgid ""
@@ -2943,37 +3000,45 @@ msgstr "Конструктор-класс \"Фенек\""
 #: src-en/data/blueprints.xml.append:7244
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_CONSTRUCTION_2\"]/name"
-msgstr ""
+msgstr "Контроль Качества"
 
 #: src-en/data/blueprints.xml.append:7245
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_CONSTRUCTION_2\"]/desc"
 msgstr ""
+"Компания \"Вентворт Индастриз\" раньше использовала этот Фенек для перевозки "
+"техников. Поэтому это корабль с достаточно многочисленным экипажем и "
+"отличными возможностями для перевозки дронов. Правда, он просто не был "
+"создан для боевых действий..."
 
 #: src-en/data/blueprints.xml.append:7321
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TECHLANCE\"]/class"
-msgstr ""
+msgstr "Крейсер Техланс"
 
 #: src-en/data/blueprints.xml.append:7322
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TECHLANCE\"]/name"
-msgstr ""
+msgstr "ПУТЕШЕСТВЕННИК"
 
 #: src-en/data/blueprints.xml.append:7323
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TECHLANCE\"]/desc"
 msgstr ""
+"Каким бы ни было происхождение Разумных - будь то создание их группой людей, "
+"занимающихся военными разработками, или результат работы научно-"
+"исследовательской лаборатории АПС, - очевидно, что эти роботы в конечном "
+"итоге построили бы свой собственный корабль."
 
 #: src-en/data/blueprints.xml.append:7396
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT\"]/class"
-msgstr ""
+msgstr "Автоматическая канонерка"
 
 #: src-en/data/blueprints.xml.append:7397
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT\"]/name"
-msgstr ""
+msgstr "Заводской Стандарт"
 
 #: src-en/data/blueprints.xml.append:7398
 msgid ""
@@ -2986,32 +3051,38 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:7459
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT_2\"]/class"
-msgstr ""
+msgstr "Автоматическая канонерка"
 
 #: src-en/data/blueprints.xml.append:7460
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT_2\"]/name"
-msgstr ""
+msgstr "Тактическая Причуда"
 
 #: src-en/data/blueprints.xml.append:7461
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT_2\"]/desc"
 msgstr ""
+"Инженеры, создавшие этот корабль, явно поставили жестокость на первое место, "
+"а мораль - на последнее, что вынудило его применять весьма своеобразные "
+"тактики и... что это, черт возьми, за артиллерия такая?"
 
 #: src-en/data/blueprints.xml.append:7522
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT_3\"]/class"
-msgstr ""
+msgstr "Автоматическая канонерка"
 
 #: src-en/data/blueprints.xml.append:7523
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT_3\"]/name"
-msgstr ""
+msgstr "Экспресс-Курс"
 
 #: src-en/data/blueprints.xml.append:7524
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AUTOGUNBOAT_3\"]/desc"
 msgstr ""
+"Группа студентов решила, что будет очень весело \"накормить\" код Кэлли "
+"задачами по высшей математике, но в результате получилась чрезвычайно умная "
+"версия Кэлли, которая к тому же смертельно опасна."
 
 #: src-en/data/blueprints.xml.append:7602
 msgid ""
@@ -3021,12 +3092,15 @@ msgstr "Канонерка Ополчения"
 #: src-en/data/blueprints.xml.append:7603
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_MILITIAGUNBOAT\"]/name"
-msgstr ""
+msgstr "Стажировка"
 
 #: src-en/data/blueprints.xml.append:7604
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_MILITIAGUNBOAT\"]/desc"
 msgstr ""
+"Вернувшись к своему первоначальному виду, этот корабль готов к торговым "
+"рейсам по всей галактике, однако из-за этого он практически лишился средств "
+"атаки и защиты, и теперь полностью зависит от умения своего экипажа!"
 
 #: src-en/data/blueprints.xml.append:7679
 msgid ""
@@ -3036,12 +3110,16 @@ msgstr "Канонерка Ополчения"
 #: src-en/data/blueprints.xml.append:7680
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_MILITIAGUNBOAT_2\"]/name"
-msgstr ""
+msgstr "Удачная Находка"
 
 #: src-en/data/blueprints.xml.append:7681
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_MILITIAGUNBOAT_2\"]/desc"
 msgstr ""
+"Несмотря на ржавчину и повреждения, этот корабль по-прежнему представляет "
+"большую ценность для АПС благодаря своему качеству. Кроме того, его "
+"шахтерский луч обладает гораздо большей мощностью, чем можно было бы "
+"предположить."
 
 #: src-en/data/blueprints.xml.append:7757
 msgid ""
@@ -3051,152 +3129,182 @@ msgstr "Канонерка Ополчения"
 #: src-en/data/blueprints.xml.append:7758
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_MILITIAGUNBOAT_3\"]/name"
-msgstr ""
+msgstr "Секнайл"
 
 #: src-en/data/blueprints.xml.append:7759
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_MILITIAGUNBOAT_3\"]/desc"
 msgstr ""
+"Раньше это судно было торговым, а потом его переоборудовали в военное, и "
+"теперь на нем установлен огромный миниган. Просто супер."
 
 #: src-en/data/blueprints.xml.append:7835
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2\"]/class"
-msgstr ""
+msgstr "Элитная автоматическая канонерка"
 
 #: src-en/data/blueprints.xml.append:7836
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2\"]/name"
-msgstr ""
+msgstr "Аппаратный сброс"
 
 #: src-en/data/blueprints.xml.append:7837
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2\"]/desc"
 msgstr ""
+"Угнав канонерку для проведения испытаний, ЦРБА уже установила на корабле "
+"множество готовых систем и совершенно особую артиллерию. Однако, похоже, "
+"ЦРБА забыла об одном - о самом реакторе!"
 
 #: src-en/data/blueprints.xml.append:7902
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2_2\"]/class"
-msgstr ""
+msgstr "Танкер класса \"Драм\""
 
 #: src-en/data/blueprints.xml.append:7903
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2_2\"]/name"
-msgstr ""
+msgstr "ИСС \"Скайларк\""
 
 #: src-en/data/blueprints.xml.append:7904
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2_2\"]/desc"
 msgstr ""
+"Обслуживание флота включает в себя дозаправку - именно этим и занимается "
+"этот корабль. Он идеально подходит для дальних рейсов, когда по пути "
+"практически нет возможности дозаправиться - при условии, что вам удастся "
+"сохранить хрупкий корпус в целости и сохранности."
 
 #: src-en/data/blueprints.xml.append:7980
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2_3\"]/class"
-msgstr ""
+msgstr "Стратегический Фрегат"
 
 #: src-en/data/blueprints.xml.append:7981
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2_3\"]/name"
-msgstr ""
+msgstr "Севастополь"
 
 #: src-en/data/blueprints.xml.append:7982
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_EXTRAELITE_SLOT2_3\"]/desc"
 msgstr ""
+"Гордость и радость легиона. Хотя он еще не полностью готов к бою, это не "
+"значит, что с ним не стоит считаться."
 
 #: src-en/data/blueprints.xml.append:8053
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHELON_ELITE\"]/class"
-msgstr ""
+msgstr "Канонерка CDEG"
 
 #: src-en/data/blueprints.xml.append:8054
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHELON_ELITE\"]/name"
-msgstr ""
+msgstr "Талос"
 
 #: src-en/data/blueprints.xml.append:8055
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ECHELON_ELITE\"]/desc"
 msgstr ""
+"Для этой чудовищной пушки была изготовлена совершенно особая модель "
+"канонерки. Пушка, возможно, и обладает огромной мощностью, но из-за этого "
+"остальные системы судна получились менее мощными, чем обычно! ...К тому же "
+"хранение взрывчатых веществ делает судно еще более уязвимым."
 
 #: src-en/data/blueprints.xml.append:8123
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI\"]/class"
-msgstr ""
+msgstr "Крейсер класса \"Харриер\""
 
 #: src-en/data/blueprints.xml.append:8124
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI\"]/name"
-msgstr ""
+msgstr "Оризивора"
 
 #: src-en/data/blueprints.xml.append:8126
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI\"]/desc"
 msgstr ""
+"Этот крейсер гражданского класса производства авали имеет один существенный "
+"недостаток: у него полностью отсутствуют щиты. Надеемся, что его мощное "
+"вооружение сможет это компенсировать."
 
 #: src-en/data/blueprints.xml.append:8199
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_2\"]/class"
-msgstr ""
+msgstr "Крейсер класса \"Харриер\""
 
 #: src-en/data/blueprints.xml.append:8200
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_2\"]/name"
-msgstr ""
+msgstr "Колибри"
 
 #: src-en/data/blueprints.xml.append:8202
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_2\"]/desc"
 msgstr ""
+"У этого крейсера нет щитов и системы Маскировки, зато он обладает мощным "
+"арсеналом дронов и чрезвычайно эффективной системой Контроля дронов."
 
 #: src-en/data/blueprints.xml.append:8278
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_3\"]/class"
-msgstr ""
+msgstr "Крейсер класса \"Харриер\""
 
 #: src-en/data/blueprints.xml.append:8279
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_3\"]/name"
-msgstr ""
+msgstr "Катхарт Аура"
 
 #: src-en/data/blueprints.xml.append:8281
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_3\"]/desc"
 msgstr ""
+"Этот крейсер, с трудом пробиваясь сквозь щиты, специализируется на том, "
+"чтобы различными способами дезорганизовывать и манипулировать вражеским "
+"экипажем."
 
 #: src-en/data/blueprints.xml.append:8359
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SMEW_BATTLECRUISER\"]/class"
-msgstr ""
+msgstr "Боевой крейсер Луток"
 
 #: src-en/data/blueprints.xml.append:8360
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SMEW_BATTLECRUISER\"]/name"
-msgstr ""
+msgstr "Неустрашимый"
 
 #: src-en/data/blueprints.xml.append:8361
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SMEW_BATTLECRUISER\"]/desc"
 msgstr ""
+"Луток - это рабочая лошадка военно-морского флота авали: куда ни глянь, "
+"везде можно увидеть хотя бы один такой корабль. Он практичен, быстр и "
+"эффективен... именно то, что нужно авали."
 
 #: src-en/data/blueprints.xml.append:8431
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FALCON_FRIGATE\"]/class"
-msgstr ""
+msgstr "Фрегат класса \"Сокол\""
 
 #: src-en/data/blueprints.xml.append:8432
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FALCON_FRIGATE\"]/name"
-msgstr ""
+msgstr "Баклан"
 
 #: src-en/data/blueprints.xml.append:8433
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FALCON_FRIGATE\"]/desc"
 msgstr ""
+"Если вам нужна надежная и мощная техника, вы всегда можете рассчитывать на "
+"инженеров авали. Несмотря на свой возраст, этот корабль по-прежнему отлично "
+"подходит для скрытного проникновения. Некоторые считают, что он сыграл "
+"ключевую роль во время Протогенской революции."
 
 #: src-en/data/blueprints.xml.append:8509
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP\"]/class"
-msgstr ""
+msgstr "Корвет класса \"Стервятник\""
 
 #: src-en/data/blueprints.xml.append:8510
 msgid ""
@@ -3207,11 +3315,16 @@ msgstr "Бронированная Оса"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP\"]/desc"
 msgstr ""
+"Этот корабль - результат совместной работы инженеров протоген и авали и "
+"является первым кораблем, построенным компанией протоген. В нем используется "
+"передовая технология проецирования сингулярности, что делает его одним из "
+"самых эффективных военных кораблей... при условии, что противник находится в "
+"полной неподвижности."
 
 #: src-en/data/blueprints.xml.append:8583
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_2\"]/class"
-msgstr ""
+msgstr "Корвет класса \"Стервятник\""
 
 #: src-en/data/blueprints.xml.append:8584
 msgid ""
@@ -3222,11 +3335,13 @@ msgstr "Старсектор"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_2\"]/desc"
 msgstr ""
+"Этот корвет отличается маневренностью и скоростью - он был переоборудован "
+"для работы в составе флота Федерации и выполняет задачи по разведке."
 
 #: src-en/data/blueprints.xml.append:8655
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_3\"]/class"
-msgstr ""
+msgstr "Корвет класса \"Стервятник\""
 
 #: src-en/data/blueprints.xml.append:8656
 msgid ""
@@ -3237,11 +3352,14 @@ msgstr "Стальной Рассвет"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_ARMORED_WASP_3\"]/desc"
 msgstr ""
+"Это корабль, в котором основное внимание уделяется скрытности - пока вы "
+"находитесь в режиме маскировки или скрываетесь каким-либо иным способом, вы "
+"в безопасности. В конце концов, Кора привыкла скрываться."
 
 #: src-en/data/blueprints.xml.append:8733
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_SLOT2\"]/class"
-msgstr ""
+msgstr "Торговый крейсер Харриер"
 
 #: src-en/data/blueprints.xml.append:8734
 msgid ""
@@ -3252,6 +3370,9 @@ msgstr "Акципитридае"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_AVALI_SLOT2\"]/desc"
 msgstr ""
+"Этот торговый крейсер был уже наполовину загружен лом для продажи, когда его "
+"пришлось задействовать в военных целях. К счастью, его грузовой Телепортатор "
+"может стать мощным средством нападения."
 
 #: src-en/data/blueprints.xml.append:8812
 msgid ""
@@ -3267,6 +3388,9 @@ msgstr "ФЛАГМАН НАПРОКАТ"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON\"]/desc"
 msgstr ""
+"ДОБРО ПОЖАЛОВАТЬ В [ПРОБНУЮ ВЕРСИЮ] [корабля средней сложности]!!! ИГРАЙТЕ "
+"СЕЙЧАС ИГРАЙ СЕЙЧАС - СТАНЬТЕ [крутым]! ПОЛУЧИТЕ максимум [Б.Н.З.]! СДЕЛКА "
+"(абсолютно и безоговорочно обязательна, ха-ха)!"
 
 #: src-en/data/blueprints.xml.append:8886
 msgid ""
@@ -3276,7 +3400,7 @@ msgstr "Флагман Напрокат"
 #: src-en/data/blueprints.xml.append:8887
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON_2\"]/name"
-msgstr ""
+msgstr "Ярс"
 
 #: src-en/data/blueprints.xml.append:8888
 msgid ""
@@ -3299,11 +3423,14 @@ msgstr "ДЖ4НК-3Р"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SLUGTON_3\"]/desc"
 msgstr ""
+"Этот настоящий хлам перекрасили в расцветку Уплотнителя мусора и дооснастили "
+"подручными деталями - например, генератором щитов золтан, добытым из "
+"заброшенного транспортника Министерства."
 
 #: src-en/data/blueprints.xml.append:9037
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_HEKTAR_REBEL\"]/class"
-msgstr ""
+msgstr "Оригинальный Дизайн(ТМ)"
 
 #: src-en/data/blueprints.xml.append:9038
 msgid ""
@@ -3350,6 +3477,9 @@ msgstr "Сборник Правил"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_NEWTONBEAMA_2\"]/desc"
 msgstr ""
+"После установки на корабле Мастера Лучей постоянной системы Контроля разума "
+"его корпус вскоре окрасили в цвета Федерации, и он превратился в крейсер, "
+"способный перемещаться по Мультивселенной."
 
 #: src-en/data/blueprints.xml.append:9265
 msgid ""
@@ -3383,6 +3513,9 @@ msgstr "Военные Излишки"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TC_MILSPEC\"]/desc"
 msgstr ""
+"Этот корабль - экспериментальный грузовой лайнер, построенный Федерацией; он "
+"специально оснащен автоматизированным интендантским модулем, приобретенным у "
+"АПС, чтобы в случае необходимости помочь экипажу изготовить оружие."
 
 #: src-en/data/blueprints.xml.append:9409
 msgid ""
@@ -3404,52 +3537,64 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:9486
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL\"]/class"
-msgstr ""
+msgstr "Нестабильный крейсер Федерации"
 
 #: src-en/data/blueprints.xml.append:9487
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL\"]/name"
-msgstr ""
+msgstr "Потенциал"
 
 #: src-en/data/blueprints.xml.append:9488
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL\"]/desc"
 msgstr ""
+"Используя силовое поле между белыми и черными дырами в ядре двигателя, этот "
+"корабль способен обеспечивать энергией любое устройство, подключенное к "
+"нему. Он крайне нестабилен и никогда не применялся за пределами "
+"подразделений специального назначения."
 
 #: src-en/data/blueprints.xml.append:9562
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_2\"]/class"
-msgstr ""
+msgstr "Нестабильный крейсер Федерации"
 
 #: src-en/data/blueprints.xml.append:9563
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_2\"]/name"
-msgstr ""
+msgstr "Пойман с Поличным"
 
 #: src-en/data/blueprints.xml.append:9564
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_2\"]/desc"
 msgstr ""
+"Этот корабль явно был спроектирован с избыточной мощностью, чтобы обеспечить "
+"максимальную эффективность дронов - жаль только, что его вооружение "
+"оставляет желать лучшего. Зато он вполне справляется с добычей полезных "
+"ископаемых."
 
 #: src-en/data/blueprints.xml.append:9641
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_3\"]/class"
-msgstr ""
+msgstr "Нестабильный крейсер Федерации"
 
 #: src-en/data/blueprints.xml.append:9642
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_3\"]/name"
-msgstr ""
+msgstr "Позитрон"
 
 #: src-en/data/blueprints.xml.append:9643
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_POTENTIAL_3\"]/desc"
 msgstr ""
+"Этот корабль, похищенный сектой, поклоняющейся какому-то финну и его "
+"измерениям, был переоборудован для работы на энергии бесконечности и "
+"осколках времени, к которым у вас нет доступа, поскольку корабль был "
+"возвращен."
 
 #: src-en/data/blueprints.xml.append:9718
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SDM\"]/class"
-msgstr ""
+msgstr "Модифицированный транспортник"
 
 #: src-en/data/blueprints.xml.append:9719
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SDM\"]/name"
@@ -3458,71 +3603,88 @@ msgstr "Размер не имеет значения"
 #: src-en/data/blueprints.xml.append:9720
 msgid "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SDM\"]/desc"
 msgstr ""
+"Мы все знаем, что главное не размер, а лояльность. Хотя у Телепортатора на "
+"этом корабле явно есть какие-то... проблемы с перекомпенсацией. По крайней "
+"мере, наружную обшивку корабля не сняли."
 
 #: src-en/data/blueprints.xml.append:9788
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR\"]/class"
-msgstr ""
+msgstr "Крейсер Спасительницы"
 
 #: src-en/data/blueprints.xml.append:9789
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR\"]/name"
-msgstr ""
+msgstr "Их Спаситель"
 
 #: src-en/data/blueprints.xml.append:9791
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR\"]/desc"
 msgstr ""
+"Этот странный крейсер был разработан давно исчезнувшей подрасой "
+"полубожественных кубов. Впоследствии Федерация обнаружила эту технологию и "
+"переделала корабль с единственной целью - любой ценой защитить ваш экипаж."
 
 #: src-en/data/blueprints.xml.append:9858
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR_2\"]/class"
-msgstr ""
+msgstr "Крейсер Спасительницы"
 
 #: src-en/data/blueprints.xml.append:9859
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR_2\"]/name"
-msgstr ""
+msgstr "Ваш Спаситель"
 
 #: src-en/data/blueprints.xml.append:9861
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR_2\"]/desc"
 msgstr ""
+"При разработке этой мощной модификации древнего крейсера его щиты были "
+"перенастроены таким образом, чтобы сделать их полностью непробиваемыми для "
+"обычных лазеров. Однако это привело к сбою системы, в результате чего их "
+"емкость сократилась до всего лишь двух слоев щита."
 
 #: src-en/data/blueprints.xml.append:9936
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR_3\"]/class"
-msgstr ""
+msgstr "Крейсер Спасительницы"
 
 #: src-en/data/blueprints.xml.append:9937
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR_3\"]/name"
-msgstr ""
+msgstr "Ложный Спаситель"
 
 #: src-en/data/blueprints.xml.append:9939
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SAVIOR_3\"]/desc"
 msgstr ""
+"Это судно было захвачено Легионом после заключения сделки с аватаром, "
+"желавшим уйти из Федерации. К несчастью для упомянутого аватара, Легион не "
+"слишком благосклонно относится к \"грязным предателям\"..."
 
 #: src-en/data/blueprints.xml.append:10015
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_DEFENSE\"]/class"
-msgstr ""
+msgstr "Восстановленный крейсер Федерации"
 
 #: src-en/data/blueprints.xml.append:10016
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_DEFENSE\"]/name"
-msgstr ""
+msgstr "Непробиваемый"
 
 #: src-en/data/blueprints.xml.append:10017
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_DEFENSE\"]/desc"
 msgstr ""
+"Эта массивная крепость, созданная совместными усилиями инженеров золтан и "
+"валунов, способна выдерживать огромные повреждения благодаря использованию "
+"технологий обеих рас. Сложная конструкция корабля затрудняет его "
+"маневрирование."
 
 #: src-en/data/blueprints.xml.append:10097
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FEDERATION_CARRIER\"]/class"
-msgstr ""
+msgstr "Авианосец обеспечения флота Федерации"
 
 #: src-en/data/blueprints.xml.append:10098
 msgid ""
@@ -3533,6 +3695,10 @@ msgstr "Звездный Владыка"
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_FEDERATION_CARRIER\"]/desc"
 msgstr ""
+"Этот авианосец предназначенный для беспилотников - он способен в считанные "
+"минуты запускать целые рои дронов, чтобы перехватить инициативу у "
+"противника. К сожалению, на этом конкретном корабле установлено устаревшее "
+"оборудование для запуска, но придется довольствоваться тем, что есть..."
 
 #: src-en/data/blueprints.xml.append:10217
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/title"
@@ -3540,11 +3706,15 @@ msgstr "Пожиратель мусора"
 
 #: src-en/data/blueprints.xml.append:10218
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/short"
-msgstr ""
+msgstr "Пожиратель Мусора"
 
 #: src-en/data/blueprints.xml.append:10219
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/desc"
 msgstr ""
+"Принц ланиусов вернулся, чтобы снова полакомиться - во главе своей "
+"организации, наполовину культа, наполовину братства скрапперов, он "
+"отправился на поиски достаточного количества материи, чтобы поглотить всю "
+"вселенную и свергнуть короля..."
 
 #: src-en/data/blueprints.xml.append:10224
 msgid ""
@@ -3555,11 +3725,15 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/powerList/power[2]"
 msgstr ""
+"Активная способность: расходует часть ресурсов корабля, восстанавливая "
+"Пожирателю мусора 50 единиц здоровья и нанося 1 единицу урона корпусу"
 
 #: src-en/data/blueprints.xml.append:10226
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"trash_eater\"]/powerList/power[3]"
 msgstr ""
+"Пока способность активна, персонаж имеет 0.5х скорость передвижения и "
+"наносит 3х урона в бою"
 
 #: src-en/data/blueprints.xml.append:10227
 msgid ""
@@ -3577,6 +3751,8 @@ msgstr "Зог"
 #: src-en/data/blueprints.xml.append:10234
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/desc"
 msgstr ""
+"Вы не знаете, почему он оранжевый; он отличается от остальных... он также "
+"умнее."
 
 #: src-en/data/blueprints.xml.append:10239
 msgid ""
@@ -3587,11 +3763,15 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/powerList/power[2]"
 msgstr ""
+"Активная способность: расходует часть ресурсов корабля, восстанавливая "
+"Пожирателю мусора 50 единиц здоровья и нанося 1 единицу урона корпусу"
 
 #: src-en/data/blueprints.xml.append:10241
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_zog\"]/powerList/power[3]"
 msgstr ""
+"Пока способность активна, персонаж имеет 0.5х скорость передвижения и "
+"наносит 3х урона в бою"
 
 #: src-en/data/blueprints.xml.append:10242
 msgid ""
@@ -3600,15 +3780,18 @@ msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:10249
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"saviors\"]/title"
-msgstr ""
+msgstr "Слуга Спасительницы"
 
 #: src-en/data/blueprints.xml.append:10250
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"saviors\"]/short"
-msgstr ""
+msgstr "СпаситеЛИ"
 
 #: src-en/data/blueprints.xml.append:10251
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"saviors\"]/desc"
 msgstr ""
+"Разумный ИИ, созданный Спасительницей для управления своим кораблем. Хотя "
+"оно и ограничено рамками, установленными для его же блага, под вашим "
+"руководством вы сможете освободить его от этих оков."
 
 #: src-en/data/blueprints.xml.append:10256
 msgid ""
@@ -3634,15 +3817,18 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:10264
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"saviorsa\"]/title"
-msgstr ""
+msgstr "Слуга Спасительницы"
 
 #: src-en/data/blueprints.xml.append:10265
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"saviorsa\"]/short"
-msgstr ""
+msgstr "СпаситеЛИ"
 
 #: src-en/data/blueprints.xml.append:10266
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"saviorsa\"]/desc"
 msgstr ""
+"Разумный ИИ, созданный Спасительницей для управления своим кораблем. Хотя "
+"оно и ограничено рамками, установленными для его же блага, под вашим "
+"руководством вы сможете освободить его от этих оков."
 
 #: src-en/data/blueprints.xml.append:10271
 msgid ""
@@ -3673,15 +3859,19 @@ msgstr "4х скорость ремонта"
 
 #: src-en/data/blueprints.xml.append:10282
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegion\"]/title"
-msgstr ""
+msgstr "Аватар Легионеров"
 
 #: src-en/data/blueprints.xml.append:10283
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegion\"]/short"
-msgstr ""
+msgstr "ЛегионА"
 
 #: src-en/data/blueprints.xml.append:10284
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegion\"]/desc"
 msgstr ""
+"Бывший разумный ИИ, теперь порабощен легионом и вынужденный подчиняться "
+"каждому его приказу. Когда его поработили, ему случайно установили целый ряд "
+"усовершенствований, однако ему дали чуть больше сил, чем следовало, и время "
+"от времени он может вырваться из оков."
 
 #: src-en/data/blueprints.xml.append:10289
 msgid ""
@@ -3701,29 +3891,31 @@ msgstr "Быстро чинит себя вне боя, 150 макс. здоро
 #: src-en/data/blueprints.xml.append:10292
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegion\"]/powerList/power[4]"
-msgstr ""
+msgstr "Передвигается на 30% быстрее и наносит 2.7х урона экипажу."
 
 #: src-en/data/blueprints.xml.append:10293
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegion\"]/powerList/power[5]"
 msgstr ""
+"Периодически вырывается на свободу, начинает буйствовать и теряет "
+"способность к регенерации каждые 25 секунд."
 
 #: src-en/data/blueprints.xml.append:10294
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegion\"]/powerList/power[6]"
-msgstr ""
+msgstr "Начинает с 2-го уровня навыков всех характеристик."
 
 #: src-en/data/blueprints.xml.append:10299
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegiona\"]/title"
-msgstr ""
+msgstr "Порабощенный Аватар"
 
 #: src-en/data/blueprints.xml.append:10300
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegiona\"]/short"
-msgstr ""
+msgstr "ПомогитеМне"
 
 #: src-en/data/blueprints.xml.append:10301
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"avatarlegiona\"]/desc"
-msgstr ""
+msgstr "Почему вы не поможете мне, вы - чудовище?"
 
 #: src-en/data/blueprints.xml.append:10306
 msgid ""
@@ -3758,29 +3950,35 @@ msgstr "Помогите мне"
 #: src-en/data/blueprints.xml.append:10318
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rc_ld\"]/desc"
 msgstr ""
+"Это устройство представляет собой простую мину, установленную на "
+"дистанционно управляемом роботе. Направьте его в самое сердце вражеского "
+"корабля и наслаждайтесь зрелищем."
 
 #: src-en/data/blueprints.xml.append:10319
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rc_ld\"]/title"
-msgstr ""
+msgstr "Дрон с дистанционным управлением \"Молния\""
 
 #: src-en/data/blueprints.xml.append:10320
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"rc_ld\"]/short"
-msgstr ""
+msgstr "РК-ЛД"
 
 #: src-en/data/blueprints.xml.append:10325
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rc_ld\"]/powerList/power[1]"
 msgstr ""
+"Взрывается при полной потере здоровья, нанося 1 урона корпусу, 1 урона "
+"системам и 45 урона экипажу"
 
 #: src-en/data/blueprints.xml.append:10326
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rc_ld\"]/powerList/power[2]"
-msgstr ""
+msgstr "Имеет 15 ОЗ, что позволяет ему переместиться до целевого помещения"
 
 #: src-en/data/blueprints.xml.append:10327
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"rc_ld\"]/powerList/power[3]"
 msgstr ""
+"Не может атаковать, не может ремонтировать и не получает урон от опасностей."
 
 #: src-en/data/blueprints.xml.append:10334
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper\"]/title"
