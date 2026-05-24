@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-21 22:36+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-05-25 12:36+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datatext_blueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -491,7 +491,7 @@ msgstr "Флагман Напрокат"
 #: src-en/data/text_blueprints.xml.append:135
 msgid ""
 "data/text_blueprints.xml.append$//text[@name=\"text_PLAYER_SHIP_SLUGTON_name\"]"
-msgstr "Флагман Напрокат"
+msgstr "ФЛАГМАН НАПРОКАТ"
 
 #: src-en/data/text_blueprints.xml.append:136
 msgid ""
