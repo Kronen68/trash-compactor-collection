@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-07 01:49+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2026-05-25 12:35+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_multiversexmlappend/ru/>\n"
 "Language: ru\n"
@@ -699,8 +699,8 @@ msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"TCM_DESTROY\"]/choice[2]/event/text"
 msgstr ""
 "Вы получили дрон - и он сделан из золота!\n"
-"\t\t\t\t\tПожиратель мусора из этой вселенной впечатлен вашими действиями и "
-"присоединяется к вашему экипажу."
+"\t\t\t\t\t\tПожиратель мусора из этой вселенной впечатлен вашими действиями "
+"и присоединяется к вашему экипажу."
 
 #: src-en/data/events_special_multiverse.xml.append:541
 msgid ""
@@ -1586,7 +1586,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1453
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC1\"]/beaconType/undiscoveredTooltip"
-msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
+msgstr "МЫ Вс3 ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1456
 msgid ""
@@ -1658,7 +1658,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1492
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC2\"]/beaconType/undiscoveredTooltip"
-msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
+msgstr "МЫ Вс3 ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1495
 msgid ""
@@ -1728,7 +1728,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1572
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC3\"]/beaconType/undiscoveredTooltip"
-msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
+msgstr "МЫ Вс3 ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1575
 msgid ""
@@ -1883,7 +1883,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1654
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC4\"]/beaconType/undiscoveredTooltip"
-msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
+msgstr "МЫ Вс3 ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1657
 msgid ""
@@ -1996,7 +1996,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1711
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC5\"]/beaconType/undiscoveredTooltip"
-msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
+msgstr "МЫ Вс3 ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1714
 msgid ""
@@ -2068,7 +2068,7 @@ msgstr "Посещенное место. Ничего интересного."
 #: src-en/data/events_special_multiverse.xml.append:1750
 msgid ""
 "data/events_special_multiverse.xml.append$//event[@name=\"ENCOUNTER_TC6\"]/beaconType/undiscoveredTooltip"
-msgstr "М11 ВсЕ ЕщЕ ЗдЕСЬ"
+msgstr "МЫ Вс3 ЕщЕ ЗдЕСЬ"
 
 #: src-en/data/events_special_multiverse.xml.append:1753
 msgid ""
