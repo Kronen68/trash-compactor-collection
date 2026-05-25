@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-25 12:35+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2026-05-25 13:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -3251,8 +3251,8 @@ msgstr ""
 "\t\t[Специализация] 1.25х скорость передвижения\n"
 "\t\t[Специализация] 2.0х скорость ремонта \n"
 "\t\t115 здоровья\n"
-"\t\t0,5x получаемый урон от огня\n"
-"\t\t0,5x истощение кислорода\n"
+"\t\t0.5x получаемый урон от огня\n"
+"\t\t0.5x истощение кислорода\n"
 "\t\tНе может сражаться"
 
 #: src-en/data/events_special_storage.xml.append:2826
