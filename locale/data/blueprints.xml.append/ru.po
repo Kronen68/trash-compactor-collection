@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-25 17:34+0000\n"
+"PO-Revision-Date: 2026-05-26 15:52+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
@@ -2549,7 +2549,7 @@ msgstr "Боевой дрон \"Богомол\" [Охрана]"
 #: src-en/data/blueprints.xml.append:5828
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"ROBO_MANT_DEFEND\"]/short"
-msgstr "Робо-Богомол [О]"
+msgstr "Робо-Бог. [О]"
 
 #: src-en/data/blueprints.xml.append:5829
 msgid ""
@@ -2569,7 +2569,7 @@ msgstr "Боевой дрон \"Богомол\" [Абордаж]"
 #: src-en/data/blueprints.xml.append:5845
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"ROBO_MANT_BOARDER\"]/short"
-msgstr "Робо-Богомол [А]"
+msgstr "Робо-Бог. [А]"
 
 #: src-en/data/blueprints.xml.append:5846
 msgid ""
@@ -3551,7 +3551,7 @@ msgstr ""
 "Используя силовое поле между белыми и черными дырами в ядре двигателя, этот "
 "корабль способен обеспечивать энергией любое устройство, подключенное к "
 "нему. Он крайне нестабилен и никогда не применялся за пределами "
-"подразделений специального назначения."
+"спецподразделений."
 
 #: src-en/data/blueprints.xml.append:9562
 msgid ""
