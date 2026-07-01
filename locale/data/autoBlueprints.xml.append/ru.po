@@ -1,168 +1,270 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-02 10:27+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"trash-compactor-collection/dataautoblueprintsxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
-#: src-en/data/autoBlueprints.xml.append:1263
+#: src-en/data/autoBlueprints.xml.append:1427
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR1\"]/class"
 msgstr "Мусоропресс"
 
-#: src-en/data/autoBlueprints.xml.append:1293
+#: src-en/data/autoBlueprints.xml.append:1455
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR2\"]/class"
 msgstr "Мусоропресс"
 
-#: src-en/data/autoBlueprints.xml.append:1326
+#: src-en/data/autoBlueprints.xml.append:1477
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR2\"]/crew/trash_eater[@name=\"Trash"
+" Eater\"]/@name"
+msgstr "Пожиратель мусора"
+
+#: src-en/data/autoBlueprints.xml.append:1485
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR3\"]/class"
 msgstr "Мусоропресс"
 
-#: src-en/data/autoBlueprints.xml.append:1365
+#: src-en/data/autoBlueprints.xml.append:1513
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR3\"]/crew/trash_eater[@name=\"Trash"
+" Eater\"]/@name"
+msgstr "Пожиратель мусора"
+
+#: src-en/data/autoBlueprints.xml.append:1521
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR4\"]/class"
 msgstr "Мусоропресс"
 
-#: src-en/data/autoBlueprints.xml.append:1405
+#: src-en/data/autoBlueprints.xml.append:1549
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR4\"]/crew/trash_eater[@name=\"Trash"
+" Eater\"]/@name"
+msgstr "Пожиратель мусора"
+
+#: src-en/data/autoBlueprints.xml.append:1558
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR5\"]/class"
 msgstr "(Блестящий) Мусоропресс"
 
-#: src-en/data/autoBlueprints.xml.append:1453
+#: src-en/data/autoBlueprints.xml.append:1593
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR5\"]/crew/trash_eater[@name=\"Trash"
+" Eater\"]/@name"
+msgstr "Пожиратель мусора"
+
+#: src-en/data/autoBlueprints.xml.append:1603
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR6\"]/class"
 msgstr "Вселенная 0 Мусоропресс"
 
-#: src-en/data/autoBlueprints.xml.append:1507
+#: src-en/data/autoBlueprints.xml.append:1643
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR6\"]/crew/trash_eater[@name=\"Trash"
+" Eater\"]/@name"
+msgstr "Пожиратель мусора"
+
+#: src-en/data/autoBlueprints.xml.append:1652
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR_ROSEGOLD\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1688
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR_GOLDEN\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1723
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR_ADAMANTINE\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1761
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_ZOG\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1820
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_ZOG_SUPER\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1898
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR_MERGED_AG\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1946
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR_MERGED_GR\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:1990
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_COMPACTOR_MERGED_RA\"]/class"
+msgstr ""
+
+#: src-en/data/autoBlueprints.xml.append:2040
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER\"]/class"
 msgstr "Уплотнитель мусора ТРЕКЕР'а"
 
-#: src-en/data/autoBlueprints.xml.append:1544
+#: src-en/data/autoBlueprints.xml.append:2064
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER\"]/crew/primagen_raptor[@name=\"RAPTOR\"]/@name"
+msgstr "РАПТОР"
+
+#: src-en/data/autoBlueprints.xml.append:2065
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER\"]/crew/protogen_tracker[@name=\"TRACKER\"]/@name"
+msgstr "ТРЕКЕР"
+
+#: src-en/data/autoBlueprints.xml.append:2066
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER\"]/crew/sergal_cheese[@name=\"Cheese\"]/@name"
+msgstr "Чиз"
+
+#: src-en/data/autoBlueprints.xml.append:2067
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER\"]/crew/clonefail_lancer[@name=\"Lancer\"]/@name"
+msgstr "Лансер"
+
+#: src-en/data/autoBlueprints.xml.append:2075
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER_QUEST\"]/class"
 msgstr "Уплотнитель мусора ТРЕКЕР'а"
 
-#: src-en/data/autoBlueprints.xml.append:1582
+#: src-en/data/autoBlueprints.xml.append:2099
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER_QUEST\"]/crew/primagen_raptor[@name=\"RAPTOR\"]/@name"
+msgstr "РАПТОР"
+
+#: src-en/data/autoBlueprints.xml.append:2100
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER_QUEST\"]/crew/protogen_tracker[@name=\"TRACKER\"]/@name"
+msgstr "ТРЕКЕР"
+
+#: src-en/data/autoBlueprints.xml.append:2101
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER_QUEST\"]/crew/sergal_cheese[@name=\"Cheese\"]/@name"
+msgstr "Чиз"
+
+#: src-en/data/autoBlueprints.xml.append:2102
+msgid ""
+"data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_TRASH_MINER_QUEST\"]/crew/clonefail_lancer[@name=\"Lancer\"]/@name"
+msgstr "Лансер"
+
+#: src-en/data/autoBlueprints.xml.append:2111
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_SCOUT\"]/class"
 msgstr "Разведчик скрапперов"
 
-#: src-en/data/autoBlueprints.xml.append:1606
+#: src-en/data/autoBlueprints.xml.append:2133
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_SHOP\"]/class"
 msgstr "Продавец скрапперов"
 
-#: src-en/data/autoBlueprints.xml.append:1644
+#: src-en/data/autoBlueprints.xml.append:2171
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_BOMBER\"]/class"
 msgstr "Бомбардировщик скрапперов"
 
-#: src-en/data/autoBlueprints.xml.append:1668
+#: src-en/data/autoBlueprints.xml.append:2195
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SCRAPPER_CRUISER\"]/class"
 msgstr "Крейсер скрапперов"
 
-#: src-en/data/autoBlueprints.xml.append:1696
+#: src-en/data/autoBlueprints.xml.append:2223
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_FIGHTER\"]/class"
 msgstr "Истребитель киви"
 
-#: src-en/data/autoBlueprints.xml.append:1720
+#: src-en/data/autoBlueprints.xml.append:2247
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_FIGHTER_ENGI\"]/class"
 msgstr "Истребитель киви"
 
-#: src-en/data/autoBlueprints.xml.append:1744
+#: src-en/data/autoBlueprints.xml.append:2271
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_BOMBER\"]/class"
 msgstr "Бомбардировщик киви"
 
-#: src-en/data/autoBlueprints.xml.append:1771
+#: src-en/data/autoBlueprints.xml.append:2298
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_BOMBER_SPIDER\"]/class"
 msgstr "Бомбардировщик киви"
 
-#: src-en/data/autoBlueprints.xml.append:1797
+#: src-en/data/autoBlueprints.xml.append:2324
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_SCOUT\"]/class"
 msgstr "Разведчик киви"
 
-#: src-en/data/autoBlueprints.xml.append:1820
+#: src-en/data/autoBlueprints.xml.append:2347
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_SCOUT_ENGI\"]/class"
 msgstr "Разведчик киви"
 
-#: src-en/data/autoBlueprints.xml.append:1843
+#: src-en/data/autoBlueprints.xml.append:2370
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_FIGHTER_PIRATE\"]/class"
 msgstr "Истребитель киви"
 
-#: src-en/data/autoBlueprints.xml.append:1870
+#: src-en/data/autoBlueprints.xml.append:2397
 msgid "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"KIVIE_AUTO\"]/class"
 msgstr "Авто киви"
 
-#: src-en/data/autoBlueprints.xml.append:1895
+#: src-en/data/autoBlueprints.xml.append:2422
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_CORVETTE\"]/class"
 msgstr "Корвет скрапперов"
 
-#: src-en/data/autoBlueprints.xml.append:1926
+#: src-en/data/autoBlueprints.xml.append:2453
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_HUNTER\"]/class"
 msgstr "Охотники скрапперов"
 
-#: src-en/data/autoBlueprints.xml.append:1955
+#: src-en/data/autoBlueprints.xml.append:2482
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_SCRAPPER_SUPPORT\"]/class"
 msgstr "Поддержка скрапперов"
 
-#: src-en/data/autoBlueprints.xml.append:1989
+#: src-en/data/autoBlueprints.xml.append:2516
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"SYLVAN_LODGE\"]/class"
 msgstr "Военная гостиничная станция"
 
-#: src-en/data/autoBlueprints.xml.append:2019
+#: src-en/data/autoBlueprints.xml.append:2546
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"TC_RENTAFLAGSHIP\"]/class"
 msgstr "Флагман Напрокат"
 
-#: src-en/data/autoBlueprints.xml.append:2051
+#: src-en/data/autoBlueprints.xml.append:2578
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"AVALI_SKIRMISHER\"]/class"
 msgstr "Застрельщик авали"
 
-#: src-en/data/autoBlueprints.xml.append:2074
+#: src-en/data/autoBlueprints.xml.append:2601
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ARS_FED_AUTOSHIP\"]/class"
 msgstr "Автомат лапши быстрого приготовления"
 
-#: src-en/data/autoBlueprints.xml.append:2094
+#: src-en/data/autoBlueprints.xml.append:2621
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RSA_ASSAULT\"]/class"
 msgstr "Штурмовик АПС"
 
-#: src-en/data/autoBlueprints.xml.append:2122
+#: src-en/data/autoBlueprints.xml.append:2649
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"RSA_DROPSHIP\"]/class"
 msgstr "Челнок АПС"
 
-#: src-en/data/autoBlueprints.xml.append:2155
+#: src-en/data/autoBlueprints.xml.append:2684
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"MU_BOSS_ENGINEER_C\"]/class"
 msgstr "Крейсер Ренегатов"
 
-#: src-en/data/autoBlueprints.xml.append:2189
+#: src-en/data/autoBlueprints.xml.append:2718
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"ECHELON_MEETUP_MERCHANT\"]/class"
 msgstr "Торговое судно Эшелон(ТМ)"

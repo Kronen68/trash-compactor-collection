@@ -29,7 +29,13 @@ msgid ""
 "append:choice[4]/text"
 msgstr "Ask the Trash Eater about this."
 
-#: src-en/data/events_sector_showdown.xml.append:24
+#: src-en/data/events_sector_showdown.xml.append:22
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[5]/text"
+msgstr "Ask the The Architect about this."
+
+#: src-en/data/events_sector_showdown.xml.append:28
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/text"
 msgstr ""
@@ -42,12 +48,12 @@ msgstr ""
 "universe, this one is special, you're not just any old bitch, you're MY "
 "beyatch.\""
 
-#: src-en/data/events_sector_showdown.xml.append:27
+#: src-en/data/events_sector_showdown.xml.append:31
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_showdown.xml.append:33
+#: src-en/data/events_sector_showdown.xml.append:37
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/text"
 msgstr ""
@@ -60,12 +66,12 @@ msgstr ""
 "just uploaded blueprints for a ship. You might never find out what that was "
 "about if you decide to end the multiverse, you think to yourself."
 
-#: src-en/data/events_sector_showdown.xml.append:36
+#: src-en/data/events_sector_showdown.xml.append:40
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/choice/text"
 msgstr "Continue..?"
 
-#: src-en/data/events_sector_showdown.xml.append:42
+#: src-en/data/events_sector_showdown.xml.append:46
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/text"
 msgstr ""
@@ -74,12 +80,12 @@ msgstr ""
 "was about time we did. Let's go get a good look at the wreckage. I want to "
 "take as many trophies as we can fit in the hold.\""
 
-#: src-en/data/events_sector_showdown.xml.append:44
+#: src-en/data/events_sector_showdown.xml.append:48
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_showdown.xml.append:50
+#: src-en/data/events_sector_showdown.xml.append:54
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/text"
 msgstr ""
@@ -87,7 +93,20 @@ msgstr ""
 "THE SHADOWS...\" the Trash Eater seems shaken. But what could possibly be "
 "worse than this?"
 
-#: src-en/data/events_sector_showdown.xml.append:52
+#: src-en/data/events_sector_showdown.xml.append:57
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_showdown.xml.append:63
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/text"
+msgstr ""
+"\"In our victory here, I see that my creations have serviced both you and "
+"myself wonderfully. May your next act, whatever it may be, act as the "
+"capstone to my magnum opus.\""
+
+#: src-en/data/events_sector_showdown.xml.append:67
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/choice/text"
 msgstr "Continue..."

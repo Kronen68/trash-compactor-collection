@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-01 18:42+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/"
-"trash-compactor-collection/dataevents_sector_showdownxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_sector_showdown.xml.append:6
 msgid ""
@@ -37,7 +29,13 @@ msgid ""
 "append:choice[4]/text"
 msgstr "Спросить об этом Пожирателя мусора."
 
-#: src-en/data/events_sector_showdown.xml.append:24
+#: src-en/data/events_sector_showdown.xml.append:22
+msgid ""
+"data/events_sector_showdown.xml.append$//mod:findName[@name=\"TRUE_VICTORY_CREW\"]/mod-"
+"append:choice[5]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:28
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/text"
 msgstr ""
@@ -49,31 +47,31 @@ msgstr ""
 "прежде чем повернуться к вам: \"Из всех бесконечных соперничеств во "
 "вселенной, это особенное - ты не просто какая-то там сучка, ты МОЯ сцука\"."
 
-#: src-en/data/events_sector_showdown.xml.append:27
+#: src-en/data/events_sector_showdown.xml.append:31
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_LEAH\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_showdown.xml.append:33
+#: src-en/data/events_sector_showdown.xml.append:37
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/text"
 msgstr ""
-"Как только вы произносите это вслух, вы тут же задаетесь вопросом, почему вы "
-"только что спросили свой корабль - неодушевленный объект - о том, что вам "
-"делать с этим устройством, способным положить конец Мультивселенной. Как раз "
-"когда вы собираетесь покинуть штурвал корабля, не понимая, как вы сюда "
+"Как только вы произносите это вслух, вы тут же задаетесь вопросом, почему вы"
+" только что спросили свой корабль - неодушевленный объект - о том, что вам "
+"делать с этим устройством, способным положить конец Мультивселенной. Как раз"
+" когда вы собираетесь покинуть штурвал корабля, не понимая, как вы сюда "
 "попали, внезапно включается система связи, из которой вырывается поток "
 "непонятного бреда, а затем она снова отключается. Однако, как только она "
 "затихает, компьютер корабля сообщает вам, что вы только что загрузили "
 "чертежи корабля. \"Ты, возможно, никогда не узнаешь, что это было, если "
 "решишь уничтожить Мультивселенную\", - думаете вы про себя."
 
-#: src-en/data/events_sector_showdown.xml.append:36
+#: src-en/data/events_sector_showdown.xml.append:40
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_FLAGSHIP\"]/choice/text"
 msgstr "Продолжить?.."
 
-#: src-en/data/events_sector_showdown.xml.append:42
+#: src-en/data/events_sector_showdown.xml.append:46
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/text"
 msgstr ""
@@ -82,12 +80,12 @@ msgstr ""
 "посмотрим на обломки. Я хочу забрать столько трофеев, сколько поместится в "
 "трюме\"."
 
-#: src-en/data/events_sector_showdown.xml.append:44
+#: src-en/data/events_sector_showdown.xml.append:48
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRACKER\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_showdown.xml.append:50
+#: src-en/data/events_sector_showdown.xml.append:54
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/text"
 msgstr ""
@@ -95,7 +93,17 @@ msgstr ""
 "СТРАШНЕЕ...\" - Пожиратель мусора выглядит потрясенным. Но что вообще может "
 "быть хуже этого?"
 
-#: src-en/data/events_sector_showdown.xml.append:52
+#: src-en/data/events_sector_showdown.xml.append:57
 msgid ""
 "data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_TRASH\"]/choice/text"
+msgstr "Продолжить..."
+
+#: src-en/data/events_sector_showdown.xml.append:63
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_showdown.xml.append:67
+msgid ""
+"data/events_sector_showdown.xml.append$//event[@name=\"TRUE_VICTORY_CREW_ZOG\"]/choice/text"
 msgstr "Продолжить..."

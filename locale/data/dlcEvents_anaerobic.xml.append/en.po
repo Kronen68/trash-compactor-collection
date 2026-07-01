@@ -55,7 +55,7 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:37
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[4]/text"
-msgstr "Buy a Scrapper Defender."
+msgstr "Buy a Heavy Scrapper."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:39
 msgid ""
@@ -81,43 +81,56 @@ msgstr ""
 #: src-en/data/dlcEvents_anaerobic.xml.append:57
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/text"
-msgstr "Attack them, save the Scrappers!"
+msgstr "Buy a Scrapper Defender."
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:59
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/text"
 msgstr ""
+"You send over the scrap, and the Welders send over a pod. Inside the pod is "
+"the Scrapper you requested. You free them from their restraints, and then "
+"leave."
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:67
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
+msgstr "Attack them, save the Scrappers!"
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:69
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/text"
+msgstr ""
 "No one deserves to be sold into slavery, not even the Scrappers. You power "
 "up the weapons, and move in to attack."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:62
+#: src-en/data/dlcEvents_anaerobic.xml.append:72
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/choice/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:68
+#: src-en/data/dlcEvents_anaerobic.xml.append:78
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/text"
 msgstr "Ignore the Welders."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:70
+#: src-en/data/dlcEvents_anaerobic.xml.append:80
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/text"
 msgstr ""
 "They try to hail you a few more times, but eventually give up and leave you "
 "alone."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:72
+#: src-en/data/dlcEvents_anaerobic.xml.append:82
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[1]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:76
+#: src-en/data/dlcEvents_anaerobic.xml.append:86
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[2]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:84
+#: src-en/data/dlcEvents_anaerobic.xml.append:94
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_NORMAL\"]/text"
 msgstr ""
@@ -125,7 +138,7 @@ msgstr ""
 "explosion, but at least the Welders won't be able to enslave any more. You "
 "scrap the remains of the ship, and move on."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:89
+#: src-en/data/dlcEvents_anaerobic.xml.append:99
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_SURVIVOR\"]/text"
 msgstr ""
@@ -133,7 +146,7 @@ msgstr ""
 "survived the explosion! You rescue them from the abyss, and scrap the "
 "wreckage."
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:101
+#: src-en/data/dlcEvents_anaerobic.xml.append:111
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DEAD_CREW_SCRAPPER_SLAVES\"]/text"
 msgstr ""

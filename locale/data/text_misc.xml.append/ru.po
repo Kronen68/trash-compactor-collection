@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-25 17:34+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
-"collection/datatext_miscxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.17.1\n"
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_trash\"]"
@@ -25,43 +17,51 @@ msgstr "МАГАЗИН [АПС]"
 msgid "data/text_misc.xml.append$//text[@name=\"tip_bomb_flak\"]"
 msgstr ""
 "Осколочные бомбовые пушки действуют аналогично стандартным ракетам, но "
-"наносят урон в два раза больше, чем обычные, и для их запуска требуется одна "
-"боеголовка. Они отлично подходят для вывода из строя систем, но, в отличие "
+"наносят урон в два раза больше, чем обычные, и для их запуска требуется одна"
+" боеголовка. Они отлично подходят для вывода из строя систем, но, в отличие "
 "от других баллистических вооружений, не пробивают щиты."
 
-#: src-en/data/text_misc.xml.append:8
+#: src-en/data/text_misc.xml.append:7
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ancalagon\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:9
+msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_rosegold\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:10
+msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_golden\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:11
+msgid "data/text_misc.xml.append$//text[@name=\"warning_power_surge_adamantine\"]"
+msgstr ""
+
+#: src-en/data/text_misc.xml.append:13
 msgid "data/text_misc.xml.append$//text[@name=\"addon_hover_tcc\"]"
 msgstr ""
 "TRASH COMPACTOR COLLECTION\n"
 "\tВ настоящее время включен.\n"
 "\tНажмите, чтобы узнать больше."
 
-#: src-en/data/text_misc.xml.append:11
+#: src-en/data/text_misc.xml.append:16
 msgid "data/text_misc.xml.append$//text[@name=\"info_addon_tcc\"]"
 msgstr ""
 "TRASH COMPACTOR COLLECTION\n"
-"\tРазработано Zuggo, Dalvest, Enchanter, Cryntolov, Ashley, NitronEXE, "
-"LandGreen, Choosechee, ConMan, Kommandant_Julk, Vertaalfout, Pedrosian96\n"
+"\tРазработано Zuggo, Dalvest, Enchanter, Cryntolov, Ashley, NitronEXE, LandGreen, Choosechee, ConMan, Kommandant_Julk, Vertaalfout, Pedrosian96\n"
 "\tВ настоящее время включен.\n"
 "\n"
 "НОВОЕ ОРУЖИЕ\n"
-"    Проекторы сингулярности, крупнокалиберные пушки Гатлинга, осколочные "
-"пушки всех видов, размеров и форм и многое другое!\n"
+"    Проекторы сингулярности, крупнокалиберные пушки Гатлинга, осколочные пушки всех видов, размеров и форм и многое другое!\n"
 "\n"
 "НОВЫЕ КОРАБЛИ\n"
-"    Включая линейку кораблей ланиусов-скрапперов, а также проект "
-"\"Протоген\", авали, ПОВТОРНОЕ ИСПОЛЬЗОВАНИЕ и СБОР, верфи Эшелон и МНОГОЕ "
-"ДРУГОЕ!\n"
-"    Также представлены наборы экстраэлит - охотьтесь за конкретными целями с "
-"помощью особых высокомощных устройств!\n"
+"    Включая линейку кораблей ланиусов-скрапперов, а также проект \"Протоген\", авали, ПОВТОРНОЕ ИСПОЛЬЗОВАНИЕ и СБОР, верфи Эшелон и МНОГОЕ ДРУГОЕ!\n"
+"    Также представлены наборы экстраэлит - охотьтесь за конкретными целями с помощью особых высокомощных устройств!\n"
 "\n"
 "НОВЫЕ РАСЫ\n"
-"    В бой вступают ланиусы-скапперы, протогены, авали, сергалы, Разумные "
-"роботы, киви и табакси!\n"
+"    В бой вступают ланиусы-скапперы, протогены, авали, сергалы, Разумные роботы, киви и табакси!\n"
 "\n"
 "НОВЫЕ СЕКТОРЫ И СОБЫТИЯ\n"
-"    Сектор Коллектив авали (сектор, дружественных авали и протогенов) "
-"появится совсем скоро!\n"
+"    Сектор Коллектив авали (сектор, дружественных авали и протогенов) появится совсем скоро!\n"
 "\n"
-"\tТеперь в него включено немало других модов, таких как RSC, Avali, Bomb "
-"Flaks, Kivie Takeover и Instant Flair!"
+"\tТеперь в него включено немало других модов, таких как RSC, Avali, Bomb Flaks, Kivie Takeover и Instant Flair!"

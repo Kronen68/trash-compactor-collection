@@ -70,43 +70,53 @@ msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/text"
 msgstr ""
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:62
-#, fuzzy
-msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[6]/event/choice/text"
-msgstr "继续。"
-
-#: src-en/data/dlcEvents_anaerobic.xml.append:68
+#: src-en/data/dlcEvents_anaerobic.xml.append:67
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/text"
 msgstr ""
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:70
+#: src-en/data/dlcEvents_anaerobic.xml.append:69
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/text"
 msgstr ""
 
 #: src-en/data/dlcEvents_anaerobic.xml.append:72
+#, fuzzy
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[1]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice/text"
+msgstr "继续。"
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:78
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/text"
+msgstr ""
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:80
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/text"
+msgstr ""
+
+#: src-en/data/dlcEvents_anaerobic.xml.append:82
+msgid ""
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[1]/text"
 msgstr "星舰管理。"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:76
+#: src-en/data/dlcEvents_anaerobic.xml.append:86
 msgid ""
-"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[7]/event/choice[2]/text"
+"data/dlcEvents_anaerobic.xml.append$//event[@name=\"SCRAPPER_SLAVES\"]/choice[8]/event/choice[2]/text"
 msgstr "跳过。"
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:84
+#: src-en/data/dlcEvents_anaerobic.xml.append:94
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_NORMAL\"]/text"
 msgstr ""
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:89
+#: src-en/data/dlcEvents_anaerobic.xml.append:99
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DESTROYED_SCRAPPER_SLAVES_SURVIVOR\"]/text"
 msgstr ""
 
-#: src-en/data/dlcEvents_anaerobic.xml.append:101
+#: src-en/data/dlcEvents_anaerobic.xml.append:111
 msgid ""
 "data/dlcEvents_anaerobic.xml.append$//event[@name=\"DEAD_CREW_SCRAPPER_SLAVES\"]/text"
 msgstr ""
