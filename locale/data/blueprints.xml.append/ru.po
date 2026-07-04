@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-01 14:52+0000\n"
+"PO-Revision-Date: 2026-07-04 18:36+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/trash-compactor-"
 "collection/datablueprintsxmlappend/ru/>\n"
@@ -26,22 +26,34 @@ msgstr "Спасибо за установку Trash Compactor Collection!"
 #: src-en/data/blueprints.xml.append:26
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_TC_MODULAR_BEAM\"]/title"
-msgstr ""
+msgstr "Модульная лучевая артиллерия Гектар(ТМ)"
 
 #: src-en/data/blueprints.xml.append:27
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_TC_MODULAR_BEAM\"]/short"
-msgstr ""
+msgstr "Мод. арт."
 
 #: src-en/data/blueprints.xml.append:28
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_TC_MODULAR_BEAM\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 11] Более слабое оружие Гектар, выдаваемое "
+"сотрудникам, чтобы не тратить впустую качественные запасы.\n"
+"\n"
+"\t\tХарактеристики:\n"
+"\t\tДлина луча: 150\n"
+"\t\tСкорость луча: 5\n"
+"\n"
+"\t\tУрон корпусу: 1\n"
+"\t\tУрон системам: 1\n"
+"\t\tУрон экипажу: 15\n"
+"\n"
+"\t\tВероятность пробоины: 20% (Скорректировано: 20%)"
 
 #: src-en/data/blueprints.xml.append:40
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_TC_MODULAR_BEAM\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, 1 урон корпусу, низкая вероятность пробоины, длина 70"
 
 #: src-en/data/blueprints.xml.append:67
 msgid ""
@@ -349,7 +361,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:705
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"MISSILES_LEGION\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 2 урона системам; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:745
 msgid ""
@@ -371,7 +383,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:749
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_LEGION\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 3 урона."
 
 #: src-en/data/blueprints.xml.append:794
 msgid ""
@@ -396,7 +408,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:797
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON_FAKE\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 1 урон; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:873
 msgid ""
@@ -418,7 +430,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:876
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ANCIENT_LANCE\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, пробивает 10 щитов, 3 урона."
 
 #: src-en/data/blueprints.xml.append:899
 msgid ""
@@ -443,7 +455,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:902
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINELAUNCHER_ANCALAGON\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 1 ракету; наносит 1 урон; пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:979
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"VOID_LASER3\"]/title"
@@ -468,6 +480,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"VOID_LASER3\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, наносит 2 урона с небольшой вероятностью возгорания и "
+"пробоины."
 
 #: src-en/data/blueprints.xml.append:1045
 msgid ""
@@ -490,87 +504,96 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1049
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_OMEGA\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося огромный урон."
 
 #: src-en/data/blueprints.xml.append:1097
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_MIDNIGHT\"]/title"
-msgstr ""
+msgstr "Осколочная пушка \"Призматическая полночь\""
 
 #: src-en/data/blueprints.xml.append:1098
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_MIDNIGHT\"]/short"
-msgstr ""
+msgstr "Пол. оск."
 
 #: src-en/data/blueprints.xml.append:1100
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_MIDNIGHT\"]/desc"
-msgstr ""
+msgstr "Делает все."
 
 #: src-en/data/blueprints.xml.append:1101
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_MIDNIGHT\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося огромный урон."
 
 #: src-en/data/blueprints.xml.append:1228
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ROSEGOLD\"]/title"
-msgstr ""
+msgstr "Элементальная осколочная переключаемая пушка [Розово-золотая]"
 
 #: src-en/data/blueprints.xml.append:1229
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ROSEGOLD\"]/short"
-msgstr ""
+msgstr "Э. пер. [РЗ]"
 
 #: src-en/data/blueprints.xml.append:1231
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ROSEGOLD\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Розово-золотой] Особое осколочное оружие, способное "
+"переключаться между тремя элементальными режимами. Время перезарядки, "
+"мощность и количество снарядов остаются неизменными во всех вариантах."
 
 #: src-en/data/blueprints.xml.append:1232
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ROSEGOLD\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 7 урона."
 
 #: src-en/data/blueprints.xml.append:1291
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_GOLDEN\"]/title"
-msgstr ""
+msgstr "Элементальная осколочная переключаемая пушка [Золотая]"
 
 #: src-en/data/blueprints.xml.append:1292
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_GOLDEN\"]/short"
-msgstr ""
+msgstr "Э. пер. [Зол.]"
 
 #: src-en/data/blueprints.xml.append:1294
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_GOLDEN\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Золотой] Особое осколочное оружие, способное переключаться "
+"между тремя элементальными режимами. Время перезарядки, мощность и "
+"количество снарядов остаются неизменными во всех вариантах."
 
 #: src-en/data/blueprints.xml.append:1295
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_GOLDEN\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 7 урона."
 
 #: src-en/data/blueprints.xml.append:1339
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ADAMANTINE\"]/title"
-msgstr ""
+msgstr "Элементальная осколочная переключаемая пушка [Адамантиновая]"
 
 #: src-en/data/blueprints.xml.append:1340
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ADAMANTINE\"]/short"
-msgstr ""
+msgstr "Э. пер. [Адам.]"
 
 #: src-en/data/blueprints.xml.append:1342
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ADAMANTINE\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Адамантиновый] Особое осколочное оружие, способное "
+"переключаться между тремя элементальными режимами. Время перезарядки, "
+"мощность и количество снарядов остаются неизменными во всех вариантах."
 
 #: src-en/data/blueprints.xml.append:1343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_TOGGLE_ADAMANTINE\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 7 урона."
 
 #: src-en/data/blueprints.xml.append:1450
 msgid ""
@@ -594,46 +617,56 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD\"]/tooltip"
 msgstr ""
+"[Базовая перезарядка: 12] Выпускает осколки по случайной области, нанося до "
+"8 урона."
 
 #: src-en/data/blueprints.xml.append:1497
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ION\"]/title"
-msgstr ""
+msgstr "Золотая ионная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1498
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ION\"]/short"
-msgstr ""
+msgstr "Зол. ион. оск."
 
 #: src-en/data/blueprints.xml.append:1500
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ION\"]/desc"
 msgstr ""
+"Модифицированная пушка, стреляющая золотыми осколками, которая выстреливает "
+"более плотными кусками золота. Ее снаряды невероятно тяжелые и медлительные. "
+"Данная модель была модифицирована таким образом, чтобы наносить "
+"дополнительный ионный урон."
 
 #: src-en/data/blueprints.xml.append:1501
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ION\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 8 урона."
 
 #: src-en/data/blueprints.xml.append:1545
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_HACK\"]/title"
-msgstr ""
+msgstr "Золотая взламывающая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1546
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_HACK\"]/short"
-msgstr ""
+msgstr "Зол. взл. оск."
 
 #: src-en/data/blueprints.xml.append:1548
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_HACK\"]/desc"
 msgstr ""
+"Модифицированная пушка, стреляющая золотыми осколками, которая выстреливает "
+"более плотными кусками золота. Ее снаряды невероятно тяжелые и медленные. "
+"Данная модель была модифицирована таким образом, чтобы взламывать системы, в "
+"которые попадают снаряды."
 
 #: src-en/data/blueprints.xml.append:1549
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_HACK\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 8 урона."
 
 #: src-en/data/blueprints.xml.append:1593
 msgid ""
@@ -656,7 +689,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1606
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_GOLD_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 14 урона."
 
 #: src-en/data/blueprints.xml.append:1649
 msgid ""
@@ -678,7 +711,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1653
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_LEAD\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 5 урона."
 
 #: src-en/data/blueprints.xml.append:1696
 msgid ""
@@ -700,12 +733,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1700
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BOMB\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 3 бомбы по случайной области, нанося огромный урон корпусу."
 
 #: src-en/data/blueprints.xml.append:1738
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE_ARTILLERY\"]/title"
-msgstr ""
+msgstr "Нестабильная осколочная артиллерия"
 
 #: src-en/data/blueprints.xml.append:1739
 msgid ""
@@ -716,11 +749,22 @@ msgstr "Нестаб. оск."
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE_ARTILLERY\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 20] Экспериментальная осколочная пушка, стреляющая "
+"огромным количеством снарядов. Она чрезвычайно эффективна для уничтожения "
+"щитов, однако с трудом попадает в корабли. \n"
+"\n"
+"\t\tХарактеристики:\n"
+"\t\tРазброс выстрела: 240\n"
+"\t\tВыстрелов в очереди: 10\n"
+"\n"
+"\t\tУрон корпусу: 1\n"
+"\t\tУрон системам: 1\n"
+"\t\tУрон экипажу: 15"
 
 #: src-en/data/blueprints.xml.append:1751
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Производит 10 выстрелов по большой площади."
 
 #: src-en/data/blueprints.xml.append:1794
 msgid ""
@@ -743,12 +787,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1798
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_UNSTABLE\"]/tooltip"
-msgstr ""
+msgstr "Производит 10 выстрелов по большой площади."
 
 #: src-en/data/blueprints.xml.append:1841
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_SUPER_UNSTABLE\"]/title"
-msgstr ""
+msgstr "Очень нестабильная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1842
 msgid ""
@@ -766,7 +810,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_SUPER_UNSTABLE\"]/tooltip"
-msgstr ""
+msgstr "Производит 10 выстрелов по большой площади."
 
 #: src-en/data/blueprints.xml.append:1886
 msgid ""
@@ -789,57 +833,63 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:1890
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 3 выстрела по случайной области."
 
 #: src-en/data/blueprints.xml.append:1933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY_ROSEGOLD\"]/title"
-msgstr ""
+msgstr "Розово-золотая батарейная осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1934
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY_ROSEGOLD\"]/short"
-msgstr ""
+msgstr "РЗ бат. оск."
 
 #: src-en/data/blueprints.xml.append:1936
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY_ROSEGOLD\"]/desc"
 msgstr ""
+"Осколочная пушка, сочетающееся с батарейным лучом, которая обеспечивает два "
+"уровня мощности оружию справа, при этом позволяя вести огонь в обычном "
+"режиме. Данная модель была модифицирована таким образом, чтобы наносить урон "
+"экипажу с помощью контроля разума."
 
 #: src-en/data/blueprints.xml.append:1937
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_BATTERY_ROSEGOLD\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 3 выстрела по случайной области."
 
 #: src-en/data/blueprints.xml.append:1996
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_ADAMANTINE\"]/title"
-msgstr ""
+msgstr "Адамантиновая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_ADAMANTINE\"]/short"
-msgstr ""
+msgstr "Адамантиновая осколочная пушка"
 
 #: src-en/data/blueprints.xml.append:1999
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_ADAMANTINE\"]/desc"
 msgstr ""
+"Осколочная пушка, которая не наносит урона, но лишает экипаж противника "
+"иммунитета к удушению."
 
 #: src-en/data/blueprints.xml.append:2000
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_ADAMANTINE\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 2 выстрела по случайной области."
 
 #: src-en/data/blueprints.xml.append:2112
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ROSEGOLD_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Выброс розово-золотого золота"
 
 #: src-en/data/blueprints.xml.append:2113
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ROSEGOLD_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Выбр. РЗ"
 
 #: src-en/data/blueprints.xml.append:2114
 msgid ""
@@ -849,12 +899,12 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:2170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"GOLDEN_SURGE_WEAPON\"]/title"
-msgstr ""
+msgstr "Выброс золота"
 
 #: src-en/data/blueprints.xml.append:2171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"GOLDEN_SURGE_WEAPON\"]/short"
-msgstr ""
+msgstr "Выбр. зол."
 
 #: src-en/data/blueprints.xml.append:2172
 msgid ""
@@ -882,7 +932,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SHOTGUN_HELL\"]/tooltip"
-msgstr ""
+msgstr "Производит 10 выстрелов по случайной области."
 
 #: src-en/data/blueprints.xml.append:2261
 msgid ""
@@ -905,7 +955,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RAPTORS_OWN\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося 8+ урона."
 
 #: src-en/data/blueprints.xml.append:2309
 msgid ""
@@ -928,7 +978,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2313
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RC_LD_LAUNCHER\"]/tooltip"
-msgstr ""
+msgstr "---"
 
 #: src-en/data/blueprints.xml.append:2367
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SCRAPFLAK\"]/title"
@@ -948,6 +998,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SCRAPFLAK\"]/tooltip"
 msgstr ""
+"Выпускает обломки по большой области, нанося до 6 урона, а также с средней "
+"вероятностью вызывая пробоины."
 
 #: src-en/data/blueprints.xml.append:2413
 msgid ""
@@ -970,6 +1022,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_UNSCRAPFLAK\"]/tooltip"
 msgstr ""
+"Выпускает обломки по большой области, нанося до 4 урона, а также с высокой "
+"вероятностью вызывая пробоины."
 
 #: src-en/data/blueprints.xml.append:2461
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_1\"]/title"
@@ -988,7 +1042,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_1\"]/tooltip"
-msgstr ""
+msgstr "Осколочная пушка, наносящая до 4 урона и пробивающая один щит."
 
 #: src-en/data/blueprints.xml.append:2509
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_2\"]/title"
@@ -1007,7 +1061,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:2513
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MILITIA_2\"]/tooltip"
-msgstr ""
+msgstr "Осколочная пушка, наносящая до 6 урона и пробивающая один щит."
 
 #: src-en/data/blueprints.xml.append:2555
 msgid ""
@@ -1030,6 +1084,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_BROKEN\"]/tooltip"
 msgstr ""
+"Заряжает энергетический шар, который распадается на несколько меньших "
+"зарядов, каждый из которых наносит 1 урон корпусу. Пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:2596
 msgid ""
@@ -1055,6 +1111,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_1\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 2 урона и 4 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2642
 msgid ""
@@ -1075,6 +1133,8 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_1_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 2 урона и 4 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2687
 msgid ""
@@ -1100,6 +1160,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_2\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 3 урона и 6 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2733
 msgid ""
@@ -1120,6 +1182,8 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_2_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 3 урона и 6 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2778
 msgid ""
@@ -1145,6 +1209,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_3\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 5 урона и 10 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2824
 msgid ""
@@ -1165,6 +1231,8 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_3_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 5 урона и 10 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2869
 msgid ""
@@ -1190,6 +1258,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_4\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 8 урона и 16 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2915
 msgid ""
@@ -1210,6 +1280,8 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_4_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 8 урона и 16 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:2960
 msgid ""
@@ -1235,6 +1307,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BREACH\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 3 урона и 6 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:3006
 msgid ""
@@ -1255,6 +1329,8 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BREACH_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 3 урона и 6 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:3051
 msgid ""
@@ -1280,7 +1356,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3055
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHAIN\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 3 урона."
 
 #: src-en/data/blueprints.xml.append:3102
 msgid ""
@@ -1300,7 +1376,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:3106
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHAIN_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 3 урона."
 
 #: src-en/data/blueprints.xml.append:3152
 msgid ""
@@ -1324,6 +1400,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHARGE\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 3 урона и 6 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:3200
 msgid ""
@@ -1344,6 +1422,8 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CHARGE_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 3 урона и 6 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:3247
 msgid ""
@@ -1366,6 +1446,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FREE\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 2 урона и 4 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:3291
 msgid ""
@@ -1388,6 +1470,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_CONSERVATIVE\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 2 урона и 4 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:3337
 msgid ""
@@ -1412,6 +1496,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_INSTANT\"]/tooltip"
 msgstr ""
+"Выпускает залп бомб по случайной области, нанося до 7 урона и 14 урона "
+"системам."
 
 #: src-en/data/blueprints.xml.append:3387
 msgid ""
@@ -1436,6 +1522,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FIRE\"]/tooltip"
 msgstr ""
+"Выпускает осколки по случайной области, нанося до 4 урона и 8 урона системам."
 
 #: src-en/data/blueprints.xml.append:3433
 msgid ""
@@ -1456,6 +1543,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_FIRE_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает осколки по случайной области, нанося до 4 урона и 8 урона системам."
 
 #: src-en/data/blueprints.xml.append:3478
 msgid ""
@@ -1492,7 +1580,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3498
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_ION\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 3 урона."
 
 #: src-en/data/blueprints.xml.append:3568
 msgid ""
@@ -1512,7 +1600,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:3587
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_ION_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 3 урона."
 
 #: src-en/data/blueprints.xml.append:3656
 msgid ""
@@ -1535,7 +1623,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:3660
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BIO\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 7 урона."
 
 #: src-en/data/blueprints.xml.append:3732
 msgid ""
@@ -1555,7 +1643,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 #: src-en/data/blueprints.xml.append:3736
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_BIO_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает осколки по случайной области, нанося до 7 урона."
 
 #: src-en/data/blueprints.xml.append:3807
 msgid ""
@@ -1580,6 +1668,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_LOCK\"]/tooltip"
 msgstr ""
+"Выпускает осколки по случайной области, нанося до 4 урона и 8 урона системам."
 
 #: src-en/data/blueprints.xml.append:3854
 msgid ""
@@ -1600,6 +1689,7 @@ msgstr "ВЕРСИЯ ДЛЯ ВРАГОВ, ЭТОГО ВЫ НИКОГДА НЕ Д
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BOMB_SHOTGUN_LOCK_ENEMY\"]/tooltip"
 msgstr ""
+"Выпускает осколки по случайной области, нанося до 4 урона и 8 урона системам."
 
 #: src-en/data/blueprints.xml.append:3901
 msgid ""
@@ -1622,6 +1712,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_LASER_MARKSMAN\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, наносящий 1 урон, с средней вероятностью пробоины, при "
+"этом сила выстрела увеличивается с каждым выстрелом (до 10)."
 
 #: src-en/data/blueprints.xml.append:3941
 msgid ""
@@ -1644,6 +1736,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_LASER_LEGION\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, наносящий 1 урон с двойным уроном по отсекам без "
+"систем, с низкой вероятностью возгорания и средней - пробоины, при этом сила "
+"выстрела увеличивается с каждым выстрелом (до 10)."
 
 #: src-en/data/blueprints.xml.append:3982
 msgid ""
@@ -1666,6 +1761,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_LASER_CHARGER\"]/tooltip"
 msgstr ""
+"Производит 1 выстрел, наносящий 1 урон с низкой вероятностью пробоины, при "
+"этом время перезарядки уменьшается с каждым выстрелом (до 7)."
 
 #: src-en/data/blueprints.xml.append:4024
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DLX_MOLOT\"]/title"
@@ -1686,6 +1783,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4028
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DLX_MOLOT\"]/tooltip"
 msgstr ""
+"Выпускает три лазерных луча, каждый из которых наносит по 1 урону корпусу, "
+"но не повреждает системы и экипаж."
 
 #: src-en/data/blueprints.xml.append:4065
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BURST_1\"]/title"
@@ -1702,7 +1801,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4069
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BURST_1\"]/tooltip"
-msgstr ""
+msgstr "Лазерное оружие: 3 выстрела, 1 урон, низкая вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:4104
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BURST_2\"]/title"
@@ -1720,7 +1819,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4108
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_BURST_2\"]/tooltip"
-msgstr ""
+msgstr "Лазерное оружие: 4 выстрела, 1 урон, средняя вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:4143
 msgid ""
@@ -1743,6 +1842,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"MILITIA_TAGGER\"]/tooltip"
 msgstr ""
+"Оружие с высоким уроном, производящее два выстрела, с 10% вероятностью "
+"пробоины, пробивает один слой щита."
 
 #: src-en/data/blueprints.xml.append:4182
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_OVERLORD\"]/title"
@@ -1763,6 +1864,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_OVERLORD\"]/tooltip"
 msgstr ""
+"Выпускает до 8 лазерных зарядов; каждый наносит 1 урон. Время перезарядки - "
+"4 секунды за один заряд, максимальное время перезарядки - 20 секунд."
 
 #: src-en/data/blueprints.xml.append:4223
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"REBEL_DART\"]/title"
@@ -1781,6 +1884,9 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4226
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"REBEL_DART\"]/tooltip"
 msgstr ""
+"Выпускает 1 лазерный заряд, наносящий небольшой урон системам и экипажу; с "
+"вероятностью 20% вызывает возгорание - он слишком слаб, чтобы повредить "
+"корпус противника."
 
 #: src-en/data/blueprints.xml.append:4264
 msgid ""
@@ -1803,6 +1909,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DEBUFF_SLOW_1\"]/tooltip"
 msgstr ""
+"WIP лазер, не наносит урона, не промахивается, время перезарядки - 1 "
+"секунда, пробивает 10 слоев щита, замедляет."
 
 #: src-en/data/blueprints.xml.append:4343
 msgid ""
@@ -1825,6 +1933,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SINGULARITY_PROJECTOR_1\"]/tooltip"
 msgstr ""
+"Создает в помещении, на которое действует эффект, небольшую черную дыру, "
+"похожую на бомбу, наносящую огромный урон системам, корпусу и экипажу, а "
+"также приводящую к пробоинам. Для этого оружия не требуется боеприпасов."
 
 #: src-en/data/blueprints.xml.append:4385
 msgid ""
@@ -1848,6 +1959,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RSA_BIOHAZARD\"]/tooltip"
 msgstr ""
+"Выпускает ракету с низкой точностью; наносит 2 урона, оглушает экипаж и "
+"вызывает пожар, а также пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:4428
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_CLOAKER\"]/title"
@@ -1867,6 +1980,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4431
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_CLOAKER\"]/tooltip"
 msgstr ""
+"Выпускает ракету, наносящую 2 урона, со средней вероятностью пробоины, при "
+"этом пробивает все щиты."
 
 #: src-en/data/blueprints.xml.append:4468
 msgid ""
@@ -1890,6 +2005,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MFK_BATTERY\"]/tooltip"
 msgstr ""
+"Выпускает группу ракет по случайной области, нанося высокий урон. Пробивает "
+"все щиты, уклоняется от Защитного дрона I."
 
 #: src-en/data/blueprints.xml.append:4544
 msgid ""
@@ -1912,6 +2029,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RESCRAPFLAK\"]/tooltip"
 msgstr ""
+"Выпускает высококонцентрированную осколочную ракету, которая пробивает все "
+"щиты и наносит 3 урона корпусу."
 
 #: src-en/data/blueprints.xml.append:4588
 msgid ""
@@ -1936,6 +2055,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_FIREWORK_DISPENSER\"]/tooltip"
 msgstr ""
+"Наносит высокий урон экипажу и оглушает, а также вызывает пожары и "
+"повреждает системы - кроме того, пробивает щиты, но не наносит урона корпусу."
 
 #: src-en/data/blueprints.xml.append:4753
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_PULSAR\"]/title"
@@ -1953,7 +2074,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:4758
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_PULSAR\"]/tooltip"
-msgstr ""
+msgstr "Производит 4 выстрела, 1 ионный урон, со скоростью полета снаряда 40."
 
 #: src-en/data/blueprints.xml.append:4800
 msgid ""
@@ -1977,6 +2098,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_PULSAR_SMOL\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон. Может поражать и выводить из "
+"строя как щиты, так и системы."
 
 #: src-en/data/blueprints.xml.append:4847
 msgid ""
@@ -1997,7 +2120,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:4852
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_HARMONIZER\"]/tooltip"
-msgstr ""
+msgstr "3 выстрела//2 иона"
 
 #: src-en/data/blueprints.xml.append:4893
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"IONARTILLERY\"]/title"
@@ -2017,6 +2140,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"IONARTILLERY\"]/tooltip"
 msgstr ""
+"Выпускает один заряд, наносящий 1 ионный урон. Может поражать и выводить из "
+"строя как щиты, так и системы."
 
 #: src-en/data/blueprints.xml.append:4954
 msgid ""
@@ -2039,6 +2164,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_FREEZER\"]/tooltip"
 msgstr ""
+"Выпускает 2 снаряда, которые оглушают противников и запирают помещения, а "
+"также наносят ионный урон."
 
 #: src-en/data/blueprints.xml.append:5007
 msgid ""
@@ -2060,6 +2187,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_LIGHT_SHOW\"]/tooltip"
 msgstr ""
+"Выпускает 1 снаряд, который оглушает всех в помещении на довольно длительное "
+"время."
 
 #: src-en/data/blueprints.xml.append:5047
 msgid ""
@@ -2082,6 +2211,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ION_CHARGER_1\"]/tooltip"
 msgstr ""
+"Для работы этой системы необходимо, чтобы остальное оружие было подключено к "
+"источнику питания!"
 
 #: src-en/data/blueprints.xml.append:5088
 msgid ""
@@ -2104,6 +2235,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AVALI_CARDINAL\"]/tooltip"
 msgstr ""
+"Когда он ударяется, это действительно звучит как ион. Повторю еще раз, может "
+"быть, уже в третий раз, но это пока рабочий вариант."
 
 #: src-en/data/blueprints.xml.append:5134
 msgid ""
@@ -2126,6 +2259,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BREACH_ION_MINI\"]/tooltip"
 msgstr ""
+"Гарантированно не сработает, для его срабатывания необходимо, чтобы другие "
+"виды оружия были активны"
 
 #: src-en/data/blueprints.xml.append:5176
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BREACH_ION\"]/title"
@@ -2143,7 +2278,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:5179
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BREACH_ION\"]/tooltip"
-msgstr ""
+msgstr "2 ионного урона, высокая вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:5218
 msgid ""
@@ -2166,7 +2301,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5221
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BREACH_ION_BOLT\"]/tooltip"
-msgstr ""
+msgstr "1 урон корпусу, 2 ионного урона, высокая вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:5260
 msgid ""
@@ -2189,7 +2324,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5263
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BREACH_ION_BOLT_MKII\"]/tooltip"
-msgstr ""
+msgstr "2 урон корпусу, 2 ионного урона, высокая вероятность пробоины"
 
 #: src-en/data/blueprints.xml.append:5302
 msgid ""
@@ -2212,6 +2347,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BREACH_ION_BEAM_MINI\"]/tooltip"
 msgstr ""
+"Лучевое оружие, 1урон корпусу, 2 ионного урона, высокая вероятность "
+"пробоины, длина 3"
 
 #: src-en/data/blueprints.xml.append:5338
 msgid ""
@@ -2235,6 +2372,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BREACH_ION_BEAM\"]/tooltip"
 msgstr ""
+"Лучевое оружие, 1 урона корпусу, 2 ионного урона, высокая вероятность "
+"пробоины, длина 90"
 
 #: src-en/data/blueprints.xml.append:5377
 msgid ""
@@ -2258,6 +2397,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AVALI_HUNTER1\"]/tooltip"
 msgstr ""
+"1 выстрел, 2 урона, на +10% к точности, двойной урон по отсеках без систем, "
+"65% вероятность не израсходовать боеголовки, 8% вероятность пробоины, "
+"пробивает 2 щита."
 
 #: src-en/data/blueprints.xml.append:5418
 msgid ""
@@ -2279,6 +2421,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"AVALI_HUNTER2\"]/tooltip"
 msgstr ""
+"1 выстрел, 3 урона, на +30% к точности, двойной урон по отсеках без систем, "
+"55% вероятность не израсходовать боеголовки, 100% вероятность пробоины, 40% "
+"вероятность оглушения, пробивает 2 щита."
 
 #: src-en/data/blueprints.xml.append:5466
 msgid ""
@@ -2302,6 +2447,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RAPTOR_AUTOCANNON\"]/tooltip"
 msgstr ""
+"1 выстрел, 3 урона, 75% вероятность не израсходовать боеголовки, 10% "
+"вероятность пробоины."
 
 #: src-en/data/blueprints.xml.append:5506
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYS_50CAL\"]/title"
@@ -2320,6 +2467,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5509
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYS_50CAL\"]/tooltip"
 msgstr ""
+"6 выстрелов, 1 урон, огромная зона поражения, 85% вероятность не "
+"израсходовать боеголовки, 10% вероятность пробоины."
 
 #: src-en/data/blueprints.xml.append:5550
 msgid ""
@@ -2343,6 +2492,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_VULCAN_CANNON\"]/tooltip"
 msgstr ""
+"1 выстрел, 2 урона, при каждом выстреле сокращается время перезарядки, с "
+"вероятностью 55% не расходует боеприпасы."
 
 #: src-en/data/blueprints.xml.append:5595
 msgid ""
@@ -2365,6 +2516,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINIGUN_MK1\"]/tooltip"
 msgstr ""
+"1 выстрел, 1 урон, при каждом выстреле сокращается время перезарядки, с "
+"вероятностью 85% не расходует боеприпасы."
 
 #: src-en/data/blueprints.xml.append:5640
 msgid ""
@@ -2388,6 +2541,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINIGUN_MK2\"]/tooltip"
 msgstr ""
+"1 выстрел, 1 урон, при каждом выстреле сокращается время перезарядки, "
+"пробивает один слой щита благодаря специальным боеприпасам, с вероятностью "
+"75% не расходует боеприпасы."
 
 #: src-en/data/blueprints.xml.append:5685
 msgid ""
@@ -2410,6 +2566,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_MINIGUN_MK3\"]/tooltip"
 msgstr ""
+"1 выстрел, 1 урон, при каждом выстреле сокращается время перезарядки, "
+"пробивает один слой щита благодаря специальным боеприпасам, с вероятностью "
+"65% не расходует боеприпасы."
 
 #: src-en/data/blueprints.xml.append:5732
 msgid ""
@@ -2432,6 +2591,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RSA_MINICANNON\"]/tooltip"
 msgstr ""
+"1 выстрел, 1 урона, при каждом выстреле сокращается время перезарядки, "
+"пробивает один слой щита благодаря специальным боеприпасам, с вероятностью "
+"85% не расходует боеприпасы, 40% вероятность пробоины."
 
 #: src-en/data/blueprints.xml.append:5774
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RSA_TAGGER\"]/title"
@@ -2451,6 +2613,9 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5777
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"RSA_TAGGER\"]/tooltip"
 msgstr ""
+"1 выстрел, 3 урона, пробивает один слой щита благодаря специальным "
+"боеприпасам, с вероятностью 75% не расходует боеприпасы, 40% вероятность "
+"пробоины и среднего оглушения экипажа."
 
 #: src-en/data/blueprints.xml.append:5815
 msgid ""
@@ -2474,7 +2639,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5831
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"RSA_AVENGER_ARTILLERY\"]/tooltip"
-msgstr ""
+msgstr "Выпускает 4 лазерных заряда, которые пробивают щит и создают пробоины."
 
 #: src-en/data/blueprints.xml.append:5870
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_TEAR_GAS\"]/title"
@@ -2495,6 +2660,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_TEAR_GAS\"]/tooltip"
 msgstr ""
+"Игнорирует щиты; выпускает одну канистру, которая оглушает, наносит урон "
+"экипажу и с небольшой вероятностью может вызвать пробоины."
 
 #: src-en/data/blueprints.xml.append:5912
 msgid ""
@@ -2516,7 +2683,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5915
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DECONSTRUCTOR\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, 1 урон корпусу, длина луча 160"
 
 #: src-en/data/blueprints.xml.append:5942
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RESOLVER\"]/title"
@@ -2536,7 +2703,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_RESOLVER\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, высокий урон по системам, длина луча 40"
 
 #: src-en/data/blueprints.xml.append:5972
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SINEWAVE\"]/title"
@@ -2556,7 +2723,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5975
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_SINEWAVE\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, 1 урон корпусу, низкая вероятность пробоины, длина 70"
 
 #: src-en/data/blueprints.xml.append:6002
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"NOVA_MK1\"]/title"
@@ -2574,7 +2741,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:6005
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"NOVA_MK1\"]/tooltip"
-msgstr ""
+msgstr "Лучевое оружие, 1 урон по корпусу, длина луча 30"
 
 #: src-en/data/blueprints.xml.append:6033
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"NOVA_MK2\"]/title"
@@ -2593,6 +2760,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6036
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"NOVA_MK2\"]/tooltip"
 msgstr ""
+"Лучевое оружие, 1 урон по корпусу, низкая вероятность пробоины, длина луча 80"
 
 #: src-en/data/blueprints.xml.append:6064
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"NOVA_MK3\"]/title"
@@ -2611,6 +2779,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6067
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"NOVA_MK3\"]/tooltip"
 msgstr ""
+"Лучевое оружие, 2 урона по корпусу, средняя вероятность пробоины, длина луча "
+"120"
 
 #: src-en/data/blueprints.xml.append:6095
 msgid ""
@@ -2633,6 +2803,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SUPERNOVA_CATALYZER\"]/tooltip"
 msgstr ""
+"Лучевое оружие, 3 урона по корпусу, высокая вероятность пробоины, длина луча "
+"130, пробивает 2 слоя щита"
 
 #: src-en/data/blueprints.xml.append:6126
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CATALYZER\"]/title"
@@ -2652,6 +2824,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6129
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"CATALYZER\"]/tooltip"
 msgstr ""
+"Лучевое оружие, 1 урон корпусу, точечное, низкая вероятность пробоины, "
+"игнорирует щиты."
 
 #: src-en/data/blueprints.xml.append:6157
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_ESKA\"]/title"
@@ -2670,6 +2844,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6160
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_ESKA\"]/tooltip"
 msgstr ""
+"Лучевое оружие, 1 урон корпусу, точечное, длина 90, пробивает один слой щита"
 
 #: src-en/data/blueprints.xml.append:6187
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_TONFA\"]/title"
@@ -2688,6 +2863,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6190
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_TONFA\"]/tooltip"
 msgstr ""
+"Лучевое оружие, наносит средний урон системам и имеет среднюю вероятность "
+"пробоины, наносит ионный урон."
 
 #: src-en/data/blueprints.xml.append:6221
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BIO_1_LEAH\"]/title"
@@ -2720,15 +2897,15 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 
 #: src-en/data/blueprints.xml.append:6328
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_YOU_WIN\"]/title"
-msgstr ""
+msgstr "Вы победили"
 
 #: src-en/data/blueprints.xml.append:6329
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_YOU_WIN\"]/short"
-msgstr ""
+msgstr "Вы победили"
 
 #: src-en/data/blueprints.xml.append:6330
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_YOU_WIN\"]/desc"
-msgstr ""
+msgstr "Вы победили"
 
 #: src-en/data/blueprints.xml.append:6458
 msgid ""
@@ -2934,78 +3111,97 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:6602
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ZOG_PRISMATIC_ROOMS\"]/title"
-msgstr ""
+msgstr "Призмат. помещения"
 
 #: src-en/data/blueprints.xml.append:6603
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ZOG_PRISMATIC_ROOMS\"]/desc"
 msgstr ""
+"Члены экипажа, находящиеся в этих помещениях, обладают иммунитетом к "
+"контролю разума, получают на 50% меньше урона и восстанавливают 5 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:6610
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ZOG_PRISMATIC_ROOMS_SUPER\"]/title"
-msgstr ""
+msgstr "Призмат. помещения"
 
 #: src-en/data/blueprints.xml.append:6611
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ZOG_PRISMATIC_ROOMS_SUPER\"]/desc"
 msgstr ""
+"Члены экипажа, находящиеся в этих помещениях, обладают иммунитетом к "
+"контролю разума, получают на 50% меньше урона и восстанавливают 5 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:6619
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ROSEGOLD_PLATING\"]/title"
-msgstr ""
+msgstr "Роз.-зол. обшивка"
 
 #: src-en/data/blueprints.xml.append:6620
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"ROSEGOLD_PLATING\"]/desc"
 msgstr ""
+"Вражеские члены экипажа, находящиеся в одном помещении с вашим экипажем или "
+"на вашем корабле, теряют иммунитет к контролю разума. \n"
+"\t\t\n"
+"\t\tВы получаете возможность мгновенно убивать любого вражеского члена "
+"экипажа, находящегося под контролем разума."
 
 #: src-en/data/blueprints.xml.append:6629
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOLDEN_PLATING\"]/title"
-msgstr ""
+msgstr "Золотая обшивка"
 
 #: src-en/data/blueprints.xml.append:6630
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"GOLDEN_PLATING\"]/desc"
-msgstr ""
+msgstr "Ваш экипаж дает/поглощает 2х энергии."
 
 #: src-en/data/blueprints.xml.append:6637
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ADAMANTINE_PLATING\"]/title"
-msgstr ""
+msgstr "Адамантин. обшивка"
 
 #: src-en/data/blueprints.xml.append:6638
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"ADAMANTINE_PLATING\"]/desc"
 msgstr ""
+"Вражеские члены экипажа на вашем корабле теряют иммунитет к удушению и "
+"передвигаются на 75% медленнее"
 
 #: src-en/data/blueprints.xml.append:6645
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PRISMATIC_PLATING\"]/title"
-msgstr ""
+msgstr "Призмат. обшивка"
 
 #: src-en/data/blueprints.xml.append:6646
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"PRISMATIC_PLATING\"]/desc"
 msgstr ""
+"Помещения относящиеся к призматическим. Члены экипажа в таких помещениях "
+"обладают иммунитетом к контролю разума, получают на 50% меньше урона, "
+"восстанавливают 5 ОЗ/с и получают способность к телепортации на короткие "
+"расстояния.\n"
+"\n"
+"\t\tМожно создавать скрапперов на пустых маяках."
 
 #: src-en/data/blueprints.xml.append:6656
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SCRAP_DUPLICATOR\"]/title"
-msgstr ""
+msgstr "Дубликатор лома"
 
 #: src-en/data/blueprints.xml.append:6657
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SCRAP_DUPLICATOR\"]/desc"
 msgstr ""
+"Это устройство использует энергию Мультивселенной, чтобы увеличить "
+"количество получаемого лома на 30%."
 
 #: src-en/data/blueprints.xml.append:6664
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SENTIENT_CONSTRUCTOR\"]/title"
-msgstr ""
+msgstr "Конструктор Разумных"
 
 #: src-en/data/blueprints.xml.append:6665
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"SENTIENT_CONSTRUCTOR\"]/desc"
-msgstr ""
+msgstr "Эта машина может создавать Разумных у пустых маяков."
 
 #: src-en/data/blueprints.xml.append:6676
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"SHIP_SCRAPPER\"]/title"
@@ -3079,42 +3275,42 @@ msgstr "ВЫ НИКОГДА НЕ ДОЛЖНЫ ЭТО ВИДЕТЬ"
 #: src-en/data/blueprints.xml.append:6750
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_HEALTH\"]/title"
-msgstr ""
+msgstr "Улучшение здоровья"
 
 #: src-en/data/blueprints.xml.append:6751
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_HEALTH\"]/desc"
-msgstr ""
+msgstr "Увеличивает здоровье экипажа на 5%"
 
 #: src-en/data/blueprints.xml.append:6758
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_DAMAGE\"]/title"
-msgstr ""
+msgstr "Улучшение здоровья"
 
 #: src-en/data/blueprints.xml.append:6759
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_DAMAGE\"]/desc"
-msgstr ""
+msgstr "Увеличивает урон экипажа на 5%"
 
 #: src-en/data/blueprints.xml.append:6766
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\"]/title"
-msgstr ""
+msgstr "Улучшение здоровья"
 
 #: src-en/data/blueprints.xml.append:6767
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_REPAIR_SABOTAGE_SPEED\"]/desc"
-msgstr ""
+msgstr "Увеличивает скорость ремонта и саботажа экипажа на 5%"
 
 #: src-en/data/blueprints.xml.append:6774
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_MOVESPEED\"]/title"
-msgstr ""
+msgstr "Улучшение здоровья"
 
 #: src-en/data/blueprints.xml.append:6775
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_CREW_UPGRADER_MOVESPEED\"]/desc"
-msgstr ""
+msgstr "Увеличивает скорость передвижения экипажа на 5%"
 
 #: src-en/data/blueprints.xml.append:6784
 msgid ""
@@ -3124,77 +3320,94 @@ msgstr "Скраппер"
 #: src-en/data/blueprints.xml.append:6785
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_INSTALLED\"]/desc"
-msgstr ""
+msgstr "Добавлено улучшение для скрапперов."
 
 #: src-en/data/blueprints.xml.append:6792
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_TOXIC_METAL\"]/title"
-msgstr ""
+msgstr "Токсичный металл"
 
 #: src-en/data/blueprints.xml.append:6793
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_TOXIC_METAL\"]/desc"
 msgstr ""
+"Скрапперы не могут сражаться, но пассивно истощают здоровье у врагов, "
+"находящихся в том же помещении."
 
 #: src-en/data/blueprints.xml.append:6800
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_SCRAPPER_TOXIC_METAL\"]/title"
-msgstr ""
+msgstr "[Л] Токсичный металл"
 
 #: src-en/data/blueprints.xml.append:6801
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"EX_LAB_SCRAPPER_TOXIC_METAL\"]/desc"
 msgstr ""
+"Скрапперы не могут сражаться, но пассивно истощают здоровье у врагов, "
+"находящихся в том же помещении.\n"
+"\t\t\n"
+"\t\t[Л] - Внешнее лабораторное улучшение. Предоставляет свой обычный эффект, "
+"но занимает слот модуля. Оно не может быть преобразовано во внутреннее "
+"лабораторное улучшение, но не занимает его основной слот. Не суммируется с "
+"самим собой."
 
 #: src-en/data/blueprints.xml.append:6811
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_SOLIDIFIED_SCRAP\"]/title"
-msgstr ""
+msgstr "Отвердевший лом"
 
 #: src-en/data/blueprints.xml.append:6812
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_SOLIDIFIED_SCRAP\"]/desc"
 msgstr ""
+"Скрапперы больше не могут использовать Продвинутый переработчик лома, но "
+"получают 20% увеличение урона в бою, скорости саботажа, скорости ремонта и "
+"здоровья"
 
 #: src-en/data/blueprints.xml.append:6819
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_SHARPENED_TEETH\"]/title"
-msgstr ""
+msgstr "Отвердевший лом"
 
 #: src-en/data/blueprints.xml.append:6820
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_SHARPENED_TEETH\"]/desc"
 msgstr ""
+"Скрапперы получают способность, наносящую урон корпусу ради получения лома."
 
 #: src-en/data/blueprints.xml.append:6827
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_DEFENDER_SCRAP_SHIELDING\"]/title"
-msgstr ""
+msgstr "Щит из лома"
 
 #: src-en/data/blueprints.xml.append:6828
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_DEFENDER_SCRAP_SHIELDING\"]/desc"
 msgstr ""
+"Теперь скрапперы-Защитники снижают получаемый урон на 80%, однако их "
+"скорость передвижения составляет 20%."
 
 #: src-en/data/blueprints.xml.append:6835
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/title"
-msgstr ""
+msgstr "Усиление взрывчатки"
 
 #: src-en/data/blueprints.xml.append:6836
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_HEAVY_EXPLOSIVE_ENHANCEMENTS\"]/desc"
 msgstr ""
+"Тяжелые скрапперы больше не могут сражаться, однако их взрывная сила "
+"утраивается."
 
 #: src-en/data/blueprints.xml.append:6843
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_SCAVENGER_SUPER_SPEED\"]/title"
-msgstr ""
+msgstr "Суперскорость"
 
 #: src-en/data/blueprints.xml.append:6844
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"LAB_SCRAPPER_SCAVENGER_SUPER_SPEED\"]/desc"
-msgstr ""
+msgstr "Мусорщики передвигаются со скоростью в 2х."
 
 #: src-en/data/blueprints.xml.append:6852
 msgid ""
@@ -3580,22 +3793,25 @@ msgstr "Золотой осколочный дрон"
 #: src-en/data/blueprints.xml.append:7244
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_ROSEGOLD\"]/title"
-msgstr ""
+msgstr "Розово-золотой осколочный боевой дрон"
 
 #: src-en/data/blueprints.xml.append:7245
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_ROSEGOLD\"]/short"
-msgstr ""
+msgstr "РЗ оск."
 
 #: src-en/data/blueprints.xml.append:7246
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_ROSEGOLD\"]/desc"
 msgstr ""
+"Этот дрон действует быстро и выводит из строя любой пораженный экипаж "
+"противника, но не наносит урона корпусу. Выпускает 7 снарядов, которые не "
+"наносят урона; пробивает 1 щит."
 
 #: src-en/data/blueprints.xml.append:7261
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_ROSEGOLD_COMBAT\"]/title"
-msgstr ""
+msgstr "Розово-золотой осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:7318
 msgid ""
@@ -3622,42 +3838,50 @@ msgstr "Нестабильный осколочный дрон"
 #: src-en/data/blueprints.xml.append:7374
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE_ADAMANTINE\"]/title"
-msgstr ""
+msgstr "Адамантиновый нестабильный осколочный боевой дрон"
 
 #: src-en/data/blueprints.xml.append:7375
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE_ADAMANTINE\"]/short"
-msgstr ""
+msgstr "Адам. нест. оск."
 
 #: src-en/data/blueprints.xml.append:7376
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE_ADAMANTINE\"]/desc"
 msgstr ""
+"Как и все остальное нестабильное оружие, эта штука часто ведет себя не так, "
+"как положено. В таком случае - удачи в попадании по цели. Данный экземпляр "
+"был модифицирован так, чтобы создавать пробоины вместо нанесения урона. "
+"Выпускает 5 снарядов."
 
 #: src-en/data/blueprints.xml.append:7391
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_UNSTABLE_ADAMANTINE_COMBAT\"]/title"
-msgstr ""
+msgstr "Адамантиновый нестабильный осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:7495
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE_ROSEGOLD\"]/title"
-msgstr ""
+msgstr "Розово-золотой нестабильный осколочный боевой дрон"
 
 #: src-en/data/blueprints.xml.append:7496
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE_ROSEGOLD\"]/short"
-msgstr ""
+msgstr "РЗ нест. оск."
 
 #: src-en/data/blueprints.xml.append:7497
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_COMBAT_UNSTABLE_ROSEGOLD\"]/desc"
 msgstr ""
+"Как и все остальное нестабильное оружие, эта штука часто ведет себя не так, "
+"как положено. В таком случае - удачи в попадании по цели. Данный экземпляр "
+"был модифицирован так, чтобы контролировать разум вражеского экипажа вместо "
+"нанесения урона. Выпускает 7 снарядов."
 
 #: src-en/data/blueprints.xml.append:7512
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_UNSTABLE_ROSEGOLD_COMBAT\"]/title"
-msgstr ""
+msgstr "Розово-золотой нестабильный осколочный дрон"
 
 #: src-en/data/blueprints.xml.append:7569
 msgid ""
@@ -3706,22 +3930,24 @@ msgstr "Бомбовый осколочный дрон"
 #: src-en/data/blueprints.xml.append:7678
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_DRONE_SCRAPPER_SYNTHESISER\"]/title"
-msgstr ""
+msgstr "Синтезатор скрапперов"
 
 #: src-en/data/blueprints.xml.append:7679
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_DRONE_SCRAPPER_SYNTHESISER\"]/short"
-msgstr ""
+msgstr "Синтезатор"
 
 #: src-en/data/blueprints.xml.append:7680
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"TC_DRONE_SCRAPPER_SYNTHESISER\"]/desc"
 msgstr ""
+"Выпускает в сторону вражеского корабля ящики, в которых находится случайный "
+"скраппер."
 
 #: src-en/data/blueprints.xml.append:7695
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TC_DRONE_SCRAPPER_SYNTHESISER_WEAPON\"]/title"
-msgstr ""
+msgstr "Синтезатор скрапперов"
 
 #: src-en/data/blueprints.xml.append:7768
 msgid ""
@@ -3766,12 +3992,14 @@ msgstr "Дредноут скрапперов"
 #: src-en/data/blueprints.xml.append:7924
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SCRAPPER_3\"]/name"
-msgstr ""
+msgstr "Демонтажник"
 
 #: src-en/data/blueprints.xml.append:7925
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_SCRAPPER_3\"]/desc"
 msgstr ""
+"На этом корабле находятся исключительно Мусорщики, которые разработали "
+"уникальный способ уничтожения вражеского экипажа."
 
 #: src-en/data/blueprints.xml.append:7926
 msgid ""
@@ -3801,6 +4029,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER\"]/unlock"
 msgstr ""
+"Чтобы разблокировать этот корабль, обратитесь за советом к одному из принцев "
+"рода ланиусов по поводу некоего артефакта."
 
 #: src-en/data/blueprints.xml.append:8066
 msgid "data/blueprints.xml.append$//trash_eater[@name=\"Trash Eater\"]/@name"
@@ -3809,22 +4039,26 @@ msgstr "Пожиратель мусора"
 #: src-en/data/blueprints.xml.append:8079
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER_2\"]/class"
-msgstr ""
+msgstr "Корабль Архитектора"
 
 #: src-en/data/blueprints.xml.append:8080
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER_2\"]/name"
-msgstr ""
+msgstr "Экзо-Мех"
 
 #: src-en/data/blueprints.xml.append:8081
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER_2\"]/desc"
 msgstr ""
+"После первоначального поражения Архитектор усердно трудился над созданием "
+"нового, усовершенствованного крейсера."
 
 #: src-en/data/blueprints.xml.append:8082
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_TRASH_EATER_2\"]/unlock"
 msgstr ""
+"Чтобы разблокировать этот корабль, обратитесь за советом к определенному "
+"Архитектору по поводу определенного артефакта."
 
 #: src-en/data/blueprints.xml.append:8147
 msgid "data/blueprints.xml.append$//unique_zog[@name=\"Zog\"]/@name"
@@ -3833,52 +4067,57 @@ msgstr "Зог"
 #: src-en/data/blueprints.xml.append:8148
 msgid ""
 "data/blueprints.xml.append$//rosegold_scrapper_scavenger_mk2[@name=\"Ares\"]/@name"
-msgstr ""
+msgstr "Арес"
 
 #: src-en/data/blueprints.xml.append:8149
 msgid ""
 "data/blueprints.xml.append$//golden_scrapper_defender_mk2[@name=\"Thanatos\"]/@name"
-msgstr ""
+msgstr "Танатос"
 
 #: src-en/data/blueprints.xml.append:8150
 msgid ""
 "data/blueprints.xml.append$//adamantine_scrapper_heavy_soldier_mk2[@name=\"Artemis\"]/@name"
-msgstr ""
+msgstr "Артемида"
 
 #: src-en/data/blueprints.xml.append:8162
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL\"]/class"
-msgstr ""
+msgstr "Розово-золотой крейсер скрапперов"
 
 #: src-en/data/blueprints.xml.append:8163
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL\"]/name"
-msgstr ""
+msgstr "Коллективный разум"
 
 #: src-en/data/blueprints.xml.append:8164
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL\"]/desc"
 msgstr ""
+"Эта группа скрапперов получила от Архитектора в подарок совершенно "
+"уникальное техническое устройство, позволяющее им мгновенно уничтожать любую "
+"цель, находящуюся под контролем разума."
 
 #: src-en/data/blueprints.xml.append:8165
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL\"]/unlock"
-msgstr ""
+msgstr "Завершите вторую серию заданий Мусоропресса."
 
 #: src-en/data/blueprints.xml.append:8236
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL_2\"]/class"
-msgstr ""
+msgstr "Золотой крейсер скрапперов"
 
 #: src-en/data/blueprints.xml.append:8237
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL_2\"]/name"
-msgstr ""
+msgstr "Золотое Наслаждение"
 
 #: src-en/data/blueprints.xml.append:8238
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL_2\"]/desc"
 msgstr ""
+"Этот корабль покрыт специальной обшивкой, которая усиливает врожденную силу "
+"вашего экипажа."
 
 #: src-en/data/blueprints.xml.append:8239
 msgid ""
@@ -3888,17 +4127,19 @@ msgstr "Доберитесь до 5 сектора на типе A."
 #: src-en/data/blueprints.xml.append:8310
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL_3\"]/class"
-msgstr ""
+msgstr "Адамантиновый крейсер скрапперов"
 
 #: src-en/data/blueprints.xml.append:8311
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL_3\"]/name"
-msgstr ""
+msgstr "Металлический Коготь"
 
 #: src-en/data/blueprints.xml.append:8312
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_SHIP_ELEMENTAL_3\"]/desc"
 msgstr ""
+"Этот корабль создан для того, чтобы разгромить любого врага, осмелившегося "
+"вторгнуться на его территорию."
 
 #: src-en/data/blueprints.xml.append:8313
 msgid ""
@@ -4900,11 +5141,11 @@ msgstr "1.5x скорость саботажа"
 
 #: src-en/data/blueprints.xml.append:12245
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_zog\"]/title"
-msgstr ""
+msgstr "Архитектор"
 
 #: src-en/data/blueprints.xml.append:12246
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_zog\"]/short"
-msgstr ""
+msgstr "Архитектор"
 
 #: src-en/data/blueprints.xml.append:12247
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_zog\"]/desc"
@@ -4921,6 +5162,8 @@ msgstr "Максимальное здоровье увеличено до 200"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_zog\"]/powerList/power[2]"
 msgstr ""
+"Активная способность: расходует 100 ОЗ, временно усиливая всех союзных "
+"скрапперов и ослабляя Зога."
 
 #: src-en/data/blueprints.xml.append:12254
 msgid ""
@@ -5218,10 +5461,9 @@ msgid ""
 msgstr "Получает 0.5х урона от огня"
 
 #: src-en/data/blueprints.xml.append:12385
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_soldier\"]/powerList/power[5]"
-msgstr "Получает 0.5х урона от огня"
+msgstr "Не может обслуживать или ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:12386
 msgid ""
@@ -5401,10 +5643,9 @@ msgid ""
 msgstr "Получает 0.5х урона от огня"
 
 #: src-en/data/blueprints.xml.append:12458
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy\"]/powerList/power[6]"
-msgstr "Получает 0.5х урона от огня"
+msgstr "Не может обслуживать и ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:12459
 msgid ""
@@ -5462,10 +5703,9 @@ msgid ""
 msgstr "Получает 0.5х урона от огня"
 
 #: src-en/data/blueprints.xml.append:12480
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"scrapper_heavy_mk2\"]/powerList/power[6]"
-msgstr "Получает 0.5х урона от огня"
+msgstr "Не может обслуживать и ремонтировать системы"
 
 #: src-en/data/blueprints.xml.append:12481
 msgid ""
@@ -6758,10 +6998,12 @@ msgstr ""
 "ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:12984
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"golden_scrapper_medic\"]/powerList/power[2]"
-msgstr "Получает 0.5х урона от огня"
+msgstr ""
+"[Специализация] Восстанавливает союзникам 50 здоровья за счет 50 "
+"собственного здоровья. Время перезарядки - 45 секунд. Восстанавливает 1 "
+"заряд за каждый прыжок."
 
 #: src-en/data/blueprints.xml.append:12985
 msgid ""
@@ -6982,17 +7224,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:13054
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper\"]/title"
-msgstr ""
+msgstr "Нефритово-стальной скраппер"
 
 #: src-en/data/blueprints.xml.append:13055
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper\"]/short"
-msgstr ""
+msgstr "НС. скраппер"
 
 #: src-en/data/blueprints.xml.append:13056
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper\"]/desc"
 msgstr ""
+"Уииииии!\n"
+"\n"
+"\tМожно модернизировать с помощью Продвинутого переработчика лома.\n"
+"\tСо временем станет самым мощным скраппером из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:13065
 msgid ""
@@ -7033,21 +7279,27 @@ msgstr "1х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper\"]/powerList/power[8]"
 msgstr ""
+"Может раскрыть свой потенциал, временно становясь неуправляемым, но "
+"значительно повышая свои характеристики"
 
 #: src-en/data/blueprints.xml.append:13077
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_2\"]/title"
-msgstr ""
+msgstr "Усиленный нефритово-стальной скраппер"
 
 #: src-en/data/blueprints.xml.append:13078
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_2\"]/short"
-msgstr ""
+msgstr "У. НС скраппер"
 
 #: src-en/data/blueprints.xml.append:13079
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_2\"]/desc"
 msgstr ""
+"Уииииии!\n"
+"\n"
+"\tМожно модернизировать с помощью Продвинутого переработчика лома.\n"
+"\tСо временем станет самым мощным скраппером из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:13088
 msgid ""
@@ -7088,21 +7340,27 @@ msgstr "1х скорость передвижения"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_2\"]/powerList/power[8]"
 msgstr ""
+"Может раскрыть свой потенциал, временно становясь неуправляемым, но "
+"значительно повышая свои характеристики"
 
 #: src-en/data/blueprints.xml.append:13100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_3\"]/title"
-msgstr ""
+msgstr "Усиленный нефритово-стальной скраппер"
 
 #: src-en/data/blueprints.xml.append:13101
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_3\"]/short"
-msgstr ""
+msgstr "У. НС скраппер"
 
 #: src-en/data/blueprints.xml.append:13102
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_3\"]/desc"
 msgstr ""
+"Зумми.\n"
+"\n"
+"\tМожно модернизировать с помощью Продвинутого переработчика лома.\n"
+"\tСо временем станет самым мощным скраппером из когда-либо созданных."
 
 #: src-en/data/blueprints.xml.append:13111
 msgid ""
@@ -7117,7 +7375,7 @@ msgstr "Получает 0.5х урона от огня"
 #: src-en/data/blueprints.xml.append:13113
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_3\"]/powerList/power[3]"
-msgstr ""
+msgstr "Наносит 3х урона в бою"
 
 #: src-en/data/blueprints.xml.append:13114
 msgid ""
@@ -7142,27 +7400,33 @@ msgstr "1х скорость передвижения"
 #: src-en/data/blueprints.xml.append:13118
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_3\"]/powerList/power[8]"
-msgstr ""
+msgstr "Атакует немного быстрее"
 
 #: src-en/data/blueprints.xml.append:13119
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_3\"]/powerList/power[9]"
 msgstr ""
+"Может раскрыть свой потенциал, временно становясь неуправляемым, но "
+"значительно повышая свои характеристики"
 
 #: src-en/data/blueprints.xml.append:13124
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_4\"]/title"
-msgstr ""
+msgstr "Божественный нефритово-стальной скраппер"
 
 #: src-en/data/blueprints.xml.append:13125
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_4\"]/short"
-msgstr ""
+msgstr "Б. НС скраппер"
 
 #: src-en/data/blueprints.xml.append:13126
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_4\"]/desc"
 msgstr ""
+"Невероятно быстрый.\n"
+"\n"
+"\tМожно модернизировать с помощью Продвинутого переработчика лома.\n"
+"\tОн вот-вот станет самым сильным скраппером, которого когда-либо создавали."
 
 #: src-en/data/blueprints.xml.append:13135
 msgid ""
@@ -7177,7 +7441,7 @@ msgstr "Получает 0.5х урона от огня"
 #: src-en/data/blueprints.xml.append:13137
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_4\"]/powerList/power[3]"
-msgstr ""
+msgstr "Наносит 4х урона в бою"
 
 #: src-en/data/blueprints.xml.append:13138
 msgid ""
@@ -7202,27 +7466,29 @@ msgstr "1х скорость передвижения"
 #: src-en/data/blueprints.xml.append:13142
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_4\"]/powerList/power[8]"
-msgstr ""
+msgstr "Атакует очень быстро"
 
 #: src-en/data/blueprints.xml.append:13143
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_4\"]/powerList/power[9]"
 msgstr ""
+"Может раскрыть свой потенциал, временно становясь неуправляемым, но "
+"значительно повышая свои характеристики"
 
 #: src-en/data/blueprints.xml.append:13148
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_5\"]/title"
-msgstr ""
+msgstr "Омеговый нефритово-стальной страппер"
 
 #: src-en/data/blueprints.xml.append:13149
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_5\"]/short"
-msgstr ""
+msgstr "О. НС скраппер"
 
 #: src-en/data/blueprints.xml.append:13150
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_5\"]/desc"
-msgstr ""
+msgstr "Вершина развития скрапперов."
 
 #: src-en/data/blueprints.xml.append:13155
 msgid ""
@@ -7237,7 +7503,7 @@ msgstr "Получает 0.5х урона от огня"
 #: src-en/data/blueprints.xml.append:13157
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_5\"]/powerList/power[3]"
-msgstr ""
+msgstr "Наносит 5х урона в бою"
 
 #: src-en/data/blueprints.xml.append:13158
 msgid ""
@@ -7262,12 +7528,14 @@ msgstr "1х скорость передвижения"
 #: src-en/data/blueprints.xml.append:13162
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_5\"]/powerList/power[8]"
-msgstr ""
+msgstr "Атакует чрезвычайно быстро"
 
 #: src-en/data/blueprints.xml.append:13163
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"jadesteel_scrapper_5\"]/powerList/power[9]"
 msgstr ""
+"Может раскрыть свой потенциал, временно становясь неуправляемым, но "
+"значительно повышая свои характеристики"
 
 #: src-en/data/blueprints.xml.append:13170
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"human_phoenix\"]/desc"
